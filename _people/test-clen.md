@@ -1,9 +1,9 @@
-----
+---
 uid:                barbora.hruzova
 name:               Barbora Hrůzová  	# běžně používáné jméno
 fullname: 			Barbora Hrůzová   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
-- praha6
+- praha4
 - clen
 - carousel
 img: 		        people/barbora-hruzova.jpg    # 165 x 220
