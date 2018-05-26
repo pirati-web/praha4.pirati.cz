@@ -13,7 +13,7 @@ layout: default
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#zastupitele" class="c-simple-accordion-title">Místní předsednictvo</a>
                                   <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'praha6'"  | where_exp:"item","item.categories contains 'mp'" | sort:"ordpraha" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'praha4'"  | where_exp:"item","item.categories contains 'mp'" | sort:"ordpraha" %}
                                         {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
@@ -22,7 +22,7 @@ layout: default
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#rp" class="c-simple-accordion-title">Členové</a>
                                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha6'" | where_exp:"item","item.categories contains 'clen'" | sort:"ordpraha" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha4'" | where_exp:"item","item.categories contains 'clen'" | sort:"ordpraha" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
@@ -31,7 +31,7 @@ layout: default
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#senat" class="c-simple-accordion-title">Podporovatelé</a>
                                   <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha6'" |  where_exp:"item","item.categories contains 'podporovatel'" | sort:"ordsenat" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha4'" |  where_exp:"item","item.categories contains 'podporovatel'" | sort:"ordsenat" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>

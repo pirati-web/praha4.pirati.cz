@@ -41,7 +41,7 @@
             <i class="fa fa-search" aria-hidden="true"></i>
           </button>
         </li>
-      </ul>
+      </ul> 
       {% if page.url != '/' %}
       <div class="top-bar-title">
         <a href="{{ '/' | relative_url }}">
@@ -63,11 +63,11 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
-              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
+              <!--<li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
-              </li>
+              </li>-->
               <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
-                <a href="{{ '/lide/' | relative_url }}">Piráti na šestce</a>
+                <a href="{{ '/lide/' | relative_url }}">Piráti na čtyřce</a>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
