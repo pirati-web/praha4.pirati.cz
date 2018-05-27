@@ -1,8 +1,8 @@
 title: Piráti Praha 4
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-baseurl: "/praha4.pirati.cz" # the subpath of your site, e.g. /blog
-url: "https://eghuro.github.io/praha4.pirati.cz" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha4.pirati.cz" # the base hostname & protocol for your site
 
 markdown: kramdown
 
