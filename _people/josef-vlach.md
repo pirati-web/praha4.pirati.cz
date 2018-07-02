@@ -1,12 +1,14 @@
 ---
+uid:            josef.vlach
 name:           Josef Vlach  	# běžně používáné jméno
 fullname: 	    Josef Vlach  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - carousel
 img: 		        people/josef-vlach.jpg    # 165 x 220
-description:    Příznivec Pirátů a věčný optimista. # kratký popis, max 160 znaků
+description:    Člen Pirátů na Praze 4 a věčný optimista. # kratký popis, max 160 znaků
 mail:
+- josef.vlach@pirati.cz
 mob: 			
 profiles:
   facebook:
@@ -17,7 +19,7 @@ ordcar: 3
 carousel:
   img: josef-vlach.jpg
   text: |
-    <p>Příznivec Pirátů a věčný optimista. # kratký popis, max 160 znaků.</p>
+    <p>Člen Pirátů na Praze 4 a věčný optimista. # kratký popis, max 160 znaků.</p>
 ---
 Narodil jsem se v květnu roku 1979 v Praze a té jsem zůstal věrný. Bydlím na P4 v Krči, jsem ženatý a mám krásné dvě dcery.
 Úspěšně jsem, v Praze Holešovicích, vystudoval střední školu obchodní. Mezi mé koníčky patří hlavně sport (fotbal, kolo),
