@@ -1,1 +1,29 @@
-
+{% if page.url contains 'program' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> <a href="{{'/program/' | relative_url }}">Program</a> </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/magistrat.html' | relative_url }}">Magistrát 2018</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/priority.html' | relative_url }}">Priority Prahy 4</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/detail.html' | relative_url }}">Detailni program P4</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/strategie.html' | relative_url }}">Povolební strategie P4</a>
+            &nbsp;
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% endif %}

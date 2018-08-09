@@ -18,7 +18,7 @@ layout: default
                                   </div>
                               </li>
                           </ul>
-                          <!--<ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#rp" class="c-simple-accordion-title">Členové</a>
                                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
@@ -29,13 +29,13 @@ layout: default
                           </ul>
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                  <a href="#senat" class="c-simple-accordion-title">Podporovatelé</a>
+                                  <a href="#senat" class="c-simple-accordion-title">Aktivní příznivci</a>
                                   <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                       {% assign team = site.people | where_exp:"item","item.categories contains 'praha4'" |  where_exp:"item","item.categories contains 'podporovatel'" | sort:"ordsenat" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
-                          </ul>-->
+                          </ul>
                         </div>
                     </div>
                 </main>

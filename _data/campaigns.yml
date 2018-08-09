@@ -1,0 +1,10 @@
+# Campaigns are grouped, this usually reperesents situation when multiple
+# election campaings are held at the same time (which saves $$$ for the country).
+
+- groupUid: volby-2018  # identifier of the group, to be used in program point
+  title: Program     # title of the campaign group
+  campaigns:
+    - title: Magistrát 2018   # individual campaigns within the group
+      categoryUid: praha2018
+    - title: MČ Praha 4
+      categoryUid: praha4

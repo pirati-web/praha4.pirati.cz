@@ -31,7 +31,8 @@
 </aside>
 <div class="c-top-bar">
   <div class="row">
-    <div class="c-top-bar-inner u-cf">
+    <div class="c-top-bar-inner u-cf">		
+<!--
       <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
         <li>
           <input type="search" id="search" placeholder="Hledaný výraz">
@@ -49,6 +50,7 @@
         </a>
       </div>
       {% endif %}
+-->
       <div class="menu-toggle-container hide-for-large">
         <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
           <button class="" type="button" data-toggle="">
@@ -63,18 +65,31 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
-              <!--<li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
+              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
-              </li>-->
-              <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
-                <a href="{{ '/lide/' | relative_url }}">{{site.title}}</a>
-              </li><!--
+              </li>
+              <li{% if page.url contains 'kandidatka' %} class="is-active"{% endif %}>
+              <a href="{{ '/kandidatka/' | relative_url }}">Kandidátka</a>
+              </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
-              </li>-->
+              </li>
+              <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
+                <a href="{{ '/lide/' | relative_url }}">Členové Prahy 4</a>
+              </li>
+              <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
+                <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
+              </li>
+
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
+              {% if site.data.links.parent_group %}
+              <li>
+                <a href="{{ site.data.links.parent_group.web_url }}" target="_blank">
+                <strong><i class="fa fa-home" aria-hidden="true"></i> {{ site.data.links.parent_group.name }}</strong></a>
+              </li>
+              {% endif %}
             </ul>
           </div>
         </div>

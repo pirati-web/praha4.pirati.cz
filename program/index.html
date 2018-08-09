@@ -1,0 +1,68 @@
+---
+layout: page
+img: miscellaneous/volebni-rozcestnik.png
+rbar: ""
+---
+
+<img src="{{ "/assets/img/program/naprahuzmeny2.jpg" | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
+<section class="o-section o-section--spaceBot">
+  <div class="o-section-inner">
+    <div class="o-section-block">
+      <div class="c-BasicPage">
+        <div class="c-BasicPage-content">
+          <h2>Prosazujeme:</h2>
+<table> 
+<tr>         
+<td><img src="{{'/assets/img/program/icons/radnice-01.svg' | relative_url }}" alt="ikona" height="168" width="168"><td><strong>Transparentní a profesionální radnice</strong>
+Jedině veřejná kontrola zajistí, že si kmotři nerozdělí Prahu. To prosazujeme už čtyři roky. Město nebude informace tajit, ale zveřejňovat. Zavedeme transparentní účty města. Prosadíme otevřená výběrová řízení, aby městské firmy řídili odborníci, ne političtí trafikanti.
+</tr>
+<tr>
+<td><img src="{{'/assets/img/program/icons/metropole-01.svg' | relative_url }}" alt="ikona" height="168" width="168"><td><strong>Digitální metropole</strong>
+Zavedeme uživatelsky přívětivý úřad. Z jedné internetové stránky půjde vše vyřídit nebo se objednat na kamenný úřad bez front. Co úředník potřebuje, to si sám zjistí. Pomocí internetu umožníme občanům hodnotit služby a dávat podněty úředníkům a politikům.
+</tr>
+<tr>
+<td><img src="{{'/assets/img/program/icons/zivotni-prostredi.svg' | relative_url }}" alt="ikona" height="168" width="168"><td><strong>Čisté a zdravé město</strong>
+Proti vedrům pomohou stromy a voda. Zeleň místo betonu vyčistí vzduch. Vysadíme více stromů v ulicích. Podpoříme zelené střechy a další opatření proti betonové džungli. Pítka a kašny osvěží Prahu. Třídění odpadu musí být pohodlné a musí se vyplatit.
+</tr>
+<tr>
+<td><img src="{{'/assets/img/program/icons/moderni%20rodina-1.svg' | relative_url }}" alt="ikona" height="168" width="168"><td><strong>Služby pro moderní rodinu</strong>
+Prosadíme, aby se stavělo více bytů a méně kanceláří. Městské byty nebudou pro prominenty, ale pro ty, kdo je skutečně potřebují. Developeři se budou podílet na nákladech na občanskou vybavenost spolu s městem. Podpoříme moderní a dostupné vzdělávání.
+</tr>
+</table>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="o-section o-section--spaceBot">
+  <div class="o-section-inner">
+    <div class="o-section-block">
+      <div class="c-BasicPage">
+        <div class="c-BasicPage-content">
+          <h2>Podrobný program:</h2>
+
+<div class="row small-up-2 medium-up-3 large-up-4">
+
+{% assign program = site.program | where: "campaignCategoryUid","praha2018" %}
+{% for item in program %}
+<div class="column column-block">
+  <a href="{{item.url | relative_url }}">
+    <img class="program-icon" src="{{ item.img | prepend: '/assets/img/program/psp2017/' | relative_url}}" alt="{{item.title}}" />
+    <center>
+    <h2>{{item.title}}</h2>
+    </center>
+  </a>
+</div>
+{% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+

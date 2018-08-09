@@ -1,13 +1,13 @@
 ---
 uid:                marek.paris
-name:               Marek Paris  	# běžně používáné jméno
+name:               Marek Paris, M.A.  	# běžně používáné jméno
 fullname: Marek Paris, M.A.   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - mp
 - carousel
 img: 		            people/marek-paris.jpg    # 165 x 220
-description:        Místopředseda Pirátů an Praze 4 # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
+description:        Místopředseda Pirátů an Praze 4, člen dozorčí rady VZP, datový analytik ve zdravotnictví # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
 mail:
 - marek.paris@pirati.cz
 mob: 				
@@ -17,6 +17,7 @@ profiles:
   flickr: 
 ordpraha: 4
 ordcar: 3
+ordcan: 4
 carousel:
   img: marek-paris.jpg
   text: |
