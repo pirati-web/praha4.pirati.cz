@@ -4,7 +4,10 @@ name:           Josef Vlach  	# běžně používáné jméno
 fullname: 	    Josef Vlach  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
+<<<<<<< HEAD
 - clen
+=======
+>>>>>>> gh-pages
 - carousel
 img: 		        people/josef-vlach.jpg    # 165 x 220
 description:    Člen Pirátů na Praze 4 a věčný optimista. # kratký popis, max 160 znaků
@@ -17,7 +20,10 @@ profiles:
   flickr: 
 ordpraha: 4
 ordcar: 3
+<<<<<<< HEAD
 ordcan: 5
+=======
+>>>>>>> gh-pages
 carousel:
   img: josef-vlach.jpg
   text: |

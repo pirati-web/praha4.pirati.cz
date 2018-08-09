@@ -1,10 +1,17 @@
 ---
 uid:                adam.jaros
+<<<<<<< HEAD
 name:               Mgr. Adam Jaroš  	# běžně používáné jméno
 fullname: 	    Mgr. Adam Jaroš (* červenec 1993)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - clen
+=======
+name:               Adam Jaroš  	# běžně používáné jméno
+fullname: 	    Mgr. Adam Jaroš (* červenec 1993)  # jméno s tituly etc.
+category:                       # kategorie: p6, cl
+- praha4
+>>>>>>> gh-pages
 - carousel
 img: 		        people/adam-jaros.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -15,9 +22,14 @@ profiles:
   facebook:
   twitter: 
   flickr: 
+<<<<<<< HEAD
 ordpraha: 9
 ordcar: 3
 ordcan: 9
+=======
+ordpraha: 4
+ordcar: 3
+>>>>>>> gh-pages
 carousel:
   img: adam-jaros.jpg
   text: |
