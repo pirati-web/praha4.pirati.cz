@@ -22,6 +22,8 @@ carousel:
   text: |
     <p>Místopředseda Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Honza Hora je třetím místopředsedou místního sdružení na Praze 4, má na starosti témata „Otevřená radnice“, „Doprava“ a „Bezpečnost“ a stará se o náš facebookový profil. Stejná témata jsou jeho prioritou i na úrovni magistrátu. Na celostátní úrovni je členem a koordinátorem pracovní skupiny k zákonu č. 119 (Zákon o zbraních) a k souvisejícím zákonům a normám.
+Už od počátku svých studií bydlím v Praze, letos to bude 14 let (z toho cca 10 let na Praze 4), i když původem jsem z malé vesničky ve Středočeském kraji. Vystudoval jsem aplikovanou informatiku na VŠE a povoláním jsem analytik/programátor. Postupně jsem pracoval pro několik menších i větších firem a v průběhu té doby jsem se zajímal  o politické dění a občas se do něj i aktivně zapojoval.
 
-Pochází ze Středočeského kraje, vystudoval aplikovanou informatiku na VŠE a povoláním je analytik/programátor. Už od počátku svých studií žije v Praze, letos to bude 14 let (z toho cca 10 let na Praze 4). Jeho hlavním koníčkem je japonské bojové umění Iaido, jejich dojo je od počátku na Praze 11, takže díky tomu má blízký vztah i k této městské části. Také se zabývá výrobou z kůže a střeleckým sportem. 
+Jsem třetím místopředsedou místního sdružení na Praze 4, mám na starosti témata „Otevřená radnice“, „Doprava“ a „Bezpečnost“. Stejná témata jsou mou prioritou i na úrovni magistrátu. Na celostátní úrovni jsem členem a koordinátorem pracovní skupiny k zákonu č. 119 (Zákon o zbraních) a k souvisejícím zákonům a normám.  V nedávné době jsem se zapojil i do činnosti zahraničního odboru při přípravě programu pro volby do Europarlamentu - rád bych přispěl k tvorbě pirátského programu v oblastech, spadajících pod výbory Security & Defence a IMCO.
+
+Mým hlavním koníčkem je japonské bojové umění iaidó, náš oddíl cvičí od svého počátku v roce 2009 na Praze 11, takže díky tomu mám blízký vztah i k této městské části. Také se zabývám výrobou drobností z kůže a střeleckým sportem.
