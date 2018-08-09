@@ -4,10 +4,7 @@ name:               Josef Kadleček  	# běžně používáné jméno
 fullname: 	    Josef Kadleček (* 1962)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
-<<<<<<< HEAD
 - clen
-=======
->>>>>>> gh-pages
 - carousel
 img: 		        people/josef-kadlecek.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -18,14 +15,9 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-<<<<<<< HEAD
-ordpraha: 16
-ordcar: 3
-ordcan: 16
-=======
-ordpraha: 4
-ordcar: 3
->>>>>>> gh-pages
+  ordpraha: 16
+  ordcar: 3
+  ordcan: 16
 carousel:
   img: josef-kadlecek.jpg
   text: |

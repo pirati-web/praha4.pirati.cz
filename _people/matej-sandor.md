@@ -1,17 +1,10 @@
 ---
 uid:                matej.sandor
-<<<<<<< HEAD
 name:               Judr. Matej Šandor, Ph.D.  	# běžně používáné jméno
 fullname: 	    Judr. Matej Šandor, Ph.D. (* 1984)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - clen
-=======
-name:               Matej Šandor  	# běžně používáné jméno
-fullname: 	    Mgr. Matej Šandor (* 1984)  # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha4
->>>>>>> gh-pages
 - carousel
 img: 		        people/matej-sandor.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -22,14 +15,9 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-<<<<<<< HEAD
 ordpraha: 6
 ordcar: 3
 ordcan: 6
-=======
-ordpraha: 4
-ordcar: 3
->>>>>>> gh-pages
 carousel:
   img: matej-sandor.jpg
   text: |

@@ -4,10 +4,7 @@ name:               Miloslav Bím  	# běžně používáné jméno
 fullname: 	    Miloslav Bím   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
-<<<<<<< HEAD
 - clen
-=======
->>>>>>> gh-pages
 - carousel
 img: 		        people/miloslav-bim.jpg    # 165 x 220
 description:    Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -18,14 +15,10 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-<<<<<<< HEAD
+
 ordpraha: 14
 ordcar: 3
 ordcan: 14
-=======
-ordpraha: 4
-ordcar: 3
->>>>>>> gh-pages
 carousel:
   img: miloslav-bim.jpg
   text: |

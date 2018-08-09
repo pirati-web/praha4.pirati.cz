@@ -3,10 +3,7 @@ name:           Karel Malý  	# běžně používáné jméno
 fullname: 	    Ing. Karel Malý (* 1958)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
-<<<<<<< HEAD
 - clen
-=======
->>>>>>> gh-pages
 - carousel
 img: 		        people/karel-maly.jpg    # 165 x 220
 description:        Příznivec Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -16,14 +13,9 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-<<<<<<< HEAD
 ordpraha: 18
 ordcar: 3
 ordcan: 18
-=======
-ordpraha: 4
-ordcar: 3
->>>>>>> gh-pages
 carousel:
   img: karel-maly.jpg
   text: |

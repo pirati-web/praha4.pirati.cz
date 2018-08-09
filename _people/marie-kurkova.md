@@ -1,17 +1,11 @@
 ---
 uid:                marie.kurkova
-<<<<<<< HEAD
+
 name:               Mgr. Marie Kurková  	# běžně používáné jméno
 fullname: 	    Mgr. Marie Anna Kurková (* červenec 1993)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - clen
-=======
-name:               Marie Kurková  	# běžně používáné jméno
-fullname: 	    Mgr. Marie Anna Kurková (* červenec 1993)  # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha4
->>>>>>> gh-pages
 - carousel
 img: 		        people/marie-kurkova.jpg    # 165 x 220
 description:        Členka Pirátů na Praze 4. # kratký popis, max 160 znaků
@@ -22,14 +16,10 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-<<<<<<< HEAD
+
 ordpraha: 15
 ordcar: 3
 ordcan: 15
-=======
-ordpraha: 4
-ordcar: 3
->>>>>>> gh-pages
 carousel:
   img: anna-kurkova.jpg
   text: |
