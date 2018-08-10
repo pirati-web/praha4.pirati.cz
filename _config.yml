@@ -1,5 +1,7 @@
 title: Piráti Praha 4
-email: to@pirati.cz
+administrator:
+  email: tibor.vansa@gmail.com
+email: tibor.vansa@gmail.com
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha4.pirati.cz" # the base hostname & protocol for your site
