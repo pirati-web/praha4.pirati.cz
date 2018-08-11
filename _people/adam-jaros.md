@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/adam-jaros.jpg    # 165 x 220
-description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
+description:        Člen Pirátů. Asistent výzkumu na Ústavu organické chemie a biochemie AV, kde zároveň pracuje na své dizertaci. Příležitostný lektor a popularizátor v oblasti chemie, podílel se například na organizování poslední mezinárdní olympiády v chemii. Mezi jeho koníčky patří především hudba, je aktivní muzikant a vášnivý posluchač, věda a technika, četba, zejména antiutopií, sci-fi a fantasy
 mail:
 - adam.jaros@pirati.cz
 mob: 			

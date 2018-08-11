@@ -1,11 +1,11 @@
 ---
 title: Bydlení a sociální služby
 campaignCategoryUid: praha4
-img: mistni-rozvoj.svg
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41531
+img: garant-vladka.jpg
+icon: mistni-rozvoj.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-garant: vit.simral
-relatives: []
+garant: vladka.sykorova
+ordprog: 6
 ---
 
 * V rámci stávajícího bytového fondu vyčleníme více bytů pro sociální bydlení. Sociální byty musí být dostupné pro osamělé rodiče pečující o nezletilé dítě, seniory s nízkými příjmy a zdravotně postižené. Zavedeme možnost podpory kvalitních učitelů městským bytem. 

@@ -29,7 +29,7 @@ odvětvích. Pracoval jsem v tuzemsku i v zahraničí, ať už jako zaměstnanec
 
 Domluvím se 4 jazyky.
 
-Byl jsem členem Strany zelených jsem přes deset let. Podílel jsem se takřka na všech volebních kampaních do zastupitelských
+Byl jsem členem Strany zelených přes deset let. Podílel jsem se takřka na všech volebních kampaních do zastupitelských
 sborů různých úrovní, angažoval jsem se v kauze Pošťák není pojišťovák, v happeningu pro záchranu zahrady v Nuslích, podílel
 jsem se na úklidu veřejných prostranství v Praze 4 atd.
 

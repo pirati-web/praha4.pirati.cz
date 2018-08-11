@@ -1,13 +1,13 @@
 ---
 uid:                marie.jelinkova
 name:               Ing. Marie Jelínková  	# běžně používáné jméno
-fullname: 	    Ing. Marie Jelínková (* červenec 1993)  # jméno s tituly etc.
+fullname: 	    Ing. Marie Jelínková (* červen 1966)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
 img: 		        people/marie-jelinkova.jpg    # 165 x 220
-description:        Nezávislá kandidátka na Praze 4. # kratký popis, max 160 znaků
+description:        Nezávislá kandidátka. Stojí za ní dlouholetá bezplatná pomoc občanům a spolkům (nejen v Praze) při obraně jejich domova, práva na ochranu zdraví a zdravého životního prostředí.  
 mail:
 mob: 			
 profiles:

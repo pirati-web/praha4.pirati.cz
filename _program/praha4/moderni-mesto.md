@@ -1,11 +1,12 @@
 ---
 title: Moderní služby občanům
 campaignCategoryUid: praha4
-img: informatika.svg
+img: marek-sluzby.jpg	
+icon: metropole-01.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42745 
-garant: ondrej.profant
-relatives:
+garant: marek.paris
+ordprog: 4
+
 ---
 
 * **Zdigitalizujeme úřední procesy** a odlehčíme tím občanům i úředníkům.

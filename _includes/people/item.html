@@ -11,7 +11,11 @@
         {% endif %}
         <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
       </h2>
+      {% if page.title == 'Připoj se' or page.title == 'Kontaktní informace' %}	
+      <p>{{item.contact_description}}</p>
+      {% else %}
       <p>{{item.description}}</p>
+      {% endif %}	
       {% if item.mob or item.mail %}
       <p>
         {{item.mob}}<br>

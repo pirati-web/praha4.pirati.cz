@@ -3,10 +3,13 @@ uid:                tibor.vansa
 name:               Mgr. Tibor Vansa  	# běžně používáné jméno
 fullname: 	    Mgr. Tibor Vansa   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
+- predseda
 - praha4
 - mp
 - carousel
+- kontakt
 img: 		        people/tibor-vansa.jpg    # 165 x 220
+contact_description: Předseda Pirátů na Praze 4
 description:        Předseda Pirátů na Praze 4 a  garant programového bodu Finance. # kratký popis, max 160 znaků
 mail:
 - tibor.vansa@pirati.cz
@@ -27,7 +30,7 @@ Tibor Vansa (*listopad 1983) je předseda Pirátů na Praze 4 a garant programov
 
 V Praze 4 žiji od dob svých studií na Matematicko-fyzikální fakultě UK, kde jsem absolvoval obor ekonometrie. Poté jsem pracoval  8 let v bance jako analytik rizikovosti klientů. V rámci své pozice jsem také řídil správu a vývoje databází, vypracovával  makroekonomické modely nebo připravoval retailový rozpočet banky. Když jsem se stal v lednu lídrem na Praze 4, podal jsem výpověď a od té doby se snažím proniknout do práce zastupitele. Nechci si to jen odsedět, ale začít věci hned od začátku měnit, a to bez důkladné průpravy nelze.
 
-Nepřícházíme věci bořit a vymýšlet znovu věci vymyšlené,  ale navázat na práci našich předchůdců. Chceme  ale Prahu 4 rozvíjet koncepčně, hospodárně, s maximální kontrolou a zapojením veřejnosti. Léta se hovoří o zbudování zařízení pro seniory v Hudečkově ulici. Jenže se o tom dohaduje  v kuchyňce, za zavřenými dveřmi a ještě se nekoplo do země. Takovýto postup nepřipustíme.
+Nepřicházíme věci bořit a vymýšlet znovu věci vymyšlené,  ale navázat na práci našich předchůdců. Chceme  ale Prahu 4 rozvíjet koncepčně, hospodárně, s maximální kontrolou a zapojením veřejnosti. Léta se hovoří o zbudování zařízení pro seniory v Hudečkově ulici. Jenže se o tom dohaduje  v kuchyňce, za zavřenými dveřmi a ještě se nekoplo do země. Takovýto postup nepřipustíme.
 
 Jsem ženatý a mám 4-letou dceru. Nevlastním auto a slibuji, že do práce budu jezdit buďto v MHD nebo na koloběžce. Žiji v družstevním bytě mého otce na Pankráci, s manželkou máme něco našetřeno, dříve by to stačilo na skromnou garsonku, dnes už asi ne.
 

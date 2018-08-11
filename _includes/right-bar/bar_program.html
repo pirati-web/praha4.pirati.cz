@@ -1,3 +1,24 @@
+{% if page.garant %}
+<div class="o-section-block--spaceBot">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Garant</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          <div id="garant"></div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{% endif %}
+
+
 {% if page.campaignGroupUid %}
   {% assign campaignGroup = site.data.campaigns | where: "groupUid", page.campaignGroupUid | first %}
 {% endif %}

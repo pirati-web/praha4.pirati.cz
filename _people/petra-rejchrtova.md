@@ -1,13 +1,14 @@
 ---
 uid:                petra.rejchrtova
 name:               Mgr. Petra Rejchrtová  	# běžně používáné jméno
-fullname: 	    Mgr. Petra Rejchrtová (* červenec 1993)  # jméno s tituly etc.
+fullname: 	    Mgr. Petra Rejchrtová (* září 1969)  # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
-description:        Nezávislá kandidátka na Praze 4. # kratký popis, max 160 znaků
+description:        Nezávislá kandidátka. Komunální politička s 8 letou praxí neuvolněné zastupitelky. Usiluje o regulační plány pro stanice metra D i další rozvojové plochy, prosazuje nezastavitelnost důležitých zelených ploch včetně izolační zeleně kolem velkých komunikací.
+
 mail:
 mob: 			
 profiles:

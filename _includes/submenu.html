@@ -11,9 +11,12 @@
           <li class="c-top-sub-nav__item">
             <a href="{{'/program/magistrat.html' | relative_url }}">Magistrát 2018</a>
           </li>
+	   {% assign program = site.program | where: "campaignCategoryUid","priority4" %}
+	   {% for item in program %}		
           <li class="c-top-sub-nav__item">
-            <a href="{{'/program/priority.html' | relative_url }}">Priority Prahy 4</a>
+            <a href="{{item.url | relative_url }}" >Priority Prahy 4</a>
           </li>
+   	   {% endfor %}
           <li class="c-top-sub-nav__item">
             <a href="{{'/program/detail.html' | relative_url }}">Detailni program P4</a>
           </li>

@@ -1,9 +1,10 @@
 ---
 title: Doprava a parkování
 campaignCategoryUid: praha4
-img: doprava.svg
+img: honza-doprava.jpg
+icon: parking house.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
+ordprog: 5
 garant: honza.hora 
 ---
 

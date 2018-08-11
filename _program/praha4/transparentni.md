@@ -1,10 +1,11 @@
 ---
 title: Transparentní hospodaření
 campaignCategoryUid: praha4
-img: radnice-01.png
+img: transparentni-matej.jpg
+icon: vnitro a otevreny stat.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: ondrej.profant
+ordprog: 2
+garant: matej.sandor
 relatives:
 ---
 

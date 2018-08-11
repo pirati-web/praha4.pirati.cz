@@ -3,16 +3,19 @@ uid:                honza.hora
 name:               Ing. Honza Hora  	# běžně používáné jméno
 fullname: 	    Ing. Jan Hora   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
+- koordinator
 - praha4
 - mp
 - carousel
+- kontakt
 img: 		        people/jan-hora.jpg    # 165 x 220
-description:        Místopředseda Pirátů na Praze 4, programátor a analytik # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
+contact_description: koordinátor dobrovolníků, místopředseda Pirátů na Praze 4
+description:        Místopředseda Pirátů na Praze 4, programátor a analytik Místopředseda Pirátů na Praze 4. Doprava ve městě vyžaduje skloubit dohromady zájmy rodin a firem, automobilistů, cyklistů a pěších, ekologie a potřeb lidí. Já nejsem fanatik a uvědomuji si, že každá forma dopravy má ve městě své místo a je potřeba hledat rovnováhu, která bude městu pomáhat a nebude ho ničit. 
 mail:
 - honza.hora@pirati.cz
-mob:	775 608 734		
+mob:	+420 775 608 734		
 profiles:
-  facebook:
+  facebook: 
   twitter: 
   flickr: 
 ordpraha: 2

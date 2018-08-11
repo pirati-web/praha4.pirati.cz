@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
+description:        Člen Pirátů. Nejprve působil jako manažer v oblasti nákupu a veřejných zakázek, později zodpovídal za řízení stamiliónových zakázek i v komerční sféře. Aktuálně se věnuje právnické profesi, na celorepublikové úrovni se zajímá o mezinárodní politiku a vztahy s EU. 
 mail:
 - matej.sandor@pirati.cz
 mob: 			

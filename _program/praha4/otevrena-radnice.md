@@ -1,10 +1,11 @@
 ---
 title: Otevřená radnice
 campaignCategoryUid: praha4
-img: vnitro.png
+img: viktor-otevrena.jpg
+icon: radnice-01.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: ondrej.profant
+garant: viktor.derka
+ordprog: 1
 relatives:
 ---
 

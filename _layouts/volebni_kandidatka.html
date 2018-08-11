@@ -42,7 +42,7 @@ layout: default
                                     </option>
                                     {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
                                     {% for item in myteams%}
-                                    {% if site.data.elections.y2017[item.uid] %}
+                                    {% if site.data.elections.y2018[item.uid] %}
                                     <option value="{{item.uid | prepend: 'volby/2017/' | relative_url}}">
                                         {{item.name}}
                                     </option>

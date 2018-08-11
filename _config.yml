@@ -41,6 +41,9 @@ collections:
   program:
     output: true
     permalink: /program/:path/
+  elections:
+    output: true
+    permalink: /elections/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -63,6 +66,11 @@ defaults:   # defaults values for collection scope
       rbar: 
       #         - garant
          - program
+  -
+    scope:
+      path: "_elections"
+    values:
+      layout: "kandidatka"
 
 calendar:
 fb: https://www.facebook.com/PiratiPraha4/
