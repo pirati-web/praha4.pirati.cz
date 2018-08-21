@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - kontakt
 img: 		        people/jan-hora.jpg    # 165 x 220
 contact_description: koordinátor dobrovolníků, místopředseda Pirátů na Praze 4
-description:        Místopředseda Pirátů na Praze 4, vystudoval jsem aplikovanou informatiku na VŠE, povoláním je programátor a analytik. Je garantem programového bodu "Doprava" pro městskou část Praha 4. Má za úkol skloubit potřeby dopravy veřejné a dopravy individuální, kam patří nejen motoristé, ale i cyklodoprava a další formy individuální dopravy. Na celostátní úrovni koordinuje pirátskou pracovní skupinu k problematice zákona o zbraních (a souvisejících zákonů) a je též členem pirátské pracovní skupiny "Obrana a bezpečnost".
+description:        Místopředseda Pirátů na Praze 4, vystudoval jsem aplikovanou informatiku na VŠE, povoláním je programátor a analytik. Je garantem programového bodu Doprava pro městskou část Praha 4. Má za úkol skloubit potřeby dopravy veřejné a dopravy individuální, kam patří nejen motoristé, ale i cyklodoprava a další formy individuální dopravy. Na celostátní úrovni koordinuje pirátskou pracovní skupinu k problematice zákona o zbraních (a souvisejících zákonů) a je též členem pirátské pracovní skupiny Obrana a bezpečnost.
 mail:
 - honza.hora@pirati.cz
 mob:	+420 775 608 734		
