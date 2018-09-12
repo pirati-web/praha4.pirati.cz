@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/viktor-derka.jpg    # 165 x 220
-description:        Člen Pirátů. právník specializující se na právo na informace, problematiku správního a ústavního práva. Na Praze nám pomáhá v sisyfofském boji získávat materiály o činnosti radnice.
+description:        Člen Pirátů. Právník specializující se na právo na informace, problematiku správního a ústavního práva. Na Praze nám pomáhá v sisyfofském boji získávat materiály o činnosti radnice.	
 mail:
 - viktor.derka@pirati.cz
 mob: 			
