@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/vladka-sykorova.jpg    # 165 x 220
-description:    Členka Pirátů. Pracuje ve státní správě od roku 2004, poslední bezmála tři roky vede sporná správní řízení. Jako matka (samoživitelka) dvou dcer dobře ví, jaké to je mít hluboko do kapsy. Absolvovala Bakalářské studium na Metropolitní univerzitě – Právní specializaci ve veřejné správě. Ráda by se zaměřila na rozšíření bezplatné právní poradny pro lidi v socialni nouzi a v dluhové pasti, především pro rodiny s dětmi a seniory. # kratký popis, max 160 znaků
+description:    Členka Pirátů. Od roku 2004 pracuje ve státní správě, poslední bezmála tři roky vede sporná správní řízení. Jako matka (samoživitelka) dvou dcer dobře ví, jaké to je mít hluboko do kapsy. Ráda by se zaměřila na rozšíření bezplatné právní poradny pro lidi v socialni nouzi a v dluhové pasti, především pro rodiny s dětmi a seniory.	
 mail:
 mob: 			
 profiles:
