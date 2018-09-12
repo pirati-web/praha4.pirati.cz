@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Člen Pirátů. Působil jako právník, později jako manažer v oblasti nákupu a veřejných zakázek včetně řízení stamiliónových zakázek a následně v oblasti bankovního managementu. Aktuálně se věnuje právnické profesi, na celorepublikové úrovni se zajímá o mezinárodní politiku a vztahy s EU.
+description:        Člen Pirátů. Působil jako právník, později jako manažer v oblasti nákupu a veřejných zakázek včetně řízení stamiliónových zakázek a následně v oblasti bankovního managementu. Aktuálně se věnuje právnické profesi a zajímá o mezinárodní politiku a vztahy s EU.	
 mail:
 - matej.sandor@pirati.cz
 mob: 			
