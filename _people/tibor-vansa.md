@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - kontakt
 img: 		        people/tibor-vansa.jpg    # 165 x 220
 contact_description: Předseda Pirátů na Praze 4
-description:        Předseda Pirátů na Praze 4 a  garant programového bodu Finance. # kratký popis, max 160 znaků
+description:        Předseda Pirátů na Praze 4, kandidát na starostu. Ve straně působí 2 roky, je odborným garantem celostátního programového bodu finance.	 # kratký popis, max 160 znaků
 mail:
 - tibor.vansa@pirati.cz
 mob: +420 776 555 622				
