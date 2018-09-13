@@ -15,7 +15,7 @@ garant: tibor.vansa
 
 ### Moderní služby občanům
 * Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům.
-* Umožníme se **	objednat na úřad na konkrétní čas.** 
+* Umožníme se **objednat na úřad na konkrétní čas.** 
 * Zavedeme a zveřejníme jasná **měřitelná kritéria kvality služeb občanům** (např. průměrná délka stavebního řízení), podle kterých nastavíme systém odměňování úředníků
 
 ### Kvalitní veřejný prostor, metro D a parkování
