@@ -17,7 +17,7 @@ politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě
 
 
 * **Občanské podněty** budeme nejen sbírat, ale také zveřejňovat proces jejich řešení. I proto budeme občany informovat, kdo konkrétně je za řešení daného podnětu zodpovědný a jaký bude následný postup.
-* Na **přenos z jednání zastupitelstva** se podíváte i ze záznamu - nebudete již limitováni svojí pracovní dobou.
+* Na **přenos z jednání zastupitelstva** se podíváte i ze záznamu - nebudete již limitováni svou pracovní dobou.
 * Všechna **jednání komisí** a výborů budou **přístupná veřejnosti.** Všechny zápisy z jejich jednání pak budou zveřejněny na webových stránkách.
 * Zavedeme **rozklikávací rozpočet až na fakturu**. Obsah smlouvy nebude tvořen jednou větou, ale celou specifikací. Všechny obchodní smlouvy včetně dodatků zveřejníme na webu. Platit to bude i pro městské akciové a příspěvkové společnosti. 
 * **Ukážeme data veřejnosti.** Přehled faktur a nájemních smluv, analýzy, které si město nechává zpracovat - to vše a mnohé další údaje budou na portálu otevřených dat.
