@@ -16,7 +16,7 @@ ordprog: 7
 * **Kvalita i pro předškolní děti** - Finančně podpoříme vznik a existenci dětských skupin. Budeme hledat shodu mezi potřebami rodičů, učitelů a kapacitními možnostmi tak, aby byl zajištěn i dostatečný letní provoz mateřských škol.
 Podpoříme učitele dějepisu, kteří ve výuce dají  více prostoru moderním dějinám 20.století než pravěku. 
 
-### Kultura odspodu a ve ve5ejn0m prostoru
+### Kultura odspodu a ve veřejném prostoru
 * **Podpoříme občany v pořádání kulturních a sousedských akcí.** Zjednodušíme byrokracii potřebnou pro krátkodobé zábory veřejných prostranství a podpoříme komunitní akce menších rozměrů. 
 * **Zkulturníme veřejné prostory instalací uměleckých děl.** Provedeme inventarizaci uměleckých děl ve veřejném prostoru a zasadíme se o jejich restaurování a údržbu. 
 * **Zrekonstruujeme Dominikánský dvůr** a najdeme pro něj smysluplné využití. 
