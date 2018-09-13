@@ -17,8 +17,8 @@ Na školách zavedeme pravidelná školení a poradenství pro učitele a žáky
 
 
 ### Sport a volný čas
-* Nastavíme spravedlivý systém, ve kterém budou jasně vymezená pravidla a možnosti k získání grantových prostředků na programy v oblasti sportu a volnočasového vyžití.
+* Nastavíme spravedlivý systém, ve kterém budou jasně vymezená pravidla a možnosti získání grantových prostředků na programy v oblasti sportu a volnočasového vyžití.
 * Postaráme se o úpravu dětských hřišť, sportovišť a parků pro seniory tak, aby odrážely i **demografické potřeby konkrétních oblastí.** 
-* Nabídneme volnočasové aktivity mladým lidem ze všech socioekonomických vrstev. Podpoříme rozvoj sportovních aktivit mládeže, volnočasových spolků i nízkoprahových center. Nechceme jen dotovat drahé komerční turnaje sportovních hvězd, ale především finančně pomáhat malým místním mládežnickým klubům a asociacím.
-* **Zapojíme seniory do rozhodování.** Poskytneme starším generacím platformy, skrze které mohou participovat na zásadních rozhodnutích o směřování Prahy. Těm, kteří budou mít, nabídneme kurzy počítačové gramotnosti. Ostatním nabídneme alternativy k zapojení se i bez počítače; digitalizace má spojovat, ne rozdělovat.
+* Nabídneme volnočasové aktivity mladým lidem ze všech socioekonomických vrstev. Podpoříme rozvoj sportovních aktivit pro mládež, volnočasových spolků i nízkoprahových center. Nechceme jen dotovat drahé komerční turnaje sportovních hvězd, ale především finančně pomáhat malým místním mládežnickým klubům a asociacím.
+* **Zapojíme seniory do rozhodování.** Těm, kteří budou mít, nabídneme kurzy počítačové gramotnosti. Ostatním nabídneme možnost zapojit se i bez počítače; digitalizace má spojovat, ne rozdělovat.
 
