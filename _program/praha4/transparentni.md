@@ -10,7 +10,7 @@ relatives:
 ---
 
 * Budeme hledat úspory tak, aby **vyrovnaný rozpočet městské části** nebyl financován z rozprodeje bytů a majetku. 
-* **Zkvalitníme a zprůhledníme proces zadávání veřejných zakázek.** U většiny zakázek malého rozsahu umožníme přihlášení se do výběrového řízení i neosloveným dodavatelům. Veřejné zakázky budeme přidělovat pouze společnostem, u kterých bude, v souladu s obecnými předpisy, znám jejich konečný majitel. 
+* **Zkvalitníme a zprůhledníme proces zadávání veřejných zakázek.** U většiny zakázek malého rozsahu umožníme přihlášení se do výběrového řízení i neosloveným dodavatelům. Veřejné zakázky budeme přidělovat pouze společnostem, u kterých bude, v souladu s obecnými předpisy, znám jejich koncový majitel. 
 * **Tepelná zařízení** společnosti 4-energetické a.s. **převedeme odběratelům**, kteří budou mít zájem. Zbytek prodáme solidnímu partnerovi za přiměřenou cenu, s garancí budoucí ceny pro odběratele.  
 * **Zrušíme 4-majetkovou a.s.**, nebo změníme její stanovy tak, aby občané i zastupitelé měli dostatečná práva na informace.
 * Granty budeme rozdělovat za účasti nezávislých osobností. Zároveň chceme prosadit **systém víceletých grantů**, který umožní racionálnější využívání prostředků a vznik dobré tradice akcí.
