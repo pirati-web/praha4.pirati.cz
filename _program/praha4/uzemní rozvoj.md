@@ -14,6 +14,6 @@ ordprog: 3
 * **Vyřešíme neutěšený stav chodníků pomocí tzv. “chodníkového programu”.** Chceme ve spolupráci s občany a TSK zajistit úpravu či rekonstrukci chodníků a obrubníků pro bezpečnější pohyb občanů. 
 * **Důležité zelené plochy** - Habrovku, Jalodvorskou louku a Velký háj budeme prosazovat jako nezastavitelné.
 * **Jsme proti zahušťování výstavby, především na sídlištích.** Nepřipustíme prodej městských pozemků, na kterých je veřejná zeleň.
-* Izolační zeleň kolem kapacitních komunikací nesmí zmizet. Jsme proti vytváření ghet za protihlukovými stěnami a nesmyslnému navěšování dalších staveb, které generují další dopravu.
-* Chceme vytvořit zelenou osu od Krčského lesa přes Jalodvorskou louku až k Modřanské rokli. Budeme spolupracovat s okolními městskými částmi i občanskými sdruženími. Důsledně budeme prosazovat zachování prostupnosti území a rozvoj územního systému ekologické stability (ÚSES).
+* Izolační zeleň kolem kapacitních komunikací nesmí zmizet. Jsme proti vytváření ghett za protihlukovými stěnami a nesmyslnému navěšování dalších staveb, které generují další dopravu.
+* Chceme vytvořit zelenou osu od Krčského lesa přes Jalodvorskou louku až k Modřanské rokli. Budeme spolupracovat s okolními městskými částmi i občanskými sdruženími a budeme důsledně prosazovat zachování prostupnosti území a rozvoj územního systému ekologické stability (ÚSES).
 
