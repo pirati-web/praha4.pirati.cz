@@ -21,7 +21,7 @@ politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě
 * Všechna **jednání komisí** a výborů budou **přístupná veřejnosti.** Všechny zápisy z jejich jednání pak budou zveřejněny na webových stránkách.
 * Zavedeme **rozklikávací rozpočet až na fakturu**. Obsah smlouvy nebude tvořen jednou větou, ale celou specifikací. Všechny obchodní smlouvy včetně dodatků zveřejníme na webu. Platit to bude i pro městské akciové a příspěvkové společnosti. 
 * **Ukážeme data veřejnosti.** Přehled faktur a nájemních smluv, analýzy, které si město nechává zpracovat - to vše a mnohé další údaje budou na portálu otevřených dat.
-* Zavedeme povinné **zveřejňování důvodových zpráv** a dalších podkladů na internetových stránkách městské části před jednáním zastupitelstva a rady městské části. Zápisy z jednání zastupitelstva a rady budou zveřejněny na webu. Na radě města zavedeme hlasování po jménech. 
+* Zavedeme povinné **zveřejňování důvodových zpráv** a dalších podkladů na internetových stránkách městské části před jednáním zastupitelstva a rady městské části. Zápisy z jednání zastupitelstva a rady budou zveřejněny na webu. Na radě města zavedeme hlasování podle jmen. 
 * Z Tučňáku uděláme **skutečné noviny pro Prahu 4** s prostorem pro názory opozice a občanů.
 * **Zveřejníme majetková přiznání politiků.** Každý bude moci kontrolovat, že zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.
 
