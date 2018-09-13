@@ -15,8 +15,8 @@ garant: tibor.vansa
 
 ### Moderní služby občanům
 * Zdigitalizujeme úřední procesy a odlehčíme tím občanům i úředníkům.
-* Umožníme se **objednat na úřad na konkrétní čas.** 
-* Zavedeme a zveřejníme jasná **měřitelná kritéria kvality služeb občanům** (např. průměrná délka stavebního řízení), podle kterých nastavíme systém odměňování úředníků
+* Umožníme **objednat se na úřad na konkrétní čas.** 
+* Zavedeme a zveřejníme jasná a **měřitelná kritéria kvality služeb občanům** (např. průměrná délka stavebního řízení), podle kterých nastavíme systém odměňování úředníků.
 
 ### Kvalitní veřejný prostor, metro D a parkování
 * **Zaparkuje u vás návštěva i řemeslník.** Rezidenti získají každý rok určitý počet hodin parkování zdarma pro návštěvy ve vybrané oblasti. 
@@ -28,9 +28,8 @@ garant: tibor.vansa
 
 ### Školství a bezpečnost
 * Každé dítě má na něco talent. Zavedeme **větší rozmanitost výuky na MŠ i ZŠ**, více volitelných předmětů, specializovaných tříd a různých stylů výuky. 
-* Vyhledáme **nové prostory pro školní družiny** a komunitní centra
-* Podpoříme **kvalitní programy prevence** kriminality mládeže a programy zaměřené na elektronickou bezpečnost mládeže
-* Budeme **pokračovat v omezování heren**, abychom omezili negativní dopady patologického hráčství, které tyto herny způsobují a podporují
-Najdeme lepší umístění pro protidrogovou provozovnu v Nuslích
+* Vyhledáme **nové prostory pro školní družiny** a komunitní centra.
+* Podpoříme **kvalitní programy prevence** kriminality mládeže a programy zaměřené na elektronickou bezpečnost mládeže.
+* Budeme **pokračovat v omezování heren**, abychom omezili negativní dopady patologického hráčství, které tyto herny způsobují a podporují. Najdeme lepší umístění pro protidrogovou provozovnu v Nuslích.
 
 
