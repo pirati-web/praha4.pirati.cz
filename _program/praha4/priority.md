@@ -9,7 +9,7 @@ garant: tibor.vansa
 
 ### Otevřená radnice a transparentní hospodaření
 * **Občanské podněty** budeme nejen sbírat, ale také zveřejňovat proces jejich řešení. I proto budeme občany informovat, kdo konkrétně je za řešení daného podnětu zodpovědný a jaký bude následný postup.
-* Na **přenos z jednání zastupitelstva** se podíváte i ze záznamu, až budete mít po pracovní době.  
+* Na **přenos ze zasedání zastupitelstva** se podíváte i ze záznamu, až budete mít po pracovní době.  
 * Zavedeme **rozklikávací rozpočet až na fakturu**, obsah smlouvy nebude tvořen jednou větou, ale celou specifikací. 
 * Zastavíme rozprodej bytů a pozemků. Bytový fond začneme přizpůsobovat potřebám seniorů.
 
