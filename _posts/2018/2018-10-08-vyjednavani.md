@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-  
-  Prvního den po volbách
+  První den po volbách
 date: '2018-10-08 00:01am'
 author: Tibor Vansa
 image: vyjednavani.jpg
