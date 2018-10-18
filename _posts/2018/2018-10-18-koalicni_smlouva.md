@@ -20,7 +20,7 @@ Ke změně postoje a kompromisu došlo také u prodeje 4-energetické. Zeleným 
 
 Uzavřená smlouva se výrazně liší od smluv, které subjekty na Praze 4 uzavíraly v minulých volebních obdobích. Není pouhou jednostránkovou deklarací, ale komplexním dokumentem, který obsahuje nejen mechanismy pro bezproblémovou spolupráci, ale především řadu programových závazků, které nová koalice hodlá plnit. A jako první koaliční smlouva byla podepsána nejen tradičním ručním podpisem všech zastupitelů, ale i elektronickém podpisem lídra Pirátů.
   
-Celou koaliční smlouvu najdete [zde](https://github.com/pirati-web/praha4.pirati.cz/blob/gh-pages/assets/img/posts/Koaliční smlouva Piráti Praha 4.pdf.tmp).  (archivní formát PDF/A dle ISO 19005-1, který zajišťuje možnost čtení dokumentu i v dlouhodobém horizontu )
+Celou koaliční smlouvu najdete [zde](https://github.com/pirati-web/praha4.pirati.cz/blob/gh-pages/assets/img/posts/Koaliční smlouva Piráti Praha 4.pdf.tmp).  (archivní formát PDF/A dle ISO 19005-1, který zajišťuje možnost čtení dokumentu i v dlouhodobém horizontu ). Pokud Vám otevření elektronicky podepsaného pdf dělá problémy, [zde](https://github.com/pirati-web/praha4.pirati.cz/blob/gh-pages/assets/img/posts/Koaliční smlouva Piráti Praha 4.pdf) je obyčejná verze. Odkaz Vás přesměřuje na github, kde musíte kliknout na download. 
 
 
 
