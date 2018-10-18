@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-  
-  Piráti: Vyjednávání na Praze 4 úspěšně ukončeno, koaliční smlouva je podepsána. 
+  Vyjednávání na Praze 4 úspěšně ukončeno, koaliční smlouva je podepsána. 
 date: '2018-10-18 00:01am'
 author: Tibor Vansa
 image: P1230476_v1.JPG
