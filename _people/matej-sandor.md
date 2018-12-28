@@ -23,10 +23,16 @@ carousel:
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Matej pochází ze Zvolena a od roku 2007 žije v Praze. Vystudoval Právnickou fakultu Masarykovy univerzity, Evropská studia na Fakultě sociálních studií Masarykovy univerzity a Fakultu mezinárodních vztahů na VŠE v Praze.
+Dlouholetý přesvědčený liberál, později příznivec Pirátské strany. Členem strany se stal během roku 2018 s cílem prosazování liberálních hodnot a ochrany demokracie obecně.  Matej pochází ze Zvolena, v letech 2002 až 2007 žil v Brně, od roku 2007 žije v Praze.
 
-Pracoval jako právník, pak jako manažer v oblasti nákupu a veřejných zakázek a později jako manažer v bance. Během studií se rovněž věnoval výuce a přednáškové činnosti v oblasti práva, financí a veřejných zakázek. 
+Vystudoval <b>Právnickou fakultu</b> Masarykovy univerzity, Evropská studia na Fakultě sociálních studií Masarykovy univerzity a Mezinárodní hospodářské právo na Fakultě mezinárodních vztahů na VŠE v Praze.
 
-V rámci lokální politiky se věnuje otázkám správy majetku a financí. Na celorepublikové úrovni se zajímá o  mezinárodní politiku a vztahy s EU. 
+Při studiu <b>Evropských studii</b> se podrobně seznámil s jednotlivými aspekty fungování Evropské unie od procesu jejího vzniku a historie, přes jednotlivé smlouvy upravující fungování EU, instituce EU, proces rozšiřování EU až po jednotlivé politiky EU (např. bezpečnostní a obranná politika, otázky hospodářské měnové unie, justice a vnitřních věci, strukturální fondy, SZP, zahraniční politika atd.).
 
-Je ženatý, bez dětí. Bydlí v Praze Michli.  Mezi jeho zájmy patří nezávislé cestování, fotografování, in-line brusle a lyžování.
+V rámci studia <b>mezinárodního hospodářského práva</b> se kromě mezinárodního práva zabýval rovněž obchodními otázkami mezinárodních vztahů. Publikoval cca 15 publikací v recenzovaných českých a zahraničních odborných časopisech, přednášel v ČR i v zahraničí a to i mimo Evropu. Rovněž vyučoval na Fakultě mezinárodních vztahů VŠE.
+
+Velkou část své více než 11. leté profesní praxe se věnoval <b>obchodnímu vyjednávání</b> v rámci práce pro různé státní společnosti, kdy měl v rozličných manažerských pozicích na starosti oblasti např. nákupu, správy majetku nebo veřejných zakázek. Část své profesní kariéry pracoval jako právník.
+
+V současnosti působí jako <b>radní Prahy 4</b> pro investice a městské společnosti s cílem implementace pirátského programu v oblasti transparence a efektivní veřejné správy.
+
+Mezi jeho zájmy patří nezávislé cestování, fotografování, in-line brusle a lyžování. 
