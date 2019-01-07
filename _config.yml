@@ -73,6 +73,10 @@ defaults:   # defaults values for collection scope
       layout: "kandidatka"
 
 calendar:
+  apiKey: AIzaSyDzpWiT1UWlgmvJY1hF9Iqp3SrjPzEUHXE
+  id: pirati.praha4@gmail.com
+  title: "Kalendář Pirátů Praha 4"
+  page: "https://calendar.google.com/calendar/embed?src=pirati.praha4%40gmail.com&ctz=Europe%2FPrague"
 fb: https://www.facebook.com/PiratiPraha4/
 tw:
 
