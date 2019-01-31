@@ -15,7 +15,7 @@ MS Piráti Praha 4 konstatuje, že samotná existence soudem povoleného oddluž
 
 V komplikované finanční situaci se ocitla následkem rozvodu s manželem. Část jejích dluhů představuje nedoplatek školného, kdy si jako matka samoživitelka s dvěma dcerami doplňovala vysokoškolské vzdělání, které by ji v referentské pozici ve státní správě zvýšilo příjem.
 
-Vyjádření Vojtěcha Pikala nelze plošně aplikovat bez individuálního posouzení. Svou kompetentnost a důvěryhodnost prokázala samoživitelka Sýkorová svou  aktivitou v rámci místního sdružení i soukromou dobrovolnickou činností v sociální oblasti. MS Piráti Praha 4 za ní plně stojí.
+Svou kompetentnost a důvěryhodnost prokázala samoživitelka Sýkorová svou  aktivitou v rámci místního sdružení i soukromou dobrovolnickou činností v sociální oblasti. MS Piráti Praha 4 za ní plně stojí.
 
 
 
