@@ -4,7 +4,7 @@ category: blog
 title: >-  
   Stanovisko k insolvenci zastupitelky Vladimíry Sýkorové (Piráti)
 date: '2019-01-31 00:01am'
-author: Adam Jaroš
+author: 
 image: logo.png
 tags: stanovisko oddluzeni 
 ---
