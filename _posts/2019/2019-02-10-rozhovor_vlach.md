@@ -4,7 +4,7 @@ category: blog
 title: >-  
   Rozhovor s pirátským předsedou grantové komise Josefem Vlachem
 date: '2019-02-10 00:01am'
-author: Adam Jaroš
+author: 
 image: Vlach-Josef.jpg
 tags: rozhovor josef vlach
 ---
