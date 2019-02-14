@@ -154,4 +154,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
     - _sass
