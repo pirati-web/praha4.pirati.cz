@@ -16,13 +16,22 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /program/
+    name: Program
+    match: program
     submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+      - link: /program/magistrat.html
+        name: Magistrát
+        match: magistrat
+      - link: /program/praha4/priority/
+        name: Priority Prahy 4
+        match: praha4/priority
+      - link: /program/detail.html
+        name: Program P4 
+        match: /program/detail
+      - link: /program/strategie.html
+        name: Povolební strategie P4
+        match: strategie  
   - link: /kontakt/
     name: Kontakt
     match: kontakt

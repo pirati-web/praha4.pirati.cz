@@ -1,0 +1,31 @@
+---
+layout: page
+img: miscellaneous/volebni-rozcestnik.png
+rbar: ""
+---
+
+<section class="o-section o-section--spaceBot">
+  <div class="o-section-inner">
+    <div class="o-section-block">
+      <div class="c-BasicPage">
+        <div class="c-BasicPage-content">
+
+<div class="row small-up-2 medium-up-3 large-up-4">
+
+{% assign program = site.program | where: "campaignCategoryUid","praha2018" %}
+{% for item in program %}
+<div class="column column-block">
+  <a href="{{item.url | relative_url }}">
+    <img class="program-icon" src="{{ item.img | prepend: '/assets/img/program/icons/' | relative_url}}" alt="{{item.title}}" />
+    <center>
+    <h2>{{item.title}}</h2>
+    </center>
+  </a>
+</div>
+{% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

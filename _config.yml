@@ -102,7 +102,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby-2018/:path/
+    permalink: /program/:path/
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
@@ -154,6 +154,9 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/program/icons
+    - assets/img/program/garanti
+    - assets/img/miscellaneous
     - assets/img/posts
     - assets/img/people
     - _sass
