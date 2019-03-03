@@ -35,6 +35,8 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: https://praha.pirati.cz
+    name: Pražské sdružení
 
 bottom:
   - class: small-12 medium-4
