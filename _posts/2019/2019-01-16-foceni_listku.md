@@ -5,7 +5,7 @@ title: >-
   Stanovisko Pirátů k volbě starosty během ustavující schůze Zastupitelstva MČ Praha 4
 date: '2019-01-26 00:01am'
 author: Tibor Vansa
-image: listek.jpg
+image: listek2.jpg
 tags: vyjednavani koalice praha4 
 ---
 
