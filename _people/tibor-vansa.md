@@ -8,23 +8,27 @@ category:                       # kategorie: p6, cl
 - mp
 - carousel
 - kontaktni_osoba
+- pms
+- radni
 contactType: Předseda
 img: 		        people/tibor-vansa.jpg    # 165 x 220
-description:        Předseda Pirátů na Praze 4.
+description:        Místostarosta Prahy 4.
 mail:
 - tibor.vansa@pirati.cz
 mob: +420 776 555 622				
 profiles:
   facebook: https://www.facebook.com/tibor.vansa
   twitter: 
-  flickr: 
+  flickr:
+ordradni: 1
+ordpms: 2
 ordpraha: 1
 ordcar: 3
 ordcan: 1
 carousel:
   img: tibor-vansa.jpg
   text: |
-    <p>Předseda Pirátů na Praze 4 a lídr kandidátky. # kratký popis, max 160 znaků.</p>
+    <p>Místostarosta Prahy 4. # kratký popis, max 160 znaků.</p>
 ---
 Tibor Vansa (*listopad 1983) je předseda Pirátů na Praze 4 a garant programového bodu Finance.
 
