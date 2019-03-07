@@ -10,21 +10,23 @@ category:                       # kategorie: p6, cl
 - kontaktni_osoba
 contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
-description: Koordinátor dobrovolníků, místopředseda Pirátů na Praze 4
+description: Radní pro otevřenou radnici a IT, předseda Pirátů na Praze 4
 mail:
 - honza.hora@pirati.cz
 mob:	+420 775 608 734		
 profiles:
   facebook: 
   twitter: 
-  flickr: 
+  flickr:
+ordpms: 1
+ordradni: 2
 ordpraha: 2
 ordcar: 3
 ordcan: 2
 carousel:
   img: jan-hora.jpg
   text: |
-    <p>Místopředseda Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
+    <p>Radní a předseda Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
 Už od počátku svých studií bydlím v Praze, letos to bude 14 let (z toho cca 10 let na Praze 4), i když původem jsem z malé vesničky ve Středočeském kraji. Vystudoval jsem aplikovanou informatiku na VŠE a povoláním jsem analytik/programátor. Postupně jsem pracoval pro několik menších i větších firem a v průběhu té doby jsem se zajímal  o politické dění a občas se do něj i aktivně zapojoval.
 
