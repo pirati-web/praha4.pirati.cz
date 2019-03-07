@@ -6,8 +6,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- zastupitele
 img: 		        people/josef-vlach.jpg    # 165 x 220
-description:    Člen Pirátů a věčný optimista. Má 18letou praxi ve vedení IT společnosti, která se zaměřuje na tvorbu webů, marketing, projektové řízení, lidské zdroje a bezpečnost (prevence proti kyberšikaně, prevence proti šíření nevhodného obsahu na internetu, problematika soc. sítí – role dětí a rodičů).	
+description:    Zastupitel.
 mail:
 - josef.vlach@pirati.cz
 mob: 			
