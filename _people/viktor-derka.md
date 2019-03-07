@@ -6,8 +6,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- zastupitele
 img: 		        people/viktor-derka.jpg    # 165 x 220
-description:        Člen Pirátů. Právník specializující se na právo na informace, problematiku správního a ústavního práva. Na Praze nám pomáhá v sisyfofském boji získávat materiály o činnosti radnice.	
+description:         Zastupitel.	
 mail:
 - viktor.derka@pirati.cz
 mob: 			
