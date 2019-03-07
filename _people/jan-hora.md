@@ -8,6 +8,8 @@ category:                       # kategorie: p6, cl
 - mp
 - carousel
 - kontaktni_osoba
+- pms
+- radni
 contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
 description: Radní pro otevřenou radnici a IT, předseda Pirátů na Praze 4
