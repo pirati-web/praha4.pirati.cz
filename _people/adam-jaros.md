@@ -6,22 +6,25 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- zastupitele
+- pms
 img: 		        people/adam-jaros.jpg    # 165 x 220
-description:        Člen Pirátů. Asistent výzkumu na Ústavu organické chemie a biochemie AV, kde zároveň pracuje na své dizertaci. Příležitostný lektor a popularizátor v oblasti chemie, podílel se například na organizování poslední mezinárodní olympiády v chemii. Věří, že vzdělání je základ fungující společnosti.	
+description:        Zastupitel.	
 mail:
 - adam.jaros@pirati.cz
 mob: 			
 profiles:
   facebook:
   twitter: 
-  flickr: 
+  flickr:
+ordpms: 3
 ordpraha: 9
 ordcar: 3
 ordcan: 9
 carousel:
   img: adam-jaros.jpg
   text: |
-    <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
+    <p>Zastupitel. # kratký popis, max 160 znaků.</p>
 ---
 Narodil jsem se v roce 1993 v Jihlavě, kde jsem také vystudoval osmileté gymnázium.
 Poté jsem se odstěhoval do Prahy, o několik let později zde dokončil bakalářské studium oboru Chemie a poté magisterské studium
