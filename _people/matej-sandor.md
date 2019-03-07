@@ -6,15 +6,17 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- radni
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Člen Pirátů. Působil jako právník, později jako manažer v oblasti nákupu a veřejných zakázek včetně řízení stamiliónových zakázek a následně v oblasti bankovního managementu. Aktuálně se věnuje právnické profesi a zajímá o mezinárodní politiku a vztahy s EU.	
+description:        Radní pro investice a městské společnosti.
 mail:
 - matej.sandor@pirati.cz
 mob: 			
 profiles:
   facebook:
   twitter: 
-  flickr: 
+  flickr:
+ordradni: 3
 ordpraha: 6
 ordcar: 3
 ordcan: 6
