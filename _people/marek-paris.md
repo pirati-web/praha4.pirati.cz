@@ -6,8 +6,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - mp
 - carousel
+- zastupitele
 img: 		            people/marek-paris.jpg    # 165 x 220
-description:        Místopředseda Pirátů na Praze 4, člen dozorčí rady VZP, datový analytik ve zdravotnictví. Působí v technologickém start-upu vyvíjejícím datové produkty pro zdravotnictví a farmacii. Sní o tom, že komunikace se státem bude pro občana jednou stejně uživatelsky komfortní a bezstarostná, jako je dnes běžné u moderních webových aplikací.	
+description:        Zastupitel.	
 mail:
 - marek.paris@pirati.cz
 mob: 				
