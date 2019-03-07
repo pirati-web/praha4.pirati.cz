@@ -6,8 +6,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- zastupitele
 img: 		        people/vladka-sykorova.jpg    # 165 x 220
-description:    Členka Pirátů. Od roku 2004 pracuje ve státní správě, poslední bezmála tři roky vede sporná správní řízení. Jako matka (samoživitelka) dvou dcer dobře ví, jaké to je mít hluboko do kapsy. Ráda by se zaměřila na rozšíření bezplatné právní poradny pro lidi v socialni nouzi a v dluhové pasti, především pro rodiny s dětmi a seniory.	
+description:    Zastupitelka.	
 mail:
 mob: 			
 profiles:
