@@ -1,7 +1,9 @@
 ---
 uid:                jan.mizera
 name:               Jan Mizera  	# běžně používáné jméno
-fullname: 	    Jan Mizera (* leden 1981)  # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

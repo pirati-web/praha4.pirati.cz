@@ -1,7 +1,9 @@
 ---
 uid:                alexandr.mansurov
 name:               Alex Mansurov  	# běžně používáné jméno
-fullname: 	    Bc. Alexandr Mansurov   # jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - mp

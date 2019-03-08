@@ -1,7 +1,9 @@
 ---
 uid:            josef.vlach
 name:           Josef Vlach  	# běžně používáné jméno
-fullname: 	    Josef Vlach  # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

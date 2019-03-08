@@ -1,7 +1,9 @@
 ---
 uid:                petra.rejchrtova
-name:               Mgr. Petra Rejchrtová  	# běžně používáné jméno
-fullname: 	    Mgr. Petra Rejchrtová (* září 1969)  # jméno s tituly etc.
+name:               Petra Rejchrtová  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

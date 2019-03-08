@@ -1,7 +1,9 @@
 ---
 uid:                marek.paris
-name:               Marek Paris, M.A.  	# běžně používáné jméno
-fullname: Marek Paris, M.A.   # jméno s tituly etc.
+name:               Marek Paris
+titles:
+  before: 
+  after: M. A.
 category:                       # kategorie: p6, cl
 - praha4
 - mp

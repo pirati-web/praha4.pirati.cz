@@ -1,7 +1,9 @@
 ---
 uid:                adam.jaros
-name:               Mgr. Adam Jaroš  	# běžně používáné jméno
-fullname: 	    Mgr. Adam Jaroš (* červenec 1993)  # jméno s tituly etc.
+name:               Adam Jaroš
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

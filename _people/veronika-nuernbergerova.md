@@ -1,6 +1,9 @@
 ---
 name:               PhDr. Veronika Nürnbergerová, Ph.D.  	# běžně používáné jméno
 fullname: 	    PhDr. Veronika Nürnbergerová, Ph.D. (* 1971)  # jméno s tituly etc.
+titles:
+  before: PhDr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

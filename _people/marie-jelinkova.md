@@ -1,7 +1,9 @@
 ---
 uid:                marie.jelinkova
-name:               Ing. Marie Jelínková  	# běžně používáné jméno
-fullname: 	    Ing. Marie Jelínková (* červen 1966)  # jméno s tituly etc.
+name:               Marie Jelínková  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

@@ -1,7 +1,9 @@
 ---
 uid:                viktor.derka
-name:               Mgr. Viktor Derka  	# běžně používáné jméno
-fullname: 	    Mgr. Viktor Derka (* 1992)  # jméno s tituly etc.
+name:               Viktor Derka  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

@@ -1,8 +1,10 @@
 ---
 uid:                marie.kurkova
 
-name:               Mgr. Marie Kurková  	# běžně používáné jméno
-fullname: 	    Mgr. Marie Anna Kurková (* červenec 1993)  # jméno s tituly etc.
+name:               Marie Kurková  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

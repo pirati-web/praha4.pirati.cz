@@ -1,7 +1,9 @@
 ---
 uid:                vera.marusiakova
-name:               Mgr. Věra Marušiaková  	# běžně používáné jméno
-fullname: 	    Mgr. Věra Marušiaková  # jméno s tituly etc.
+name:               Věra Marušiaková  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

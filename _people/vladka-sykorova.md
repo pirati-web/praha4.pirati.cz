@@ -1,7 +1,9 @@
 ---
 uid:                vladka.sykorova
 name:          Bc. Vlaďka Sýkorová  	# běžně používáné jméno
-fullname: 	Bc.    Vlaďka Sýkorová # jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

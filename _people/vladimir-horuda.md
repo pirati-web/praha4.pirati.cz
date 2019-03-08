@@ -2,6 +2,9 @@
 uid:                vladimir.hrouda
 name:               Vladimír Hrouda  	# běžně používáné jméno
 fullname: 	    Vladimír Hrouda (* červenec 1993)  # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

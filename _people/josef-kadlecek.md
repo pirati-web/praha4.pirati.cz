@@ -1,7 +1,9 @@
 ---
 uid:                josef.kadlecek
 name:               Josef Kadleček  	# běžně používáné jméno
-fullname: 	    Josef Kadleček (* 1962)  # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

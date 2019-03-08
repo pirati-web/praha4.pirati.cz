@@ -1,7 +1,9 @@
 ---
 uid:                tibor.vansa
-name:               Mgr. Tibor Vansa  	# běžně používáné jméno
-fullname: 	    Mgr. Tibor Vansa   # jméno s tituly etc.
+name:               Tibor Vansa  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:                       # kategorie: p6, cl
 - predseda
 - praha4

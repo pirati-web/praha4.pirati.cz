@@ -1,7 +1,9 @@
 ---
 uid:                miloslav.bim
 name:               Miloslav Bím  	# běžně používáné jméno
-fullname: 	    Miloslav Bím   # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

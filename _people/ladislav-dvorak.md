@@ -1,7 +1,9 @@
 ---
 uid:                ladislav.dvorak
 name:               Ladislav Dvořák  	# běžně používáné jméno
-fullname: 	    Ladislav Dvořák (* leden 1987)  # jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel

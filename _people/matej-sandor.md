@@ -1,7 +1,9 @@
 ---
 uid:                matej.sandor
-name:               JUDr. Matej Šandor, Ph.D.  	# běžně používáné jméno
-fullname: 	    JUDr. Matej Šandor, Ph.D. (* 1984)  # jméno s tituly etc.
+name:               Matěj Šandor
+titles:
+  before: JUDr.
+  after: Ph. D.
 category:                       # kategorie: p6, cl
 - praha4
 - clen

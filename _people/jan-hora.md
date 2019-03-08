@@ -1,7 +1,9 @@
 ---
 uid:                honza.hora
-name:               Ing. Honza Hora  	# běžně používáné jméno
-fullname: 	    Ing. Jan Hora   # jméno s tituly etc.
+name:               Honza Hora  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after:
 category:                       # kategorie: p6, cl
 - koordinator
 - praha4

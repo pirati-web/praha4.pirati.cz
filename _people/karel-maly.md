@@ -1,6 +1,8 @@
 ---
 name:           Karel Malý  	# běžně používáné jméno
-fullname: 	    Ing. Karel Malý (* 1958)  # jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - clen

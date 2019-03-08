@@ -1,7 +1,9 @@
 ---
 uid:                ivana.wurmova
-name:               Ing. Ivana Wurmová  	# běžně používáné jméno
-fullname: 	    Ing. Ivana Wurmová (* září 1956)  # jméno s tituly etc.
+name:               Ivana Wurmová  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
