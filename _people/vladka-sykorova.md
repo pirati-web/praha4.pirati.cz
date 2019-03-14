@@ -1,6 +1,6 @@
 ---
 uid:                vladka.sykorova
-name:          Bc. Vlaďka Sýkorová  	# běžně používáné jméno
+name:          Vlaďka Sýkorová  	# běžně používáné jméno
 titles:
   before:
   after:
