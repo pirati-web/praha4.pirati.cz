@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 img: 		        people/vladka-sykorova.jpg    # 165 x 220
 description:    Zastupitelka.	
-mail:
+mail:           vladkasykorka@seznam.cz
 mob: 			
 profiles:
   facebook:
