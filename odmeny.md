@@ -4,6 +4,6 @@ title: Odměny voleným zastupitelům
 #rbar: people
 ---
 
-{% include tables/zebra.html title='nadpis' table=site.data.csv.odmeny %}
+{% include tables/zebra.html table=site.data.csv.odmeny %}
 
 Všechny uvedené sumy jsou v podobě **hrubých příjmů**.
