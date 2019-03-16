@@ -8,7 +8,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/karel-maly.jpg    # 165 x 220
-description:        Příznivec Pirátů na Praze 4. # kratký popis, max 160 znaků
+description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:
