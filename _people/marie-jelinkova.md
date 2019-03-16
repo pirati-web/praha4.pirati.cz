@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 img: 		        people/marie-jelinkova.jpg    # 165 x 220
 description:        Zastupitelka. Nezávislá. 
-mail:
+mail: marie.jelinkova@praha4.cz
 mob: 			
 profiles:
   facebook:
