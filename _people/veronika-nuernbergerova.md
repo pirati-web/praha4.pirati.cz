@@ -6,7 +6,7 @@ titles:
   after:
 category:                       # kategorie: p6, cl
 - praha4
-- podporovatel
+- clen
 - carousel
 img: 		        people/veronika-nuernbergerova.jpg    # 165 x 220
 description:        Příznivkyně Pirátů na Praze 4. Přes dvacet let pracuje pro evropské vzdělávací programy (Leonardo, Program celoživotního učení, Erasmus+) na různých pozicích. Celou její dosavadní praxi spojuje přesvědčení, že dostupné kvalitní vzdělávání a zkušenosti získané v zahraničí jsou hodnotou nejvyšší priority. Zásadně ovlivňují kvalitu života člověka a jsou klíčem k demokratické budoucnosti naší země.  # kratký popis, max 160 znaků
