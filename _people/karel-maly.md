@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - carousel
 img: 		        people/karel-maly.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
-mail:
+mail: karel.maly@pirati.cz
 mob: 			
 profiles:
   facebook:
