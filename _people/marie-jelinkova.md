@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - zastupitele
 img: 		        people/marie-jelinkova.jpg    # 165 x 220
-description:        Nezávislá kandidátka. Stojí za ní dlouholetá bezplatná pomoc občanům a spolkům (nejen v Praze) při obraně jejich domova, práva na ochranu zdraví a zdravého životního prostředí.	 
+description:        Zastupitelka. Nezávislá. 
 mail:
 mob: 			
 profiles:
