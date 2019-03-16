@@ -1,5 +1,5 @@
 ---
-name:               PhDr. Veronika Nürnbergerová, Ph.D.  	# běžně používáné jméno
+name:               Veronika Nürnbergerová  	# běžně používáné jméno
 fullname: 	    PhDr. Veronika Nürnbergerová, Ph.D. (* 1971)  # jméno s tituly etc.
 titles:
   before: PhDr.
@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/veronika-nuernbergerova.jpg    # 165 x 220
-description:        Příznivkyně Pirátů na Praze 4. Přes dvacet let pracuje pro evropské vzdělávací programy (Leonardo, Program celoživotního učení, Erasmus+) na různých pozicích. Celou její dosavadní praxi spojuje přesvědčení, že dostupné kvalitní vzdělávání a zkušenosti získané v zahraničí jsou hodnotou nejvyšší priority. Zásadně ovlivňují kvalitu života člověka a jsou klíčem k demokratické budoucnosti naší země.  # kratký popis, max 160 znaků
+description:        Členka Pirátů na Praze 4.   # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:
