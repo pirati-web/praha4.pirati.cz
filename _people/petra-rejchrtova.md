@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - radni
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
-description:        Radní pro územní rozvoj a výstavbu.
+description:        Radní pro územní rozvoj a výstavbu. Nezávislá.
 
 mail:
 mob: 			
