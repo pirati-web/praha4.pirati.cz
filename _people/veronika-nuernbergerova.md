@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 img: 		        people/veronika-nuernbergerova.jpg    # 165 x 220
 description:        Členka Pirátů na Praze 4.   # kratký popis, max 160 znaků
-mail:
+mail: veronika.nurnbergerova@pirati.cz
 mob: 			
 profiles:
   facebook:
