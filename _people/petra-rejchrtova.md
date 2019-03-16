@@ -11,8 +11,7 @@ category:                       # kategorie: p6, cl
 - radni
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
 description:        Radní pro územní rozvoj a výstavbu. Nezávislá.
-
-mail:
+mail: petra.rejchrtova@praha4.cz
 mob: 			
 profiles:
   facebook:
