@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 img: 		        people/ladislav-dvorak.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
-mail:
+mail: ladislav.dvorak@pirati.cz
 mob: 			
 profiles:
   facebook:
