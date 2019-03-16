@@ -8,6 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
+- radni
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
 description:        Nezávislá kandidátka. Komunální politička se čtyřletou praxí neuvolněné zastupitelky. Usiluje o regulační plány pro stanice metra D i další rozvojové plochy, prosazuje nezastavitelnost důležitých zelených ploch včetně izolační zeleně kolem velkých komunikací.	
 
