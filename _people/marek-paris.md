@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - mp
 - carousel
 - zastupitele
+- clen
 img: 		            people/marek-paris.jpg    # 165 x 220
 description:        Zastupitel.	
 mail:
