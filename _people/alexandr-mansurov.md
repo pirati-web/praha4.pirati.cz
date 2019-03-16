@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - clen
 img: 		        alexandr-mansurov.jpg    # 165 x 220
-description:        Místopředseda Pirátů na Praze 4, programátor, asistent poslance # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
+description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
 mail:
 - alexandr.mansurov@pirati.cz
 mob:			
