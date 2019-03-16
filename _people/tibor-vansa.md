@@ -12,6 +12,7 @@ category:                       # kategorie: p6, cl
 - kontaktni_osoba
 - pms
 - radni
+- clen
 contactType: Předseda
 img: 		        people/tibor-vansa.jpg    # 165 x 220
 description:        Místostarosta Prahy 4.
