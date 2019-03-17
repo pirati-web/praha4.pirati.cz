@@ -1,6 +1,6 @@
 ---
 uid:                matej.sandor
-name:               Matěj Šandor
+name:               Matej Šandor
 titles:
   before: JUDr.
   after: Ph. D.
