@@ -41,7 +41,7 @@ calendar:
   apiKey: AIzaSyDzpWiT1UWlgmvJY1hF9Iqp3SrjPzEUHXE
   id: pirati.praha4@gmail.com
   title: "Kalendář Pirátů Praha 4"
-  page: "https://calendar.google.com/calendar/embed?src=pirati.praha4%40gmail.com&ctz=Europe%2FPrague"
+  page: "https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha4%40gmail.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no""
 facebook:
   loadSDK: true
   profilePage: "https://www.facebook.com/PiratiPraha4/"
