@@ -20,4 +20,4 @@ Přednost dostala investice do jihovýchodní části pražského okruhu. V př�
 
 
 Kontakt: 
-Tibor Vansa, místostarosta MČ Praha 4, tibor.vansa@pirati.cz
+Tibor Vansa, místostarosta MČ Praha 4, [tibor.vansa@pirati.cz](tibor.vansa@pirati.cz)
