@@ -1,6 +1,6 @@
 ---
-uid:                honza.hora
-name:               Honza Hora  	# běžně používáné jméno
+uid:                jan.hora
+name:               Jan Hora  	# běžně používáné jméno
 titles:
   before: Ing.
   after:
