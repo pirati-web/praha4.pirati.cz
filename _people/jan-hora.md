@@ -17,7 +17,7 @@ contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
 description: Radní pro otevřenou radnici a IT, předseda Pirátů na Praze 4
 mail:
-- honza.hora@pirati.cz
+- jan.hora@pirati.cz
 mob:	+420 775 608 734		
 profiles:
   facebook: 
