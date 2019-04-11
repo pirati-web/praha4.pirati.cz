@@ -5,7 +5,7 @@ title: >-
   Společnost 4-energetická je na prodej
 date: '2019-04-11 00:01am'
 author: 
-image: energeticka.jpg
+image: 4energeticka.jpg
 tags: 4-energeticka
 ---
 
