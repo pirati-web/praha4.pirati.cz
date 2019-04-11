@@ -32,6 +32,7 @@ carousel:
   img: jan-hora.jpg
   text: |
     <p>Radní a předseda Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
+calendar: https://calendar.google.com/calendar?cid=NWIxY2l0YTFvbjA0cmE3cWEzNm5tdHRqOG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 ---
 Už od počátku svých studií bydlím v Praze, letos to bude 14 let (z toho cca 10 let na Praze 4), i když původem jsem z malé vesničky ve Středočeském kraji. Vystudoval jsem aplikovanou informatiku na VŠE a povoláním jsem analytik/programátor. Postupně jsem pracoval pro několik menších i větších firem a v průběhu té doby jsem se zajímal  o politické dění a občas se do něj i aktivně zapojoval.
 
