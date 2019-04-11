@@ -23,4 +23,4 @@ Lhůta pro podání žádosti o zařazení do soutěže je 20. května 2019 a po
 
 Kontakt: 
 
-Matej Šandor, radní pro investice a majetek, Piráti Praha 4, matej.sandor@pirati.cz
+Matej Šandor, radní pro investice a majetek, Piráti Praha 4, [matej.sandor@pirati.cz](matej.sandor@pirati.cz)
