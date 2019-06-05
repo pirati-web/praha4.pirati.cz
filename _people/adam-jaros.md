@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - pms
 img: 		        people/adam-jaros.jpg    # 165 x 220
-description:        Zastupitel.	
+description:        Předseda zastupitelského klubu.	
 mail:
 - adam.jaros@pirati.cz
 mob: 			
