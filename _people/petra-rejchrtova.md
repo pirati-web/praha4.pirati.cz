@@ -8,7 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
-- radni
+- zastupitele
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
 description:        Zastupitelka. Nezávislá.
 mail: petra.rejchrtova@praha4.cz
