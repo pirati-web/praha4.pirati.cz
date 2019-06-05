@@ -11,7 +11,6 @@ category:                       # kategorie: p6, cl
 - carousel
 - kontaktni_osoba
 - pms
-- radni
 - clen
 contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
