@@ -11,11 +11,11 @@ category:                       # kategorie: p6, cl
 - carousel
 - kontaktni_osoba
 - pms
-- radni
+- zastupitele
 - clen
 contactType: Předseda
 img: 		        people/tibor-vansa.jpg    # 165 x 220
-description:        Místostarosta Prahy 4.
+description:       Zastupitel.
 mail:
 - tibor.vansa@pirati.cz
 mob: +420 776 555 622				
