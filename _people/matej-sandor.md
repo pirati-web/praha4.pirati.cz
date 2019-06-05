@@ -8,9 +8,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
-- radni
+- zastupitele
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Radní pro investice a městské společnosti.
+description:        Místopředseda zastupitelského klubu.
 mail:
 - matej.sandor@pirati.cz
 mob: 			
