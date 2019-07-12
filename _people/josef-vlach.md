@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
+- pms
 img: 		        people/josef-vlach.jpg    # 165 x 220
 description:    Zastupitel.
 mail:
@@ -18,6 +19,7 @@ profiles:
   facebook:
   twitter: 
   flickr: 
+ordpms: 4
 ordpraha: 4
 ordcar: 3
 ordcan: 5
