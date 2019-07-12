@@ -9,7 +9,6 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
-- pms
 img: 		        people/adam-jaros.jpg    # 165 x 220
 description:        Předseda zastupitelského klubu.	
 mail:
