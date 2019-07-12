@@ -18,6 +18,7 @@ profiles:
   facebook:
   twitter: 
   flickr:
+ordzastupitele: 1
 ordpraha: 9
 ordcar: 3
 ordcan: 9
