@@ -19,6 +19,7 @@ profiles:
   facebook:
   twitter: 
   flickr:
+ordzastupitele: 2
 ordpms: 2
 ordradni: 3
 ordpraha: 6
