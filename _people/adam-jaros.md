@@ -18,7 +18,6 @@ profiles:
   facebook:
   twitter: 
   flickr:
-ordpms: 3
 ordpraha: 9
 ordcar: 3
 ordcan: 9
