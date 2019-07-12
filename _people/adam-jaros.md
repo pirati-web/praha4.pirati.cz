@@ -31,10 +31,7 @@ Narodil jsem se v roce 1993 v Jihlavě, kde jsem také vystudoval osmileté gymn
 Poté jsem se odstěhoval do Prahy, o několik let později zde dokončil bakalářské studium oboru Chemie a poté magisterské studium
 oboru Anorganická chemie na PřF UK.
 
-V průběhu studií jsem získával zkušenosti na rozličných brigádách a stážích, například v DDM, kde jsem vyučoval začínající
-studenty hru na klavír, v Automotive Lighting, kde jsem se seznámil s provozem vstupní a výstupní laboratoře, nebo na AV, kam
-jsem se dostal v rámci programu Otevřená věda. Nejdelším brigádním zážitkem pak pro mě byla práce v multikině Cinema City, kde
-jsem tři roky promítal. V současnosti se živím jako asistent výzkumu na Ústavu organické chemie a biochemie AV, kde zároveň
+V současnosti se živím jako asistent výzkumu na Ústavu organické chemie a biochemie AV, kde zároveň
 plánuji pracovat na své dizertaci. Mezi mé koníčky patří především hudba, jsem aktivní muzikant a vášnivý posluchač, věda a
 technika, četba, zejména antiutopií, sci-fi a fantasy, sport, v posledních letech především lezení, počítačové hry a další
 spousta věcí.
