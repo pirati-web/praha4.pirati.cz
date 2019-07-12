@@ -7,10 +7,8 @@ titles:
 category:                       # kategorie: p6, cl
 - koordinator
 - praha4
-- mp
 - carousel
 - kontaktni_osoba
-- pms
 - clen
 - zastupitele
 contactType: Dobrovolníci
@@ -23,7 +21,6 @@ profiles:
   facebook: 
   twitter: 
   flickr:
-ordpms: 1
 ordradni: 2
 ordpraha: 2
 ordcar: 3
