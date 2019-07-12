@@ -7,10 +7,8 @@ titles:
 category:                       # kategorie: p6, cl
 - predseda
 - praha4
-- mp
 - carousel
 - kontaktni_osoba
-- pms
 - zastupitele
 - clen
 contactType: Předseda
@@ -24,7 +22,6 @@ profiles:
   twitter: 
   flickr:
 ordradni: 1
-ordpms: 2
 ordpraha: 1
 ordcar: 3
 ordcan: 1
