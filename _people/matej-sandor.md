@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
+- pms
 img: 		        people/matej-sandor.jpg    # 165 x 220
 description:        Místopředseda zastupitelského klubu.
 mail:
@@ -18,6 +19,7 @@ profiles:
   facebook:
   twitter: 
   flickr:
+ordpms: 2
 ordradni: 3
 ordpraha: 6
 ordcar: 3
