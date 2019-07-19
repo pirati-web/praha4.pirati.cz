@@ -26,4 +26,4 @@ Nejedná se o první snahu MČ Praha 4 prodat svou firmu 4-Energetickou. Oproti 
 Kontakt: 
 Matej Šandor, zastupitel, Piráti Praha 4, matej.sandor@pirati.cz
 
-<i>Zdroj obrázku: ČT24</i>
+<i>Zdroj obrázku: [ČT24](https://ct24.ceskatelevize.cz/regiony/1160224-prazsti-politici-si-zalozili-energetickou-firmu-ted-zdrazuji-teplo#&gid=1&pid=1)</i>
