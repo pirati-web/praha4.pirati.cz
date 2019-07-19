@@ -5,7 +5,7 @@ title: >-
   Piráti Praha 4 kritizují zmařenou soutěž na prodej firmy 4-Energetická
 date: '2019-07-19 00:01am'
 author: 
-image: 4energeticka_2.png
+image: 4energeticka_2.jpg
 tags: 4energeticka prodej 
 ---
 
