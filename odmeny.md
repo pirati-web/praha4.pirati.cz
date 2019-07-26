@@ -6,7 +6,9 @@ title: Odměny voleným zastupitelům
 
 V následujících tabulkách jsou shrnuty odměny a funkce pirátských zastupitelů v období do 24.4. a od 24.4., kdy proběhla změna složení koalice. 
 
+Do 24.4.2019
 {% include tables/zebra.html table=site.data.csv.odmeny_pred %}
 
+Od 24.4.2019
 {% include tables/zebra.html table=site.data.csv.odmeny_po %}
 Všechny uvedené sumy jsou v podobě **hrubých příjmů**.
