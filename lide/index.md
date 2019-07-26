@@ -16,4 +16,4 @@ groups:
     category: clen
 ---
 
-
+Odměny našich zastupitelů naleznete [zde](https://praha4.pirati.cz/odmeny.html).
