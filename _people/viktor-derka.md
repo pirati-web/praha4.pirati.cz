@@ -2,7 +2,7 @@
 uid:                viktor.derka
 name:               Viktor Derka  	# běžně používáné jméno
 titles:
-  before: Mgr.
+  before: JUDr.
   after:
 category:                       # kategorie: p6, cl
 - praha4
