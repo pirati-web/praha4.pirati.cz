@@ -30,3 +30,5 @@ Námitky představují základní nástroj obrany kontrolovaných osob proti tvr
 Kvalitu kontroly si MČ nechala posoudit i externím právním posudkem, který jednoznačně potvrzuje nedostatečnou kvalitu provedení kontroly a kontrolní zprávy jako celku. Díky našemu zveřejnění mají nyní i všichni občané možnost udělat si vlastní názor na práci jednotlivých odborů úřadu.
 
 <b>Okomentovanou kontrolní zprávu naleznete [zde](https://github.com/pirati-web/praha4.pirati.cz/raw/master/_data/Zpr%C3%A1va%20z%20kontroly.pdf).</b>
+
+<b>Stanovisko k odvolání vedoucí kontrolního odboru z ledna 2019 si přečtete [zde](https://praha4.pirati.cz/aktuality/odvolani_kulasove.html).</b>
