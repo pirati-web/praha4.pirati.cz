@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - pms
 img: 		        people/viktor-derka.jpg    # 165 x 220
-description:         Zastupitel.	
+description:         Předseda MS. Zastupitel.	
 mail:
 - viktor.derka@pirati.cz
 mob: 			
