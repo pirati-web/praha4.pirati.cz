@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - pms
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Místopředseda zastupitelského klubu.
+description:        1. místopředseda MS. Místopředseda zastupitelského klubu.
 mail:
 - matej.sandor@pirati.cz
 mob: 			
