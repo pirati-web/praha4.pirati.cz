@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - pms
 img: 		        people/josef-vlach.jpg    # 165 x 220
-description:    Zastupitel.
+description:    3. místopředseda MS. Zastupitel.
 mail:
 - josef.vlach@pirati.cz
 mob: 			
