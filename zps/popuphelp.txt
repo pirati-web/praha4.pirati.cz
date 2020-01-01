@@ -1,0 +1,91 @@
+
+
+<div id="popupHelpContent" class="y_scrollable"><nadpis>Nápověda obsazenost a respektovanost (Úseky)</nadpis>
+  <p>
+  </p>
+<h3>Položky (hodnoty vždy za časové okno ve sledovaném období)</h3>
+  <ul>
+<li>
+	CODE Tarifní kód úseku (PX - značí kód, na které MČ se úsek nachází)
+</li>
+<li>
+	CATEGORY Kategorie úseku 
+  <ul>
+	<li>
+	RES - rezidentní (modrý), 
+	</li>
+  <li>
+	MIX - smíšený	(fialový), 
+  </li>
+	<li>
+	VIS - návštěvnický (oranžový))
+  </li>
+  </ul>
+</li>
+<li>
+	PS_ZPS Počet parkovacích míst podléhající režimu ZPS v úseku
+</li>
+<li>
+	RESP Procento respektujících (platících) vozidel v úseku
+</li>
+<li>
+	OBS Procento obsazenosti úseku
+</li>
+  </ul>
+<h3>GRAF1 - Obsazenost úseku podle domicilu vozidla</h3>
+<p>
+	<img src="/help/images/clip_image002.jpg">
+</p>
+<ol>
+<li>
+	<strong>Světle modrý sloupec</strong> Procento vozidel s domicilem do 125 m od úseku
+</li>
+<li>
+	<strong>Žlutý sloupec</strong> Procento vozidel s domicilem od 126 m do 500 m od úseku
+</li>
+<li>
+	<strong>Oranžový sloupec</strong> Procento vozidel s domicilem od 501 m do 2 000 m od úseku
+</li>
+<li>
+	<strong>Modrý sloupec</strong> Procento vozidel s domicilem nad 2 000 m od úseku
+</li>
+<li>
+	<strong>Fialový sloupec</strong> Procento vozidel bez známého domicilu - návštěvnické parkování v úseku
+</li>
+<li>
+	<strong>Červený sloupec</strong> Procento vozidel bez parkovacího oprávnění
+</li>
+<li>
+	<strong>Zelený sloupec</strong> Procento vozidel volných parkovacích míst v úseku
+</li>
+</ol>
+
+<h3>GRAF2 - Obsazenost úseku podle typu parkovacího oprávnění</h3>
+<ol>
+<strong>Význam sloupců v grafu</strong>  (hodnoty vyjadřují percentuelní zastoupení druhu POP)
+<li>
+<strong>R:</strong> Rezidentská
+</li><li>
+<strong>V:</strong> Vlastnická
+</li><li>
+<strong>A:</strong> Abonentská
+</li><li>
+<strong>P:</strong> Přenosná
+</li><li>
+<strong>C:</strong> Carsharing
+</li><li>
+<strong>E:</strong> Ekologická
+</li><li>
+<strong>O:</strong> Ostatní
+</li><li>
+<strong>S:</strong> Sociální
+</li><li>
+<strong>VI:</strong> Návštěvníci
+</li><li>
+<strong>NR:</strong> Neplatiči
+</li><li>
+<strong>FR:</strong> Volná místa
+</li></ol>
+
+</div>
+
