@@ -3,7 +3,7 @@ layout: default_tsk
 title: Zóny parkovacích státní 
 ---
 
-<div id="map"></div>
+
 
     <link rel="stylesheet" href="css/datamap.css"/> 
     <link rel="stylesheet" href="css/leaflet_002.css"/>
@@ -13,6 +13,10 @@ title: Zóny parkovacích státní
     <link rel="stylesheet" href="css/zps.css"/>  
     
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
     <script src="js/Leaflet.Control.Custom.js"></script>
     <script src="js/fullscreen.js"></script>
@@ -25,6 +29,7 @@ title: Zóny parkovacích státní
     <script src="js/zps.js"></script>
     <script src="js/datamap2.js"></script>
 
+<div id="map"></div>
 
 <script>
     
@@ -44,7 +49,6 @@ GeoData = 'Coordinates';
 var map = L.map('map').setView([clat, clon], 15); //,{zoomControl: false}
 
 OSMpodklad.addTo(map); 
-
       
 GeoDataFile = GeoData + '.json';
 GeoDataSource = GeoData + '.tsv';
@@ -57,6 +61,16 @@ $.getJSON(
           });
 
 DATAMAP.addTo(map); 
+
+$.getJSON(
+          'DOP_ZPS_USEKY_p.json'
+         ,function (data) {
+          Useky.addData(data);
+          });
+
+Useky.addTo(map); 
+
+
 
 var legend = L.control({position: 'topright'});
 
@@ -173,24 +187,43 @@ var choiceL = L.control.custom({
 
 choiceL.addTo(map);
 
-var wmsLayer = L.tileLayer.wms('http://geoportal.cuzk.cz/WMS_ORTOFOTO_PUB/service.svc/get?', {
+//vyber satelitich snimku
+
+var CUZK = L.tileLayer.wms('http://geoportal.cuzk.cz/WMS_ORTOFOTO_PUB/service.svc/get?', {
+  attribution: '&copy;CUZK',
   layers : 'GR_ORTFOTORGB'
-}).addTo(map);
+})
+;
+
+var Orto2012 = L.tileLayer.wms('http://mpp.praha.eu/arcgis/services/MAP/Ortofotomapa_archiv/MapServer/WmsServer?', {
+  attribution: '&copy;IPR Praha',
+  layers : '73'
+})
+;
+
+var Orto2018 = L.tileLayer.wms('http://mpp.praha.eu/arcgis/services/MAP/Ortofotomapa_archiv/MapServer/WmsServer?', {
+  attribution: '&copy;IPR Praha',
+  layers : '5'
+})
+;
 
 var baseMaps = {
-    "wmsLayer": wmsLayer,
-    "OSMpodklad": OSMpodklad
+    "OSMpodklad": OSMpodklad,
+    "Ortofoto mimovegetační 2018": Orto2018,
+    "Ortofoto mimovegetační 2012": Orto2012,
+    "ČUZK": CUZK
+    
 };
 
 var overlayMaps = {
-  "DATAMAP": DATAMAP   
+  "Statistiky": DATAMAP,
+  "Úseky": Useky   
 };
 
 var choiceB = L.control.layers(baseMaps, overlayMaps);
 
 choiceB.addTo(map);
 
+
 </script>
 
-
-</div>  

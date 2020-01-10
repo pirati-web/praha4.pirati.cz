@@ -3,9 +3,9 @@ var Obs_grades = [30,50,70,80,90,100,130];
 var Resp_colors = ['#ff0000','#ff805f','#ffc6b3','#f7ffee','#d8ffb3','#80ff00'];
 var Resp_grades = [20,40,60,80,90];
 var IMPROVE_colors = ['#ff0000','#ff805f','#ffc6b3','#f7ffee','#d8ffb3','#80ff00'];
-var IMPROVE_grades = [-0.2,-0.1,-0.05,0,0.05];
+var IMPROVE_grades = [-0.1,-0.0,0.05,0.1,0.2];
 var PSDIFF_colors = ['#ff0000','#ff805f','#ffc6b3','#f7ffee','#d8ffb3','#80ff00'];
-var PSDIFF_grades = [-20,-5,5,10,20];
+var PSDIFF_grades = [-20,-10,0,10,20];
 
 
 function getColor(d, ctype) {
