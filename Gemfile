@@ -32,6 +32,7 @@ group :jekyll_plugins do
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
+  gem "jekyll-leaflet", git: "https://github.com/DavidJVitale/jekyll-leaflet"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

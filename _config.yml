@@ -82,6 +82,7 @@ sass:
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
+  - jekyll-leaflet
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
@@ -154,9 +155,12 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/js
     - assets/img/program/icons
     - assets/img/program/garanti
     - assets/img/miscellaneous
     - assets/img/posts
     - assets/img/people
     - _sass
+
+ 
