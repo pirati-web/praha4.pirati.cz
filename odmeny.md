@@ -6,7 +6,7 @@ title: Odměny voleným zastupitelům
 
 V následujících tabulkách jsou shrnuty odměny a funkce pirátských zastupitelů.
 
-1/2019 došlo ke zvýšení odměn rozhodnutím vlády.
+1/2019 a 1/2020 došlo ke zvýšení odměn rozhodnutím vlády.
 
 4/2019 proběhla změna složení koalice a následně i výborů a komisí.
 
