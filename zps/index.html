@@ -134,12 +134,42 @@ info.onAdd = function (map) {
 info.update = function (props) {
     
    infoContent = getInfoContent(props);
+   var table_content = '';
+   /*var datacas = '' + $("input:radio[name=Cas]:checked").val();*/
+   if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {
+        table_content = '<table>'
+        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><td>Obsazených míst</td><td>' + props.OBS12 + '</td><td>' + props.OBS + '</td><td>'
+             + Math.round(100*(props.OBS/props.OBS12-1)) + '%</td></tr>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
+             + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
+        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVE + '%</td></tr>'             
+        + '</table>';
+
+   } 
+   if ($("input:radio[name=Cas]:checked").val() == "NOC" ) {
+        table_content =  '<table>'
+        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><td>Obsazených míst</td><td>' + props.NOC12 + '</td><td>' + props.NOC + '</td><td>'
+             + Math.round(100*(props.NOC/props.NOC12-1)) + '%</td></tr>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
+             + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
+        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVEN + '%</td></tr>'             
+        + '</table>';
+
+   }    
    this._div.innerHTML = ''        
-        + '<h4>Data o ZPS</h4>'    
+        + '<h4>Data o ZPS</h4> '    
         +  (props ?
-        '<b>' + props.CODE + '</b><br />' + infoContent        
+        'Úsek : <b>' + props.CODE + '</b><br />' + infoContent        
+        +'<br />'
+        + '<b>Porovnání úseků před a pod zavedení ZPS </b><br />'
+        + 'Úseky :' + props.USEKY + '<br />'
+        + table_content
+        + '<i>(ubytek obsazených míst - úbytek PS) * Obazenost</i>'
         : 'Klikni na úsek ZPS');
-};
+}       
+;
 
 
 
@@ -159,8 +189,8 @@ var choiceL = L.control.custom({
                   + '<BR>'
                   + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST <BR>'
                   + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" > RESPEKTOVANOST <BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA <BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > PSDIFF <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > ZMĚNA PS <BR>'
                   + '<BR>'
                   + '<input type="radio" name = "Cas" value = "DEN" checked> DEN <BR>'
                   + '<input type="radio" name = "Cas" value = "NOC" > NOC <BR>'                  
@@ -177,6 +207,7 @@ var choiceL = L.control.custom({
             {
                 ZPStype = $("input:radio[name=Zobrazit]:checked").val();
                 legend.update(); 
+                info.update(0);
                 DATAMAP.resetStyle();
 
             },
