@@ -114,12 +114,24 @@ var DATAMAP = L.geoJson(null, {
   layerName: 'DATAMAP',
   style: function style(feature) {
     var fillColor = "blue"; 
-    if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" ) 
+    if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
+      && $("input:radio[name=Cas]:checked").val() == "DEN" ) 
         fillColor = getColor(feature.properties.Obs,'Obs');
-    else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" ) 
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
+      && $("input:radio[name=Cas]:checked").val() == "NOC" ) 
+        fillColor = getColor(feature.properties.ObsN,'Obs');  
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
+      && $("input:radio[name=Cas]:checked").val() == "DEN" )  
         fillColor = getColor(feature.properties.Obs,'Resp');
-    else if ($("input:radio[name=Zobrazit]:checked").val() == "IMPROVE" ) 
-        fillColor = getColor(-feature.properties.IMPROVE,'IMPROVE');
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
+      && $("input:radio[name=Cas]:checked").val() == "NOC" )  
+        fillColor = getColor(feature.properties.ObsN,'Resp');  
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "IMPROVE" 
+      && $("input:radio[name=Cas]:checked").val() == "DEN" )  
+        fillColor = getColor(feature.properties.IMPROVE,'IMPROVE');  
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "IMPROVE" 
+      && $("input:radio[name=Cas]:checked").val() == "NOC" )  
+        fillColor = getColor(feature.properties.IMPROVEN,'IMPROVE');
     else if ($("input:radio[name=Zobrazit]:checked").val() == "PSDIFF" ) 
         fillColor = getColor(feature.properties.PSDIFF,'PSDIFF');      
     if (fillColor == null) fillColor = "black";
