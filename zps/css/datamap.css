@@ -1,4 +1,26 @@
 /*#map{ height: 95% }*/
+#zps_header {    
+
+  margin: 0 0 0 0;
+  background: #212121;
+  color: #8a8a8a;
+  font-weight: bold;
+}
+#zps_header  a {
+  color: #8a8a8a;
+}
+
+#zps_header  a:hover {
+  color: #fff;
+}
+
+#zps_header  img {
+  height: 35px;
+  margin: 5px ;
+}
+ 
+
+
  html, body, #map  {
         height: 100%;
         width: 100%;
