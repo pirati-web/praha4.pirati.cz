@@ -1,0 +1,297 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
+
+  {% include head.html %}
+
+  <body>
+
+
+    <link rel="stylesheet" href="css/datamap.css"/> 
+    <link rel="stylesheet" href="css/leaflet_002.css"/>
+    <link rel="stylesheet" href="css/Control_002.css"/>
+    <link rel="stylesheet" href="css/leaflet-search.css"/>
+    <link rel="stylesheet" href="css/leaflet-control-slidemenu.css"/>
+    <link rel="stylesheet" href="css/zps.css"/>  
+    <link rel="stylesheet" href="css/awesome.css">
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <script src="js/jquery.js"></script>
+
+    <script src="js/Leaflet.Control.Custom.js"></script>
+    <script src="js/fullscreen.js"></script>
+    <script src="js/url-polyfill.js"></script>
+    <script src="js/polyfill.js"></script>
+    <script src="js/ie11CustomProperties.js"></script>
+    <script src="js/Control_002.js"></script>                  
+    <script src="js/SlideMenu.js"></script>                  
+    <script src="js/popuphelp.js"></script>
+    <script src="js/zps.js"></script>
+    <script src="js/datamap2.js"></script>
+
+
+           
+          
+    <div id="zps_header">  
+    	<H4> <a href="https://praha4.pirati.cz"> <img src="/assets/img/brand/logo_napis_white.svg" alt="Česká pirátská strana"> </a>
+    	 <a href="praha1.html">Praha 1</a> #
+    	 <a href="praha2.html">Praha 2</a> #    	 
+    	 <a href="praha3.html">Praha 3</a> #
+    	 <a href="praha4.html">Praha 4</a> #
+    	 <a href="praha5.html">Praha 5</a> # 
+    	 <a href="praha6.html">Praha 6</a> # 
+    	 <a href="praha7.html">Praha 7</a> # 
+    	 <a href="praha8.html">Praha 8</a> # 
+    	 <a href="praha9.html">Praha 9</a> #   
+    	</H4> 
+    </div>
+    
+    <div id="mapout">
+
+        {{ content }}
+
+<script>    
+// inicialni promenne
+
+var ZPStype = 'OBSAZENOST';
+
+//GeoData = 'OB_201911D_NA';
+
+// initialize the map
+
+var map = L.map('map').setView([clat, clon], 15); //,{zoomControl: false}
+
+OSMpodklad.addTo(map); 
+      
+GeoDataFile = GeoData + '.json';
+GeoDataSource = GeoData + '.tsv';
+
+$.getJSON(
+          GeoDataPath + GeoDataFile
+         ,function (data) {
+          DATAMAP.addData(data);
+          });
+
+DATAMAP.addTo(map); 
+
+$.getJSON(
+          'data/PRAHA/DOP_ZPS_USEKY_p.json'
+         ,function (data) {
+          Useky.addData(data);
+          });
+
+Useky.addTo(map); 
+
+max_popup_width=200;
+
+var legend = L.control({position: 'topright'});
+
+legend.onAdd = function (map) {
+          this.div = L.DomUtil.create('div', 'info legend');
+          this.update();
+          return this.div;
+        };
+    
+legend.update = function () {              
+          this.div.innerHTML = getLegend(ZPStype);          
+        };    
+
+legend.addTo(map);  
+
+var fsControl = new L.Control.Fullscreen({
+          title: {
+            'false': 'Celá obrazovka !',
+            'true': 'Normální zobrazení'
+          },
+          position: 'topleft'
+        });
+
+map.addControl(fsControl);
+
+L.Control.geocoder({
+                placeholder: "Hledej adresu...",
+                showResultIcons: true,
+                errorMessage: 'Nic jsme nenašli...',
+                position: 'topleft',
+                //collapsed: false,
+                geocoder: new L.Control.Geocoder.Nominatim({
+                  geocodingQueryParams: {
+                    "viewbox": "14.209442,50.179536,14.710007,49.934428",
+                    "bounded": "1"
+                  }
+                })
+              }).addTo(map);
+              $('.leaflet-control-geocoder-icon').attr('title', 'Hledej adresu nebo souřadnice');
+
+
+function passDataToIfno(e) {
+    var layer = e.target;
+    info.update(layer.feature.properties);
+}
+
+function resetInfo(e) {
+    info.update();
+    }
+
+var info = L.control({
+  position: 'bottomleft',  
+});
+
+info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+info.update = function (props) {
+    
+   
+   var info_string = '';
+   infoContent = getInfoContent(props);
+
+   if (props) {
+   		info_string =  '' + '<h4>Data o ZPS</h4> '            
+        + 'Úsek : <b>' + props.CODE +  '</b><br />' + infoContent        
+        +'<br />';
+   		}
+
+   var table_content = '';     
+   
+   if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {
+        table_content = '<table>'
+        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><td>Obsazených míst</td><td>' + props.OBS12 + '</td><td>' + props.OBS + '</td><td>'
+             + Math.round(100*(props.OBS/props.OBS12-1)) + '%</td></tr>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
+             + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
+        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVE + '%</td></tr>'             
+        + '</table>';
+
+   } 
+   if ($("input:radio[name=Cas]:checked").val() == "NOC" ) {
+        table_content =  '<table>'
+        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><td>Obsazených míst</td><td>' + props.NOC12 + '</td><td>' + props.NOC + '</td><td>'
+             + Math.round(100*(props.NOC/props.NOC12-1)) + '%</td></tr>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
+             + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
+        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVEN + '%</td></tr>'             
+        + '</table>';
+
+   }    
+
+	if (props && porovnani == 'ANO') {
+		info_string += 
+		  '<b>Porovnání úseků před a pod zavedení ZPS </b><br />'
+        + 'Úseky :' + props.USEKY + '<br />'
+        + table_content
+        + '<i>(ubytek obsazených míst - úbytek PS) * Obazenost</i>'
+        ;
+	} 
+
+   this._div.innerHTML = '' +
+        (props ?
+        info_string
+        : '<h4>Data o ZPS</h4> Klikni na úsek ZPS'); 
+}       
+;
+
+
+
+info.addTo(map);
+
+var helpContent = getHelp();
+
+var slideHelp = L.control.slideMenu(helpContent, {position: 'bottomleft', menuposition: 'bottomleft',
+ width: '60%', height: '80%', direction: 'vertical', icon: ' fa-question-circle'}).addTo(map);
+
+
+
+var choiceL = L.control.custom({
+        position: 'topright',
+        content : '<div class = "legend leaflet-control" >'
+                  + 'Zobrazit:'
+                  + '<BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" > RESPEKTOVANOST <BR>'
+                  + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > ZMĚNA PS <BR>' : '') 
+                  + '<BR>'
+                  +  '<input type="radio" name = "Cas" value = "DEN" checked> DEN <BR>'
+                  + '<input type="radio" name = "Cas" value = "NOC" > NOC <BR>'                 
+                  +  '</div> '
+                  ,
+        style   :
+        {            
+            cursor: 'pointer',
+
+        },
+        events:
+        {
+            click: function(data)
+            {
+                ZPStype = $("input:radio[name=Zobrazit]:checked").val();
+                legend.update(); 
+                info.update(0);
+                DATAMAP.resetStyle();
+
+            },
+        }
+    })
+;
+
+choiceL.addTo(map);
+
+//vyber satelitich snimku
+
+var CUZK = L.tileLayer.wms('http://geoportal.cuzk.cz/WMS_ORTOFOTO_PUB/service.svc/get?', {
+  attribution: '&copy;CUZK',
+  layers : 'GR_ORTFOTORGB'
+})
+;
+
+var Orto2012 = L.tileLayer.wms('http://mpp.praha.eu/arcgis/services/MAP/Ortofotomapa_archiv/MapServer/WmsServer?', {
+  attribution: '&copy;IPR Praha',
+  layers : '73'
+})
+;
+
+var Orto2018 = L.tileLayer.wms('http://mpp.praha.eu/arcgis/services/MAP/Ortofotomapa_archiv/MapServer/WmsServer?', {
+  attribution: '&copy;IPR Praha',
+  layers : '5'
+})
+;
+
+var baseMaps = {
+    "OSMpodklad": OSMpodklad,
+    "Ortofoto mimovegetační 2018": Orto2018,
+    "Ortofoto mimovegetační 2012": Orto2012,
+    "ČUZK": CUZK
+    
+};
+
+var overlayMaps = {
+  "Statistiky": DATAMAP,
+  "Úseky": Useky   
+};
+
+var choiceB = L.control.layers(baseMaps, overlayMaps);
+
+choiceB.addTo(map);
+
+
+</script>
+        
+  	</div>
+
+
+  
+  {% include js/main.html %}
+
+  </body>
+
+</html>
