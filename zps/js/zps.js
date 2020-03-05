@@ -1,11 +1,13 @@
 var Obs_colors = ['#ffff00','#ffff93','#ffffd4','#fffff4','#ffc4b0','#ff9b7e','#ff603e','#ff0000'];
 var Obs_grades = [30,50,70,80,90,100,130];
-var Resp_colors = ['#ff0000','#ff805f','#ffc6b3','#f7ffee','#d8ffb3','#80ff00'];
-var Resp_grades = [20,40,60,80,90];
+var Resp_colors = ['#ff0000','#ff805f','#ffc6b3','#ffff00','#ffff93','#d8ffb3','#80ff00'];
+var Resp_grades = [20,40,60,70,80,90];
 var IMPROVE_colors = ['#ff0000','#ff805f','#f7ffee','#d8ffb3','#80ff00','#17ae11','#065c03'];
 var IMPROVE_grades = [-0.1,-0.01,0.1,0.2,0.4,0.6];
 var PSDIFF_colors = ['#ff0000','#ff805f','#ffc6b3','#f7ffee','#d8ffb3','#80ff00'];
 var PSDIFF_grades = [-10,-5,-1,5,10];
+var POP_colors = ['#065c03','#17ae11','#80ff00','#f7ffee','#ffff93','#ffff00','#ff805f','#ff0000'];
+var POP_grades = [0.5,0.8,1,1.2,1.5,2,3];
 
 
 function getColor(d, ctype) {
@@ -13,6 +15,7 @@ function getColor(d, ctype) {
 	if (ctype == 'Resp') {dcolors = Resp_colors; dgrades = Resp_grades;}
 	if (ctype == 'IMPROVE') {dcolors = IMPROVE_colors; dgrades = IMPROVE_grades;}
 	if (ctype == 'PSDIFF') {dcolors = PSDIFF_colors; dgrades = PSDIFF_grades;}
+  if (ctype == 'POP') {dcolors = POP_colors; dgrades = POP_grades;}
   	resul_color = dcolors[0];
 	for (var i = 0; i < dgrades.length; i++) {
             if (d > dgrades[i])  resul_color = dcolors[i+1] ;
@@ -27,6 +30,7 @@ function getLegend(ctype) {
 	if (ctype == 'RESPEKTOVANOST') {dcolors = Resp_colors; dgrades = Resp_grades; Title = 'Respektovanost'; }
 	if (ctype == 'IMPROVE') {dcolors = IMPROVE_colors; dgrades = IMPROVE_grades; Title = 'Index změny obsazenosti';}
 	if (ctype == 'PSDIFF') {dcolors = PSDIFF_colors; dgrades = PSDIFF_grades; Title = 'Počet legalizovaných parkovacích míst';}
+  if (ctype == 'POP') {dcolors = POP_colors; dgrades = POP_grades; Title = 'Poměr počtu parkovacích oprávnění <BR> na počet parkovacích míst';}
 	var LContent = '';
 	LContent += '<strong>' + Title + '</strong><br>';
 	LContent +=
@@ -54,6 +58,7 @@ function getInfoContent(props) {
         if (props[p] == 'VIS' ) popupContent += 'Návštěvnická (oranžová)' + '\n';
       if (p == 'CELKEM_PS') popupContent +=  'PS celkem' + '\t' + props[p] + '\n';
       if (p == 'PS_ZPS') popupContent +=  'PS v ZPS' + '\t' + props[p] + '\n';
+      if (p == 'POP') popupContent +=  'Parkovacích oprávnění' + '\t' + props[p] + '\n';
       if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {
           if (p == 'Obs' ) popupContent += 'Obsazenost' +  '\t' + props[p] + '% \n';
           if (p == 'Resp' ) popupContent += 'Respektovanost' +  '\t' + props[p] + '% \n';

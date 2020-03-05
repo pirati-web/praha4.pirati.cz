@@ -18,6 +18,10 @@
   height: 35px;
   margin: 5px ;
 }
+
+#zps_header  h4 {
+  margin: 0px ;
+}
  
 
 
@@ -31,7 +35,7 @@
 #mapout {    
     position: relative;
     
-    height: calc(100% - 100px); 
+    height: calc(100% - 45px); 
     /*z-index: -1;*/
 }
 

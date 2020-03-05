@@ -46,6 +46,7 @@
     	 <a href="praha7.html">Praha 7</a> # 
     	 <a href="praha8.html">Praha 8</a> # 
     	 <a href="praha9.html">Praha 9</a> #   
+    	 <a href="napoveda.html">Vysvětlivky</a> #
     	</H4> 
     </div>
     
@@ -62,7 +63,7 @@ var ZPStype = 'OBSAZENOST';
 
 // initialize the map
 
-var map = L.map('map').setView([clat, clon], 15); //,{zoomControl: false}
+var map = L.map('map',{preferCanvas: true}).setView([clat, clon], 15); //,{zoomControl: false}
 
 OSMpodklad.addTo(map); 
       
@@ -78,7 +79,7 @@ $.getJSON(
 DATAMAP.addTo(map); 
 
 $.getJSON(
-          'data/PRAHA/DOP_ZPS_USEKY_p.json'
+          UsekyFile
          ,function (data) {
           Useky.addData(data);
           });
@@ -218,7 +219,8 @@ var choiceL = L.control.custom({
                   + '<BR>'
                   + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST <BR>'
                   + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" > RESPEKTOVANOST <BR>'
-                  + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'
+                  + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "POP" > POP <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'
                   + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > ZMĚNA PS <BR>' : '') 
                   + '<BR>'
                   +  '<input type="radio" name = "Cas" value = "DEN" checked> DEN <BR>'

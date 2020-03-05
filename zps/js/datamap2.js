@@ -122,10 +122,10 @@ var DATAMAP = L.geoJson(null, {
         fillColor = getColor(feature.properties.ObsN,'Obs');  
     else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" )  
-        fillColor = getColor(feature.properties.Obs,'Resp');
+        fillColor = getColor(feature.properties.Resp,'Resp');
     else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
       && $("input:radio[name=Cas]:checked").val() == "NOC" )  
-        fillColor = getColor(feature.properties.ObsN,'Resp');  
+        fillColor = getColor(feature.properties.RespN,'Resp');  
     else if ($("input:radio[name=Zobrazit]:checked").val() == "IMPROVE" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" )  
         fillColor = getColor(feature.properties.IMPROVE,'IMPROVE');  
@@ -134,6 +134,10 @@ var DATAMAP = L.geoJson(null, {
         fillColor = getColor(feature.properties.IMPROVEN,'IMPROVE');
     else if ($("input:radio[name=Zobrazit]:checked").val() == "PSDIFF" ) 
         fillColor = getColor(feature.properties.PSDIFF,'PSDIFF');      
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "POP" ) 
+        fillColor = getColor( (feature.properties.CELKEM_PS > 0 ? 
+                                  feature.properties.POP/feature.properties.CELKEM_PS : 0 )
+                              ,'POP');        
     if (fillColor == null) fillColor = "black";
     var fillOpacity = feature.properties.opacity;
     if (fillOpacity == null) fillOpacity = .2;
