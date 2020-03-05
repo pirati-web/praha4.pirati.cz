@@ -29,7 +29,7 @@ function getLegend(ctype) {
 	if (ctype == 'OBSAZENOST') {dcolors = Obs_colors; dgrades = Obs_grades; Title = 'Obsazenost'; }
 	if (ctype == 'RESPEKTOVANOST') {dcolors = Resp_colors; dgrades = Resp_grades; Title = 'Respektovanost'; }
 	if (ctype == 'IMPROVE') {dcolors = IMPROVE_colors; dgrades = IMPROVE_grades; Title = 'Index změny obsazenosti';}
-	if (ctype == 'PSDIFF') {dcolors = PSDIFF_colors; dgrades = PSDIFF_grades; Title = 'Počet legalizovaných parkovacích míst';}
+	if (ctype == 'PSDIFF') {dcolors = PSDIFF_colors; dgrades = PSDIFF_grades; Title = 'Počet legalizovaných <BR> parkovacích míst';}
   if (ctype == 'POP') {dcolors = POP_colors; dgrades = POP_grades; Title = 'Poměr počtu parkovacích oprávnění <BR> na počet parkovacích míst';}
 	var LContent = '';
 	LContent += '<strong>' + Title + '</strong><br>';
