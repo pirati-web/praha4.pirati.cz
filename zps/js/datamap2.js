@@ -135,8 +135,8 @@ var DATAMAP = L.geoJson(null, {
     else if ($("input:radio[name=Zobrazit]:checked").val() == "PSDIFF" ) 
         fillColor = getColor(feature.properties.PSDIFF,'PSDIFF');      
     else if ($("input:radio[name=Zobrazit]:checked").val() == "POP" ) 
-        fillColor = getColor( (feature.properties.CELKEM_PS > 0 ? 
-                                  feature.properties.POP/feature.properties.CELKEM_PS : 0 )
+        fillColor = getColor( (feature.properties.PS_ZPS > 0 ? 
+                                  feature.properties.POP/feature.properties.PS_ZPS : 0 )
                               ,'POP');        
     if (fillColor == null) fillColor = "black";
     var fillOpacity = feature.properties.opacity;
