@@ -1,6 +1,37 @@
 -
-  id: 1
-  title: 
-  desc: 
-  garant: tibor.vansa
+  id: 2
+  title: Školství
+  desc: Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji kontrolovat a rozvíjet.
+  garant: zuzana.ujhelyiova
   redmine: 28113
+-
+  id: 5
+  title: Otevřená radnice v moderním městě
+  desc: Otevřená radnice v moderním městě
+  garant: zuzana.bohmova
+  redmine: 28149  
+- 
+  id: 1
+  title: Bydlení
+  desc: ...
+  garant: jiri.dohnal
+  redmine: 28141
+- 
+  id: 3
+  title: Doprava
+  desc: ...
+  garant: martin.duska
+  redmine: 28135
+- 
+  id: 4
+  title: Územní rozvoj
+  desc: ...
+  garant: josef.kocourek
+  redmine: 28139
+
+-
+  id: 6
+  title: Bezpečnost
+  desc: ...
+  garant: milan.minarik
+  redmine: 28145
