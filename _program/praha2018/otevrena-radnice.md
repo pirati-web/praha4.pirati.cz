@@ -1,7 +1,7 @@
 ---
 title: Otevřená radnice
 campaignCategoryUid: praha2018
-img: vnitro.png
+img: program/icons/vnitro.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: ondrej.profant

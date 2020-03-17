@@ -1,8 +1,8 @@
 ---
 title: Bydlení a sociální služby
 campaignCategoryUid: praha4
-img: garant-vladka.jpg
-icon: mistni-rozvoj.svg
+img: program/garanti/garant-vladka.jpg
+icon: program/icons/mistni-rozvoj.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: vladka.sykorova
 ordprog: 6

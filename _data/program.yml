@@ -1,48 +1,48 @@
 -
   id: 1
   title: Transparentní a profesionální radnice
-  desc: Zveřejňování záznamů zastupitelstva a prodloužení doby zveřejňování Zlepšení komunikace úřadu, zastupitelstva a rady s občany (Možnost přihlásit interpelaci občana elektronicky, posunutí interpelací na přívětivější hodinu, transparentní vyřizování podnětů, transparentní záznamy z komisí a výborů)
+  desc: Transparentní a profesionální radnice
   garant: jan.hora
   redmine: 27639
 -
   id: 2
   title: Podpora výstavby v prospěch obyvatel
-  desc: Ochrana proti naddimenzované developerské výstavbě včetně podpory výstavby více bytů a méně kanceláří a oc Podílení se developerů na nákladech na občanskou vybavenost spolu s městem a prevence proti zahušťování výstavby na sídlištích Územní studie  v okolí stanic metra D a na dalších rozvojových plochách Transparentní rozhodování a větší informovanost v územním rozvoji 
-  garant: josef.vlach
-  redmine: 27639
+  desc: Podpora výstavby v prospěch obyvatel
+  garant: jan.hora
+  redmine: 27641
 -
   id: 3
   title: Čisté a zdravé město
-  desc: Výsadba více stromů v ulicích
-  garant: josef.vlach
-  redmine: 27639  
+  desc: Čisté a zdravé město
+  garant: jan.hora
+  redmine: 27643
 -
   id: 4
   title: Kvalitní veřejný prostor, metro D a parkování
-  desc: Rozumné parkovací zóny tak, aby bez problémů zaparkovala návštěva i řemeslník
-  garant: ladislav.dvorak
-  redmine: 27639
+  desc: Kvalitní veřejný prostor, metro D a parkování
+  garant: jan.hora
+  redmine: 27645
 -
   id: 5
   title: Zlepšení podmínek občanů bez domova a obyvatel v tíživých životních podmínkách  
-  desc: Zvýšení počtu sociálních pracovníků
-  garant: matej.sandor
-  redmine: 27639  
+  desc: Zlepšení podmínek občanů bez domova a obyvatel v tíživých životních podmínkách
+  garant: jan.hora
+  redmine: 27647 
 -
   id: 6
   title: Transparentní veřejné zakázky a efektivní hospodaření
-  desc: Nová, transparentní a efektivní pravidla pro veřejné zakázky
-  garant: marek.paris
-  redmine: 27639  
+  desc: Transparentní veřejné zakázky a efektivní hospodaření
+  garant: jan.hora
+  redmine: 27649
 -
   id: 7
   title: Férové dotace a granty Prahy 4
-  desc: Zefektivnit přerozdělování dotací a grantů MČ P4
-  garant: marie.jelinkova
-  redmine: 27639  
+  desc: Férové dotace a granty Prahy 4
+  garant: jan.hora
+  redmine: 27651
 -
   id: 8
   title: Rozmanitější školství a větší bezpečnost dětí
-  desc: Větší rozmanitost výuky na MŠ i ZŠ, více volitelných předmětů a specializovaných tříd
-  garant: vladka.sykorova
-  redmine: 27639
+  desc: Rozmanitější školství a větší bezpečnost dětí
+  garant: josef.vlach
+  redmine: 27653

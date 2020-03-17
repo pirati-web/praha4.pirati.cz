@@ -1,7 +1,8 @@
 ---
 date:         2018-06-07
 category:     blog
-tags:         energeticka
+tags:         
+ - energeticka
 layout:       post
 title:        "Otevřený dopis zastupitelstvu Prahy 4 k prodeji 4 energetické" 
 image:        energeticka.jpg

@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - mp
 - carousel
 - clen
-img: 		        alexandr-mansurov.jpg    # 165 x 220
+img: 		        people/alexandr-mansurov.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
 mail:
 - alexandr.mansurov@pirati.cz

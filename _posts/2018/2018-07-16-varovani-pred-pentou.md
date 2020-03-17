@@ -1,7 +1,9 @@
 ---
 date:         2018-07-16
 category:     blog
-tags:         metro kauzy
+tags:         
+ - metro
+ - kauzy
 layout:       post
 title:        "Piráti varují před společným podnikem Dopravního podniku s Pentou k metru D" 
 image:        pimp2.jpg

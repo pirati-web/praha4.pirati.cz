@@ -1,8 +1,8 @@
 ---
 title: Doprava a parkování
 campaignCategoryUid: praha4
-img: honza-doprava.jpg
-icon: parking house.png
+img: program/garanti/honza-doprava.jpg
+icon: program/icons/parking house.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 ordprog: 5
 garant: honza.hora 

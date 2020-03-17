@@ -1,8 +1,8 @@
 ---
 title: Transparentní hospodaření
 campaignCategoryUid: praha4
-img: transparentni-matej.jpg
-icon: vnitro a otevreny stat.svg
+img: program/garanti/transparentni-matej.jpg
+icon: program/icons/vnitro a otevreny stat.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 ordprog: 2
 garant: matej.sandor

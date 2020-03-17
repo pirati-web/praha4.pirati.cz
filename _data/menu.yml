@@ -20,16 +20,16 @@ main:
     name: Program
     match: program
     submenu:
-      - link: /program/magistrat.html
+      - link: /program/magistrat
         name: Magistrát
         match: magistrat
       - link: /program/praha4/priority/
         name: Priority Prahy 4
         match: praha4/priority
-      - link: /program/detail.html
+      - link: /program/detail
         name: Program P4 
         match: /program/detail
-      - link: /program/strategie.html
+      - link: /program/strategie
         name: Povolební strategie P4
         match: strategie  
   - link: /kontakt/

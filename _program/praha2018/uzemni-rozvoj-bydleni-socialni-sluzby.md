@@ -1,7 +1,7 @@
 ---
 title: Územní rozvoj, bydlení a sociální služby
 campaignCategoryUid: praha2018
-img: mistni-rozvoj.svg
+img: program/icons/mistni-rozvoj.svg
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41531
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: vit.simral

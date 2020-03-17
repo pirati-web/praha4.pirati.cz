@@ -1,0 +1,60 @@
+-
+  id: 1
+  title: Modernization of the Prague 6 City Hall and open data
+  desc: For those who want to handle everything electronically, we will set up modern online office with smart apps for particular agendas. However, for those who favour good old paper way with clerks, we will keep that as well. We will make the website of Prague 6 more clear and user friendly. We will introduce transparent clickable budget and open available data of the office.
+  garant: milos.vlach
+  redmine: 14403
+-
+  id: 2
+  title: Building of new P+R parking lots
+  desc: Building P+R parking lots on the outskirts of Prague within easy reach of public transport is a basic step in resolving of most of traffic problems of Prague 6. Visitors of Prague should be encouraged not to enter the wider centre by car, but park on the outskirts of Prague and use public transport instead. This reduces not only the traffic load but saves parking space too.
+  garant: viktor.mahrik
+  redmine: 14404
+-
+  id: 3
+  title: Improving quality of education in Prague 6
+  desc: We will allocate the money from the budget of Prague 6 to the directors of schools established by Prague 6 for personal evaluation of the teachers. We will increase the capacities of the kindergartens and primary schools. We will also bring option of electronic registration and enrolment to the schools, which will reduce yearly queues and stresses.
+  garant: vaclav.fortik
+  redmine: 14405
+-
+  id: 4
+  title: Repairing and improvements of Prague 6
+  desc: We will repair and give to public for use long-dilapidated buildings such as Dejvická 4., 3 buildings in Šolínova Street or a manor house on Šatovka. We will reconstruct the health centre Poliklinika Pod Marjánkou and we will determine the final form of the centre based on community planning, after discussion with doctors, citizens, preservationists and architects.
+  garant: jan.lejcko
+  redmine: 14406
+-
+  id: 5
+  title: We will renew the housing fund
+  desc: We support an innovative solution to the current housing crisis, such as the concept of housing co-operatives, and we will support the active role of the City Hall in housing policy. We will not support further unnecessary selling out of estates of key importance.
+  garant: jana.kabelova
+  redmine: 14407
+-
+  id: 6
+  title: Introduce civic participation not only on paper
+  desc: We will make meetings of City Hall commissions public. We will also engage the public into discussions and important decisions about places, where they live. We will respect opinions of the citizens.
+  garant: tomas.sidlo
+  redmine: 14408
+-
+  id: 7
+  title: Returning rights to City Hall deputies to decide on property
+  desc: We will transform municipal company SNEO a.s. into a modern, open and efficient company that will serve as a real service organization to its founder, Prague 6 City Hall. We will terminate its secretiveness and opacity, and we will renew the City Hall’s Investment Department managing of all further investment actions.
+  garant: vladimir.sraier
+  redmine: 14409
+-
+  id: 8
+  title: Cooler and greener Prague 6
+  desc: We will invest in the care of trees, planting of young trees, care of greenery and vertical greening. This will reduce dustiness, noise and temperature in the city. We plan to preserve gardening colonies. We will find suitable places for placing water elements on the streets - such as fountains and drinking spots.
+  garant: eva.ticha
+  redmine: 14410
+-
+  id: 9
+  title: Support to particular people
+  desc: We will support personal social workers and assistants, medical and nursing care in the field for seniors and people with reduced mobility. We will systematically support people caring for their loved ones at home. We will improve the availability of Emergency Medical Services and follow-up Emergency Pharmacies.
+  garant: barbora.hruzova
+  redmine: 14411
+-
+  id: 10
+  title: The culture and history of Prague 6 is for us important
+  desc: We will consistently protect the historical monuments and uniqueness of Prague 6 - so we will also support owners of listed conservation properties. We will make order in cultural grants and give certainty to the traditional operators of popular cultural events and institutions.
+  garant: ondrej.chrast
+  redmine: 14412
