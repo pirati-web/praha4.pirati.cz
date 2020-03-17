@@ -5,6 +5,7 @@ title: >-
   Tajemství kontrolní zprávy z Prahy 4
 date: '2019-09-16 00:01am'
 author: Tibor Vansa
+authorId: tibor.vansa
 image: kontrola.jpg
 tags: kontrolni zprava praha4 
 ---

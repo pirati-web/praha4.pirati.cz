@@ -7,6 +7,7 @@ layout:       post
 title:        "Otevřený dopis zastupitelstvu Prahy 4 k prodeji 4 energetické" 
 image:        energeticka.jpg
 author:       Tibor Vansa
+authorId: tibor.vansa
 ---
 
 Otevřený dopis zastupitelstvu MČ Praha 4 k prodeji 4 energetické

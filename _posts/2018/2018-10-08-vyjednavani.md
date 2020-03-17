@@ -5,6 +5,7 @@ title: >-
   První den po volbách
 date: '2018-10-08 00:01am'
 author: Tibor Vansa
+authorId: tibor.vansa
 image: vyjednavani.jpg
 tags: vyjednavani praha4 
 ---

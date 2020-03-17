@@ -5,6 +5,7 @@ title: >-
   Vyjednávání na Praze 4 úspěšně ukončeno, koaliční smlouva je podepsána. 
 date: '2018-10-18 00:01am'
 author: Tibor Vansa
+authorId: tibor.vansa
 image: P1230476_v1.JPG
 tags: vyjednavani koalice praha4 
 ---

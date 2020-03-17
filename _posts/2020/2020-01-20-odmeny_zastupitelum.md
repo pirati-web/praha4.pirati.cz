@@ -5,6 +5,7 @@ title: >-
   Z cyklu Návrhy psané do šuplíku: Odměna zastupitelům
 date: '2020-01-20 00:01am'
 author: Marek Paris
+authorId: marek.paris
 image: minitrafiky.png
 tags: odmeny komise zastupitele
 ---
