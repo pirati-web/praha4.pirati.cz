@@ -1,7 +1,9 @@
 ---
 date:         2018-03-21
 category:     blog
-tags:         zhmp doprava
+tags:         
+ - ZHMP
+ - doprava
 layout:       post
 title:        "Pražská koalice: 200 stránek k metru D si prostudujte za 2 dny. Miliony na motorky a síťové prvky. Březnové zastupitelstvo oplývá bizarnostmi" 
 image:        metrod.jpg

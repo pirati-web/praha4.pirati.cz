@@ -1,7 +1,8 @@
 ---
 date:         2018-01-21
 category:     blog
-tags:         praha-4
+tags:         
+ - místní sdružení
 layout:       post
 title:        "Založení Pirátů na čtyřce" 
 image:        zalozeni.png

@@ -1,0 +1,28 @@
+<div class="c-program-candidate-badge">
+  <p>
+      <div class="c-program-candidate-badge__avatar">
+          {% capture img %}{% if include.candidatePage.img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' @path %}{% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
+          <a href="{{ include.candidatePage.url | relative_url }}"><img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image"></a>
+      </div>
+      <div class="c-program-candidate-badge__description">
+          <h4 class="c-program-candidate-badge__name"><a href="{{ include.candidatePage.url | relative_url }}"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></a></h4>
+          <strong class="c-program-candidate-badge__profession">
+              {% if include.candidate.age %} {{ include.candidate.age }} let, {% endif %}
+              {{ include.candidate.profession }}{% if include.candidate.party %}, {{ include.candidate.party }} {% endif %}
+          </strong>
+          {% if include.candidate.description %}<p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>{% endif %}         
+
+          {% assign posts = site.posts | sort: 'date' | reverse | where: "authorId", include.candidate.uid %}
+          <br>
+          
+          <h5>Články autora:</h5>
+          <ul>
+            {% for post in posts limit: 3 %}
+              <li>
+                <a class="c-emphasized-anchor u-stacked" href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+
+      </div>
+  </p>
+</div>

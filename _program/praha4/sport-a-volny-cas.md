@@ -1,8 +1,8 @@
 ---
 title: Sport a volný čas, bezpečnost
 campaignCategoryUid: praha4
-img: josef-vlach.jpg
-icon: sport.png
+img: program/garanti/josef-vlach.jpg
+icon: program/icons/sport.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: josef.vlach
 ordprog: 8

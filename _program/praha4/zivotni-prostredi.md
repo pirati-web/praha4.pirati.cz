@@ -1,8 +1,8 @@
 ---
 title: Životní prostředí
 campaignCategoryUid: praha4
-img: jelinkova-marie.jpg
-icon: zivotni-prostredi.svg
+img: program/garanti/jelinkova-marie.jpg
+icon: program/icons/zivotni-prostredi.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: marie.jelinkova
 ordprog: 9
