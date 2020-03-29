@@ -1,8 +1,8 @@
 ---
 title: Otevřená radnice
 campaignCategoryUid: praha4
-img: viktor-otevrena.jpg
-icon: radnice-01.png
+img: program/garanti/viktor-otevrena.jpg
+icon: program/icons/radnice-01.png
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: viktor.derka
 ordprog: 1

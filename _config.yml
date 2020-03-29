@@ -1,109 +1,65 @@
 # Welcome to Jekyll!
 #
-# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
-# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
-# technické nastavení
-#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
 title: Piráti Praha 4
 email: tibor.vansa@gmail.com
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 keywords: piráti, česká pirátská strana, Praha 4
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha4.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: me@adamjaros.cz
-
-organization:
-  name: "<b>Praha 4</b>"
-  short_name: "Piráti Praha 4"
-  email: praha4@pirati.cz
-  #phone: +420 777 123 456 789
-  address: |
-      Na Moráni 3,
-      120 00 Praha 2
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
-  residenceImg:
-  redmineLink: https://redmine.pirati.cz/projects
-
-contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: piratiRootWebsite
-
-#calendar:
-#  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
-#  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
-#  title: "Celopražský kalendář"
-#  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
-
-
-calendar:
-  apiKey: AIzaSyDzpWiT1UWlgmvJY1hF9Iqp3SrjPzEUHXE
-  id: pirati.praha4@gmail.com
-  title: "Kalendář Pirátů Praha 4"
-  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha4%40gmail.com&amp;color=%23B1365F&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
-facebook:
-  loadSDK: true
-  profilePage: "https://www.facebook.com/PiratiPraha4/"
-  appId: 1526197851008996
-
-twitter:
-  loadSDK: true
-  profile: piratipraha
-
-instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
-
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
-
-github:
-  url: https://github.com/pirati-web/praha4.pirati.cz/
-  branch: master
-
-
-############### SETTINSG #################
-#
-twitter_username: jekyllrb
-github_username:  jekyll
+  email: jan.suchanek@gmail.com, me@adamjaros.cz
 
 theme: jekyll-theme-pirati
 
 sass:
   style: compressed
   sass_dir: _sass
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-pirati
+
 plugins:
-  - jekyll-leaflet
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-environment-variables
+
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
+pagination:
+  per_page: 2
+  limit: false
+
 exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
   - readme.md
   - Gemfile
   - Gemfile.lock
   - vendor
 
-
-permalink: /aktuality/:title.html
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    root: /clenove/
+    permalink: /clenove/:path/
+
   program:
     output: true
     permalink: /program/:path/
+
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
@@ -114,23 +70,73 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: 
+      rbar:
         - foto
         - personContact
         - people
-  -
-    scope:
-      path: "_posts"
-    values:
-      layout: "post"
+      keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: 
-         - garant
-         - program
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
+
+organization:
+  name: Místní sdružení Pirátské strany Praha 4
+  shortName: Piráti Praha 4
+  email: praha4@pirati.cz
+  contactUid: tibor.vansa
+  #phone: +420 
+  address: |
+    Na Moráni 3
+    120 00 Praha 2
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects/programove-priority-2018-2022-p4
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110111
+
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/PiratiPraha4" target="_blank">Piráti Praha 4</a>
+
+calendar:
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  apiKey: AIzaSyDzpWiT1UWlgmvJY1hF9Iqp3SrjPzEUHXE
+  id: pirati.praha4@gmail.com
+  title: "Kalendář Pirátů Praha 4"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha4%40gmail.com&amp;color=%23B1365F&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+
+facebook:
+  profilePage: https://www.facebook.com/PiratiPraha4
+  loadSDK: true
+  appId: 1526197851008996
+
+twitter:
+  profile: piratipraha
+  loadSDK: true
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz
+
+#forum:
+#  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/praha4.pirati.cz/
+  branch: master
 
 emptyArray: []
 
@@ -150,17 +156,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.2.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
-    - assets/js
-    - assets/img/program/icons
-    - assets/img/program/garanti
-    - assets/img/miscellaneous
     - assets/img/posts
-    - assets/img/people
+    - assets/snippet
     - _sass
-
- 

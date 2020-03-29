@@ -1,7 +1,7 @@
 ---
 title: Programové priority Pirátů na Praze 4
 campaignCategoryUid: priority4
-img: tibor-priority.jpg
+img: program/garanti/tibor-priority.jpg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: tibor.vansa
 ---

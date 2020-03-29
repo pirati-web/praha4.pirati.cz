@@ -1,7 +1,7 @@
 ---
 title: Doprava
 campaignCategoryUid: praha2018
-img: doprava.svg
+img: program/icons/doprava.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
 garant: vit.mahrik 
@@ -39,8 +39,7 @@ několik tisíc za roční jízdenku najednou, a proto jezdí dráž.
 
 ### Zlepšíme situaci v oblasti parkování
 * **Zasadíme se o zvýšení počtu parkovacích míst tam, kde to Pražané potřebují**.
-V
-řadě lokalit je nedostatek parkovacích míst pro rezidenty největším problémem, který
+V řadě lokalit je nedostatek parkovacích míst pro rezidenty největším problémem, který
 je potřeba řešit.
 * **Vybudujeme záchytná kapacitní parkoviště pro krátkodobé i dlouhodobé
 stání návštěvníků.** Je nutné, aby záchytná parkoviště na hranicích i mimo území

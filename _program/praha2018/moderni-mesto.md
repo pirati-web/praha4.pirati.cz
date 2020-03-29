@@ -1,7 +1,7 @@
 ---
 title: Moderní město
 campaignCategoryUid: praha2018
-img: informatika.svg
+img: program/icons/informatika.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42745 
 garant: ondrej.profant

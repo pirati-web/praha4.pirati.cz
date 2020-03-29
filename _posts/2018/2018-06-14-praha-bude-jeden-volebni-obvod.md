@@ -1,7 +1,8 @@
 ---
 date:         2018-06-14
 category:     blog
-tags:         volby
+tags:         
+ - volby
 layout:       post
 title:        "Piráti odmítli pokřivení volebního systému v Praze, přestože by z něho těžili" 
 image:        rozdeleni-prahy.jpg

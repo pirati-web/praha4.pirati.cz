@@ -5,6 +5,7 @@ title: >-
   Stanovisko k odvolání vedoucí kontrolního odboru
 date: '2019-01-16 00:01am'
 author: Tibor Vansa
+authorId: tibor.vansa
 image: audit.jpeg
 tags: vyjednavani koalice praha4 
 ---

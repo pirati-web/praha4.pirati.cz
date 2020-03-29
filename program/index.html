@@ -18,7 +18,7 @@ rbar: ""
 		<div class="column column-block">
 		  <a href="{{item.url | relative_url }}">
 		  <center>
-		  <img class="program-icon" src="{{ item.img | prepend: '/assets/img/program/garanti/' | relative_url}}" alt="{{item.title}}" />
+		  <img class="program-icon" src="{{ item.img | prepend: '/assets/img/' | relative_url}}" alt="{{item.title}}" />
 	    	  <h2>{{item.title}}</h2>
 	    	  </center>
 	  	 </a>
@@ -26,7 +26,7 @@ rbar: ""
 		{% endfor %}
 
 		<div class="column column-block">
-		  <a href="{{'/program/magistrat.html'  | relative_url }}">
+		  <a href="{{'/program/magistrat'  | relative_url }}">
 		  <center>
 		  <img class="program-icon" src="{{ '/assets/img/program/garanti/zdenek-hrib.jpg' | relative_url}}" alt="{{item.title}}" />
 	    	  <h2>Program pro magistrát</h2>

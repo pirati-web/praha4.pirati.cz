@@ -6,7 +6,11 @@ layout: blank-article
   {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
   {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
 </div>
-	
+
+{% if page.wiki %}
+  <p><a class="c-emphasized-anchor u-stacked" href="{{ page.wiki }}">{{ page.wiki }}</a></p>
+{% endif %}
+
 {% if page.calendar %}
 <div class="row">
   <div class="medium-12 large-12 columns">

@@ -1,8 +1,8 @@
 ---
 title: Územní rozvoj a metro D 
 campaignCategoryUid: praha4
-img: rejchrtova-petra.jpg	
-icon: doprava.svg
+img: program/garanti/rejchrtova-petra.jpg	
+icon: program/icons/doprava.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: petra.rejchrtova
 ordprog: 3

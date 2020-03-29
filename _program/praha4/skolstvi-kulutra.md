@@ -1,8 +1,8 @@
 ---
 title: Školství a kultura
 campaignCategoryUid: praha4
-img: adam-jaros.jpg
-icon: vzdelani.png	
+img: program/garanti/adam-jaros.jpg
+icon: program/icons/vzdelani.png	
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: adam.jaros
 ordprog: 7

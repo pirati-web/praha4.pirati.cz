@@ -1,8 +1,8 @@
 ---
 title: Moderní služby občanům
 campaignCategoryUid: praha4
-img: marek-sluzby.jpg	
-icon: metropole-01.svg
+img: program/garanti/marek-sluzby.jpg	
+icon: program/icons/metropole-01.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: marek.paris
 ordprog: 4

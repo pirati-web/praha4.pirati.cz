@@ -1,0 +1,52 @@
+{% capture label %}
+    {% if include.item.name %}{{ include.item.name }}{% else %}{{ include.item.title }}{% endif %}
+{% endcapture %}
+{% if include.item.url contains 'http' %}
+    {% assign url = include.item.url %}
+{% else %}
+    {% assign url = include.item.url | relative_url %}
+{% endif %}
+<div class="c-profile-badge {% if include.style == 'card' %}c-profile-badge--card{% endif %} {% if include.class %}{{ include.class }}{% endif %}">
+    <div class="c-profile-badge__avatar">
+      {%- capture img -%}
+        {%- if include.item.img -%}
+          {%- if include.imgSize != 'big' -%}
+            {% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' @path %}
+          {%- else -%}
+            {% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' @path %}
+          {%- endif -%}
+        {%- else -%}
+          {{ 'assets/img/people/unknown-pirate.svg' | relative_url }}
+        {%- endif -%}
+      {%- endcapture -%}
+      <a class="c-profile-badge__anchor" href="{{ url }}"><img src="{{ img }}" alt="{{ label }}" class="c-profile-badge__image {% if include.imgStyle == 'round' %}c-profile-badge__image--round{% endif %} {% if include.imgSize != 'big' %}c-profile-badge__image--smaller{% endif %}"></a>
+    </div>
+
+    <div class="c-profile-badge__body">
+        <h2 class="c-profile-badge__headline"><a href="{{ url }}" style="text-decoration: none" class="{% if include.headlineClass %}{{ include.headlineClass }}{% else %}t-h5-super{% endif %}">{{ label }}</a></h2>
+        {% unless include.showDescription == false %}
+        <p class="c-profile-badge__desc">
+            {% if include.description %}
+                {{ include.description }}
+            {% else %}
+                {{ include.item.description }}
+            {% endif %}
+        </p>
+       
+      {% endunless %}
+
+      
+        {% unless include.showContactInfo == false %}
+            {% if include.item.mob or include.item.mail or include.item.address %}
+                <div class="c-profile-badge__contacts">
+                    {% if include.item.mob %}
+                      <div><i class="fa fa-phone"></i> <a class="c-emphasized-anchor" href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a></div>
+                    {% endif %}                
+                    {% if include.item.mail %}
+                      <div><i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a></div>
+                    {% endif %}
+                </div>
+            {% endif %}
+        {% endunless %}          
+    </div>
+</div>

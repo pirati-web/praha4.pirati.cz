@@ -1,7 +1,7 @@
 ---
 title: Životní prostředí
 campaignCategoryUid: praha2018
-img: zivotni-prostredi.svg
+img: program/icons/zivotni-prostredi.svg
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 garant: eva.tylova
