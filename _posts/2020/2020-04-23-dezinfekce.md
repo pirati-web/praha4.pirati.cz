@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti Praha 4: Radnice nezvládla poskytnout občanům dezinfekci zdarma. Nakoupili ji z vlastních zdrojů a budou ji rozdávat.
+title: Piráti rozdávali dezinfekci občanům, radnice nezajistila dostatek.
 date: 2020-04-23T12:00:00.000Z
 author: Tibor.Vansa 
 authorId: tibor.vansa    # uid nekoho z _people
