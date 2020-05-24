@@ -1,4 +1,7 @@
-## Záznamy z jednání zastupitelstva
+---
+layout: page
+title: Záznamy z jednání zastupitelstva
+---
 
 **Záznamy jsou ukládány od schválení na 4. jednání Zastupitelstva MČ Praha 4**
 
