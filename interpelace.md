@@ -1,13 +1,3 @@
----
-category: CLANKY
-title: Interpelace
-date: 2020-05-24T12:00:00.000Z
-author: Jmeno Prijmeni
-authorId: jmeno.prijmeni    # uid nekoho z _people
-image: posts/nan
-tags:
----
-
 ## Záznamy z jednání zastupitelstva
 
 **Záznamy jsou ukládány od schválení na 4. jednání Zastupitelstva MČ Praha 4**
