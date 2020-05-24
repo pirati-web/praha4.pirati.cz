@@ -37,6 +37,8 @@ main:
     match: kontakt
   - link: https://praha.pirati.cz
     name: Pražské sdružení
+  - link: /interpelace/
+    name: Interpelace
 
 bottom:
   - class: small-12 medium-4
