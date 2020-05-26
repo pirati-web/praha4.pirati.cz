@@ -17,7 +17,7 @@ title: Záznamy z jednání zastupitelstva
 
 ## Odpovědi na interpelace
 
-(Interpelace jsou pojmenovány podle osob, které na danou interpelaci odpovídali)
+(Interpelace jsou pojmenovány podle osob, které na danou interpelaci odpovídaly)
 
 <details>
 <summary>Z jednání zastupitelstva konaného 06.02.2019</summary>
