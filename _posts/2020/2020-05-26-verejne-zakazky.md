@@ -28,5 +28,6 @@ Apelujeme na radu, aby zavedla on-line jednání komisí rady a zavedla transpar
 Součástí zakázky má být i popis cílového stavu - tak aby bylo možné vyhodnotit, zda byl záměr úspěšný a prostředky efektivně vynaložené. Tak může jak příslušný  radní, tak i kdokoliv jiný  ověřit výsledek a v případě, že realizace záměru nebyla 100% úspěšná, může navrhnout opatření potřebná k tomu, aby se příští záměr podařilo realizovat lépe, rychleji nebo efektivněji. 
 
 **Kontakt pro média:**
+
 **Jan Hora**, zastupitel MČ Praha 4, tel: +420 775 608 734; mail: jan.hora@pirati.cz<br>**Michal Polák**, PR Manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
 
