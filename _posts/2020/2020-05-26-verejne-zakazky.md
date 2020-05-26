@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: >-  
   Piráti Praha 4 na mimořádném zastupitelstvu chtějí odvolat starostku kvůli nákupu předražené dezinfekce a pochybným zakázkám na IT systémy.
-date: '2020-05-26 08:20pm'
+date: 2020-05-26T20:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
 image: jan-hora2.jpg
