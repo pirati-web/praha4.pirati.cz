@@ -1,12 +1,13 @@
 ---
 layout: post
 category: blog
-title: >-  Piráti Praha 4 na mimořádném zastupitelstvu chtějí odvolat starostku kvůli nákupu předražené dezinfekce a pochybným zakázkám na IT systémy.
+title: >-  
+  Piráti Praha 4 na mimořádném zastupitelstvu chtějí odvolat starostku kvůli nákupu předražené dezinfekce a pochybným zakázkám na IT systémy.
 date: '2020-05-26 08:20am'
 author: Jan Hora
 authorId: jan.hora
 image: audit.jpg
-tags: verejne zakazky mimoradne zastupitelstvo odvolani starostky radnice 
+tags: verejne zakazky mimoradne zastupitelstvo odvolani starostky radnice
 ---
 
 *Praha 26. 5. 2020* - **Vzhledem k množství pochybení během posledních měsíců v oblasti zadávání zakázek a nedostatečnému řešení situace s koronavirem na Praze 4 opozice navrhuje na mimořádném zasedání zastupitelstva odvolání starostky Ireny Michalcové (ANO), které se koná ve středu 27. května. Důvodem jsou některé nákupy Prahy 4 z poslední doby. Zakázky podle zjištění Pirátů vyhrávají firmy personálně či finančně spojené s ODS a TOP09.**
