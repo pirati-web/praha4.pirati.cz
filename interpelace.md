@@ -3,7 +3,7 @@ layout: page
 title: Zveřejňujeme namísto radnice
 ---
 
-## Záznamy z jednání zastupitelstva - napořád, ne jen na 6 měsíců
+## Záznamy z jednání zastupitelstva - nejen na 6 měsíců
 
 **Záznamy jsou ukládány od schválení na 4. jednání Zastupitelstva MČ Praha 4**
 
