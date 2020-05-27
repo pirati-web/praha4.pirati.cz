@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
+- pms
 img: 		        people/viktor-derka.jpg    # 165 x 220
 description:         Zastupitel.	
 mail:
