@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Záznamy z jednání zastupitelstva
+title: Zveřejňujeme namísto radnice
 ---
+
+## Záznamy z jednání zastupitelstva - napořád, ne jen na 6 měsíců
 
 **Záznamy jsou ukládány od schválení na 4. jednání Zastupitelstva MČ Praha 4**
 
@@ -15,7 +17,7 @@ title: Záznamy z jednání zastupitelstva
 
 [Částečný záznam z 8. jednání ZMČ Praha 4 ze dne 15. května 2020](https://www.youtube.com/watch?v=7xr3OEdeX34)
 
-## Odpovědi na interpelace
+## Písemné odpovědi na interpelace
 
 (Interpelace jsou pojmenovány podle osob, které na danou interpelaci odpovídaly)
 
