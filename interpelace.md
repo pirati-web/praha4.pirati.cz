@@ -15,7 +15,9 @@ title: Zveřejňujeme namísto radnice
 
 [Záznam ze 7. jednání ZMČ Praha 4 ze dne 18. prosince 2019](https://www.youtube.com/watch?v=msHERWasmYs)
 
-[Částečný záznam z 8. jednání ZMČ Praha 4 ze dne 15. května 2020](https://www.youtube.com/watch?v=7xr3OEdeX34)
+[Částečný záznam z 8. jednání ZMČ Praha 4 ze dne 15. května 2020](https://www.youtube.com/watch?v=7xr3OEdeX34) (neoficiální)
+
+[Záznam z mimořádného 9. jednání ZMČ Praha 4 ze dne 27. května 2019](https://youtu.be/v7S8ONgg3VY) (neoficiální)
 
 ## Písemné odpovědi na interpelace
 
