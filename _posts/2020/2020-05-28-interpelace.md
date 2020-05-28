@@ -16,6 +16,6 @@ Piráti Praha 4 připravili a spustili projekt [“ZVEŘEJŇUJEME NAMÍSTO RADNI
 
 Koaliční většina zároveň neschválila program zastupitelstva a jednání tak bylo ukončeno bez projednání jediného bodu. Nedošlo na hlasování o odvolání starostky Ireny Michalcové. Zastupitelstvo se rovněž nemohlo věnovat řešení aktuálních problémů, které byly navrhované jako body na program. Zmínit lze například kontrolu mnohých problémových zakázek, jako byly zakázky na nákup ochranných a dezinfekční pomůcek, nebo zakázky v oblasti IT.  Projednávat se také měly podmínky nájmu, pronájmu a prodeje nemovitého majetku na Praze 4 nebo činnost radnice v době koronakrize. Koalice se odmítla vyjádřit i k zákonu o kompenzačním bonusu, který obce může připravit až o 10 miliard korun. Ujištění vlády, že tyto prostředky budou obcím vráceny formou dotace, podle Pirátů nejsou dostačující.
 
-**Kontakt pro média:**
+**Kontakt pro média:**<br>
 **Jan Hora**, zastupitel MČ Praha 4, tel: +420 775 608 734; mail: jan.hora@pirati.cz<br>
 **Michal Polák**, PR Manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
