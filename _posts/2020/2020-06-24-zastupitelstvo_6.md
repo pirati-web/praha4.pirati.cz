@@ -9,7 +9,7 @@ image: bydleni.jpg
 tags: bytova krize radnice zastupitelstvo
 ---
 
-*Praha 24.6.2020* - **Pirátský zastupitel Jan Hora upozorňuje na pravidelné odprodeje bytů ve správě městské části Prahy 4. Místo prodeje navrhneme pro vedení městské části povinnost vyhodnotit možnost převodu vlastnictví na magistrát s odpovídající kompenzací. Je to cesta, jak příznivě ovlivnit bydlení v Praze a zlepšit jeho dostupnost. Praha má velmi malý podíl městských bytů a pokračování privatizace bude do budoucna situaci nízkopříjmových profesí či seniorů ještě zhoršovat.**
+*Praha 23.6.2020* - **Pirátský zastupitel Jan Hora upozorňuje na pravidelné odprodeje bytů ve správě městské části Prahy 4. Místo prodeje navrhneme pro vedení městské části povinnost vyhodnotit možnost převodu vlastnictví na magistrát s odpovídající kompenzací. Je to cesta, jak příznivě ovlivnit bydlení v Praze a zlepšit jeho dostupnost. Praha má velmi malý podíl městských bytů a pokračování privatizace bude do budoucna situaci nízkopříjmových profesí či seniorů ještě zhoršovat.**
 
 Koalice vládnoucí v Praze 4 pravidelně odprodává bytové jednotky a lepí tak díry v rozpočtu, většinou s chabým zdůvodněním, že je pronájem a údržba těchto jednotek neefektivní. Piráti navrhují na program bod, který zaváže radu k získávání stanoviska magistrátních radních k prodeji bytových jednotek a umožní přenechání takových bytů hlavnímu městu za adekvátní kompenzaci (např. může jít o finanční kompenzaci, svěření pozemku či nebytového prostoru nebo účelový grant na opravu místní infrastruktury).
 
