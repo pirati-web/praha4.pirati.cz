@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Návrh Pirátů na hospodárné nakládání s byty na zastupitelstvu Prahy 4 neprošel
-date: 2020-06-23T12:00:00.000Z
+date: 2020-06-24T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
 image: zastupitelstvo3.jpg
