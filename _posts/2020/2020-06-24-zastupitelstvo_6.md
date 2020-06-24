@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti Praha 4 - Piráti navrhují na program zastupitelstva bod, který zaváže radu ke spolupráci s hlavním městem na řešení bytové krize
+title: Piráti Praha 4 navrhují na program zastupitelstva bod, který zaváže radu ke spolupráci s hlavním městem na řešení bytové krize
 date: 2020-06-24T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
