@@ -13,6 +13,8 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+  - link: /interpelace/
+    name: Interpelace
   - link: /lide/
     name: O nás
     match: lide

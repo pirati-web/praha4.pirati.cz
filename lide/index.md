@@ -18,3 +18,5 @@ groups:
   - name: Členové
     category: clen
 ---
+
+Odměny zastupitelů za volební období 2018-2022 lze nalézt [zde](https://praha4.pirati.cz/odmeny/).
