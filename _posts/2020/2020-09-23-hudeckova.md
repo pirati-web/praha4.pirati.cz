@@ -2,10 +2,10 @@
 layout: post
 category: CLANKY
 title: Praha 4 zatajovala několik měsíců podklady pro stavbu za nejméně 100 milionů, Piráti žádají projednání na středečním zastupitelstvu
-date: 2020-09-23T12:00:00.000Z
+date: 2020-09-20
 author: Petra Rejchrtová
 authorId: petra.rejchrtova
-image: zastupitelstvo3.jpg
+image: hudeckova.jpg
 tags: 
   - hudeckova
   - socialni sluzby
