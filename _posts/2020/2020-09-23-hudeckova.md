@@ -5,8 +5,12 @@ title: Praha 4 zatajovala několik měsíců podklady pro stavbu za nejméně 10
 date: 2020-09-23T12:00:00.000Z
 author: Petra Rejchrtová
 authorId: petra.rejchrtova
-image: hudeckova.jpg
-tags: hudeckova socialni sluzby zastupitelstvo radnice
+image: zastupitelstvo3.jpg
+tags: 
+  - hudeckova
+  - socialni sluzby
+  - zastupitelstvo
+  - radnice
 ---
 
 *23. září 2020* - **Praha 4 se pustila do přípravy domu sociálních služeb Hudečkova za zatím očekávaných 100 milionů. Zastupitelům a členům komise však do poslední chvíle zatajovala materiály a obstrukcemi se snažila vyhnout povinnosti informovat občany. Vedení vydalo podklady pouhý den před jednáním zastupitelstva.**
