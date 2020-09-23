@@ -21,7 +21,7 @@ Nejprve o projektu měly rozhodovat odborné týmy jmenované radou MČ Praha 4.
 
 Dále se vybranou studií zabývala po soustředěném tlaku opozice i Komise zdravotně sociální politiky za účasti veřejnosti. Ani tentokrát přes opakované žádosti zastupitelé, ani členové z řad veřejnosti podklady k projektu nedostali.
 
-*„Materiály jsme si vyžádali z titulu funkce zastupitelů. Odbor sociální i investic a ani gesční radní Josef Svoboda studie prý nemají k dispozici. Jediný, kdo ji údajně má, je radní Filip Vácha, který ale na naše žádosti nereagoval,“* říká Petra Rejchrtová, zastupitelka za Piráty.
+*„Materiály jsme si vyžádali z titulu funkce zastupitelů. Odbor sociální i investic a ani gesční radní Josef Svoboda studie prý nemají k dispozici. Jediný, kdo je údajně má, je radní Filip Vácha, který ale na naše žádosti nereagoval,“* říká Petra Rejchrtová, zastupitelka za Piráty.
 
 Piráti Praha 4 byly poté nuceni jako poslední instanci požádat o studii podle zákona 106/1999 Sb. (informační zákon). Ani tentokrát podklady nepřišly a městská část se uchýlila k obstrukcím. Úřad požádal o zaplacení za skenování podkladů, které prokazatelně má v digitální podobě. Ani po zaplacení poplatku 142 korun vedení radnice podklady nedodalo. Úřad otočil až v momentě, kdy Piráti požádali o zařazení bodu na program zastupitelstva.
 
