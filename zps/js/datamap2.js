@@ -116,10 +116,24 @@ var DATAMAP = L.geoJson(null, {
     var fillColor = "blue"; 
     if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" ) 
-        fillColor = getColor(feature.properties.Obs,'Obs');
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.OBS/feature.properties.PS_ZPS : 0 )
+                              ,'Obs');
     else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
       && $("input:radio[name=Cas]:checked").val() == "NOC" ) 
-        fillColor = getColor(feature.properties.ObsN,'Obs');  
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.NOC/feature.properties.PS_ZPS : 0 )
+          ,'Obs');  
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" 
+      && $("input:radio[name=Cas]:checked").val() == "DEN" ) 
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.OBS12/feature.properties.PS_ZPS : 0 )
+          ,'Obs');
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" 
+      && $("input:radio[name=Cas]:checked").val() == "NOC" ) 
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.NOC12/feature.properties.PS_ZPS : 0 )
+            ,'Obs');    
     else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" )  
         fillColor = getColor(feature.properties.Resp,'Resp');

@@ -171,7 +171,7 @@ info.update = function (props) {
              + Math.round(100*(props.OBS/props.OBS12-1)) + '%</td></tr>'
         + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
              + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
-        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVE + '%</td></tr>'             
+      /*  + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVE + '%</td></tr>'             */
         + '</table>';
 
    } 
@@ -182,17 +182,17 @@ info.update = function (props) {
              + Math.round(100*(props.NOC/props.NOC12-1)) + '%</td></tr>'
         + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
              + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
-        + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVEN + '%</td></tr>'             
+        /*+ '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVEN + '%</td></tr>'             */
         + '</table>';
 
    }    
 
 	if (props && porovnani == 'ANO') {
 		info_string += 
-		  '<b>Porovnání úseků před a pod zavedení ZPS </b><br />'
-        + 'Úseky :' + props.USEKY + '<br />'
+		  '<b>Porovnání úseků před a pod zavedení ZPS </b>'
+       /* + 'Úseky :' + props.USEKY + '<br />'*/
         + table_content
-        + '<i>(ubytek obsazených míst - úbytek PS) * Obazenost</i>'
+       /* + '<i>(ubytek obsazených míst - úbytek PS) * Obazenost</i>'*/
         ;
 	} 
 
@@ -219,10 +219,11 @@ var choiceL = L.control.custom({
         content : '<div class = "legend leaflet-control" >'
                   + 'Zobrazit:'
                   + '<BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST PO<BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST2" checked> OBSAZENOST PŘED <BR>'
                   + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" > RESPEKTOVANOST <BR>'
                   + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "POP" > POP <BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'
+                  /*+ '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'*/
                   + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > ZMĚNA PS <BR>' : '') 
                   + '<BR>'
                   +  '<input type="radio" name = "Cas" value = "DEN" checked> DEN <BR>'
