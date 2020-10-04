@@ -145,7 +145,8 @@ assets:
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
+    css: { }
+    #autoprefixer: {}
     img:
       optim:
         jpegoptim:
