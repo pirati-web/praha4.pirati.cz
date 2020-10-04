@@ -116,10 +116,24 @@ var DATAMAP = L.geoJson(null, {
     var fillColor = "blue"; 
     if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" ) 
-        fillColor = getColor(feature.properties.Obs,'Obs');
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.OBS/feature.properties.PS_ZPS : 0 )
+                              ,'Obs');
     else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST" 
       && $("input:radio[name=Cas]:checked").val() == "NOC" ) 
-        fillColor = getColor(feature.properties.ObsN,'Obs');  
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.NOC/feature.properties.PS_ZPS : 0 )
+          ,'Obs');  
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" 
+      && $("input:radio[name=Cas]:checked").val() == "DEN" ) 
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.OBS12/feature.properties.PS_ZPS : 0 )
+          ,'Obs');
+    else if ($("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" 
+      && $("input:radio[name=Cas]:checked").val() == "NOC" ) 
+        fillColor = getColor((feature.properties.PS_ZPS > 0 ? 
+                                  100*feature.properties.NOC12/feature.properties.PS_ZPS : 0 )
+            ,'Obs');    
     else if ($("input:radio[name=Zobrazit]:checked").val() == "RESPEKTOVANOST" 
       && $("input:radio[name=Cas]:checked").val() == "DEN" )  
         fillColor = getColor(feature.properties.Resp,'Resp');
@@ -170,95 +184,6 @@ DATAMAP.on('popupopen', function (popup) {
   
 });
 
-
-
-var ZTPRZ = L.geoJson(null, {
-  layerName: 'ZTPRZ',
-  style: function style(feature) {
-    var fillColor,
-        density = feature.properties.ZPS_ID;
-    if (density == 0) fillColor = "#ff0000";else fillColor = "#ff0000"; // no data
-    return { color: "#000000", weight: 1, fillColor: fillColor, fillOpacity: .9 };
-  },
-  onEachFeature: function onEachFeature(feature, layer) {
-    layer.bindPopup("RZ: <strong>" + feature.properties.RZ + "</strong><br/>" + "object: " + feature.properties.LEVEL + "/" + feature.properties.NUMBER + "<br/>" + "object-type: Vyhrazené stání ZTP<br/>" + "zps-id: " + feature.properties.ZPS_ID + "<br/>" + "Platný od: " + feature.properties.PLATNOSTOD.substr(0, 10) + "<br/>" + "Platný do: " + feature.properties.PLATNOSTDO.substr(0, 10) + "<br/>");
-  }
-});
-
-var ZAKAZ = L.geoJson(null, {
-  layerName: 'ZAKAZ',
-  style: function style(feature) {
-    var fillColor,
-        density = feature.properties.ZPS_ID;
-    if (density == 0) fillColor = "#000000";else fillColor = "#000000"; // no data
-    return { color: fillColor, weight: 1, fillColor: fillColor, fillOpacity: .9 };
-  },
-  onEachFeature: function onEachFeature(feature, layer) {
-    layer.bindPopup("<strong>ZÁKAZ</strong><br/>" + "object: " + feature.properties.LEVEL + "/" + feature.properties.NUMBER + "<br/>" + "object-type: Zákaz stání <br/>" + "zps-id: " + feature.properties.ZPS_ID + "<br/>" + "Platný od: " + feature.properties.PLATNOSTOD.substr(0, 10) + "<br/>" + "Platný do: " + feature.properties.PLATNOSTDO.substr(0, 10) + "<br/>");
-  }
-});
-
-var SPEC = L.geoJson(null, {
-  layerName: 'SPEC',
-  style: function style(feature) {
-    var fillColor,
-        density = feature.properties.ZPS_ID;
-    if (density == 0) fillColor = "#00FF00";else fillColor = "#00FF00"; // no data
-    return { color: fillColor, weight: 1, fillColor: fillColor, fillOpacity: .9 };
-  },
-  onEachFeature: function onEachFeature(feature, layer) {
-    layer.bindPopup("<strong>Vyhrazeno</strong><br/>" + "object: " + feature.properties.LEVEL + "/" + feature.properties.NUMBER + "<br/>" + "object-type: Vyhrazené stání <br/>" + "zps-id: " + feature.properties.ZPS_ID + "<br/>" + "Platný od: " + feature.properties.PLATNOSTOD.substr(0, 10) + "<br/>" + "Platný do: " + feature.properties.PLATNOSTDO.substr(0, 10) + "<br/>");
-  }
-});
-
-var ZAS = L.geoJson(null, {
-  layerName: 'ZAS',
-  style: function style(feature) {
-    var fillColor,
-        density = feature.properties.ZPS_ID;
-    if (density == 0) fillColor = "#008800";else fillColor = "#008800"; // no data
-    return { color: fillColor, weight: 1, fillColor: fillColor, fillOpacity: .9 };
-  },
-  onEachFeature: function onEachFeature(feature, layer) {
-    layer.bindPopup("<strong>" + feature.properties.DRUHZAS_T + "</strong><br/>" + "object: " + feature.properties.LEVEL + "/" + feature.properties.NUMBER + "<br/>" + "object-type: Zásobování <br/>" + "zps-id: " + feature.properties.ZPS_ID + "<br/>" + "Platný od: " + feature.properties.PLATNOSTOD.substr(0, 10) + "<br/>" + "Platný do: " + feature.properties.PLATNOSTDO.substr(0, 10) + "<br/>");
-  }
-});
-
-var selected;
-
-var EXT = L.geoJson(null, {
-  layerName: 'EXT',
-  style: function style(feature) {
-    var fillColor,
-        density = feature.properties.PHASE;
-    if (density == 0) fillColor = "#ff9900";else fillColor = "#ff9900"; // no data
-    return { color: '#ff0000', weight: 2, fillColor: fillColor, fillOpacity: .2 };
-  },
-  onEachFeature: function onEachFeature(feature, layer) {
-    layer.bindPopup("<strong>" + feature.properties.PHASE + "</strong><br/>"
-    //        + "object: " + feature.properties.LEVEL + "/"+ feature.properties.NUMBER + "<br/>"
-    + "Připravované rozšíření ZPS <br/>"
-    //        + "zps-id: " + feature.properties.ZPS_ID + "<br/>" 
-    //        + "Platný od: " + feature.properties.PLATNOSTOD.substr(0,10) + "<br/>" 
-    //        + "Platný do: " + feature.properties.PLATNOSTDO.substr(0,10) + "<br/>" 
-    );
-  }
-}).on('click', function (feature) {
-  // Check for selected
-  if (selected) {
-    // Reset selected to default style
-    feature.target.resetStyle(selected);
-  }
-  // Assign new selected
-  selected = feature.layer;
-  // Bring selected to front
-  // selected.bringToFront()
-  // Style selected
-  selected.setStyle({
-    'color': '#ff0000',
-    'fillColor': '#ff6600'
-  });
-});
 
 
 var feature;

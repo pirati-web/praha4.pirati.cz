@@ -4,9 +4,9 @@ title: Zóny parkovacích státní
 ---
 
 
- <div >  
+ <div id="map_help">  
 
-<h2>Data o zónách parkovacích stání (ZPS) </h2>
+<h3>Vysvětlivky k mapě zón parkovacích stání (ZPS) </h3>
 
 <br><strong>PS Celkem</strong><br>
 Počet všech veřejných parkovacích míst v úseku. Kromně míst v ZPS obsahuje i vyhrazená místa ZTP (zdravotně postižené), policii, apod. Neobsahuje parkování na soukromých pozemcích. 
@@ -14,19 +14,23 @@ Počet všech veřejných parkovacích míst v úseku. Kromně míst v ZPS obsah
 <br><strong>PS v ZPS</strong><br>
 Počet všech parkovacích míst v úseku v ZPS.  
 
+<br><strong>Obsazenost PŘED/PO</strong><br>
+Podíl všech parkujícíh vozidel v úseku ku PS v ZPS, a to buď před nebo po zavedení ZPS. Do počtu se započítávají i vozidla v blízkosti ZPS, v případě větších úseků se do nich může vejít reálně více menších aut než počítá norma. Proto může být i vyšší než 100% obsazenost. V noci se snímají pouze vozidla v ZPS (kamery nemohou svítit všude). Ve dne auto zaznamenává i vozidla v blízkosti, ale mimo ZPS. Z úseků, kde není žádné povolené parkování, data nejsou.
+
 <br><strong>Respektovanost</strong><br>
 Podíl neoprávněně parkujících vozidel v úseku (tj. těch kteří nezaplatili) vůči všem parkujícím v daném úseku. 
 
-<br><strong>Obsazenost</strong><br>
-Podíl všech parkujícíh vozidel v úseku ku PS v ZPS. Do po4tu se započítávají i vozidla v blízkosti ZPS, v případě větších úseků se do nich může vejít reálně více menších aut než počítá norma. Proto může být i vyšší než 100% obsazenost. V noci se snímají pouze vozidla v ZPS (kamery nemohou svítit všude). Ve dne auto zaznamenává i vozidla v blízkosti, ale mimo ZPS. Z úseků, kde není žádné povolené parkování, data nemám.   
+<br><strong>POP - počet parkovacích oprávnění</strong><br>
+ Zobrazuje počet platných parkovacích oprávnění. Parkovací oprávnění dle adresy rezidenta přiřadí k nejbližšímu parkovacímu úseku, pokud je do 100m. V mapě tak chybí cca 2000 parkovacích oprávnění ze zbytku Prahy 4 a Kunratic. 
 
-<br><strong>Parkovací oprávnění</strong><br>
- Zobrazuje počet platných parkovacích oprávnění. Přiřazuje je nejbližšímu parkovacímu úseku, pokud je do 100m. Tím pádem jsou někde vedel sebe velké kontrasty. 
+<br><strong>Změna PS</strong><br>
+Změna počtu parkovacích stání před zavedením ZPS a po zavedení ZPS. V původní části zavedené v roce 2018 je to vůči průzkumu z roku 2012. V rozšířené části zavedené v prosinci 2019 jsou to data z roku 2018. Toto porovnávání počtu parkovacích míst je poněkud ošidné. Data z průzkumu před zavedením ZPS jsou expertní odhad sčítačů o počtu potenciálních parkovacích míst, kdežto při realizaci jde o počet normovaných stání vycházející z projektové dokumentace a technických norem. V porovnání píšu o legalizaci parkovacích míst, protože zavedení nikde nová fyzická parkovací místa nevytvořilo, pouze uzpůsobilo dopravní značení tak, aby maximum využitelného prostoru bylo vyznačeno v ZPS. Došlo ke změnám směru jízdy, které mohly někde parkovací stání zrušit, ale jinde jich více přidat. Členění na parkovací úseky před ZPS se také někde liší od členění zavedených v ZPS - je proto dobré se podívat do sousedních ulic, jestli nejde jen o tento případ. Mezi průzkumem a zavedením zón proběhly některé rekonstrukce a stavební úpravy ulic, které změnily počet parkovacích míst. Jinde probíhala v době průzkumu uzavírka atd. Není bohužel v mých silách možné toto všude zohlednit, ale zdrojová data jsou k dispozici, pokud někdo bude mít chuť změny dále rozklíčovat. V mapovém podkladu lze kromně open street map zvolit i satelitní snímky z roku 2012 a 2018, ze kterých jdou některé změny poznat. 
 
- <h3>GRAF - Obsazenost úseku podle domicilu vozidla</h3>
- <p>
- 	
- </p>
+<br><strong>Zdrojová data</strong><br>
+Namapovat parkovací úseky z průzkumu nebylo vždy možné 1:1, proto v porovnání někde slučuji více úseků do sebe, aby šlo o porovnatelné počty. Na Praze 4 je v zónách přes 2000 úseků, jejihž ručním mapováním podle mapy jsem strávil několik dní, je tudíž možné, že je někde chyba. Excelovský soubor se vstupními daty je <a href="https://drive.google.com/file/d/1uELP0U1S_45iQu4H0nMwd-bfCUnMYOaz/view?usp=sharing">zde</a> , společně s dalšími podklady. Pokud najdete nějakou chybu, rád ji opravím. 
+<br>
+   
+ <br><strong>GRAF - Obsazenost úseku podle domicilu vozidla</strong><br>
  <ol>
  <li>
  	<strong>Světle modrý sloupec</strong> Procento vozidel s domicilem do 125 m od úseku
@@ -51,38 +55,20 @@ Podíl všech parkujícíh vozidel v úseku ku PS v ZPS. Do po4tu se započítá
  </li>
  </ol>
 
- 
- <h3>Porovnání úseků před a po zavedení zón parkovacích stání</h3>
-
-Porovnánám data za poslední měsíc vůči situaci před zavedením zón. V původní části zavedené v roce 2018 je to vůči průzkumu z roku 2012, novější data nemám. V rozšířené části zavedené v prosinci 2019 jsou to data z roku 2018. 
-<br>
-<br><strong>Index zlepšení</strong> <br>
-
-Porovnání pouze úbytku vozidel mi nepřišlo jako dostatečně vystihující ukazetel, neboť úbytek o 10% má jiný význam v místě, kde byla původně 90% obsazenost než v místě, kde byla 40%. Dále se v některých místech došlo z důvodu změn dopravního značení ke zrušení parkovacích úseků. I když tyto změny přinesly ve výsledku více PS, některé úseky na to doplatily.  
-<br>
-<br><strong>Porovnání počtu parkovacích míst </strong> <br>
-
-Porovnávání počtu parkovacích míst je ošidné. Mezi průzkumem a zavedením zón proběhly některé rekonstrukce a stavební úpravy, které změnily počet parkovacích míst. Jinde došlo k změnám v směru jízdy, probíhala v době průzkumu uzavírka atd. Není bohužel v mých silách možné toto všude zohlednit. Data z průzkumu jsou expertní odhad sčítačů o počtu potenciálních parkovacích míst, kdežto při realizaci se muselo vycházet s projektové dokumentace. V porovnání píšu o legalizaci parkovacích míst, protože zavedení nikde nová fyzická parkovací místa nevytvořilo, pouze uzpůsobilo dopravní značení tak, aby maximum využitelného prostoru bylo vyznačit ZPS. ZPS tudíž pouze uvolňuje parkovací místa zabraná nerezidenty. 
-
-<br>
-Namapovat parkovací úseky z průzkumu nebylo vždy možné 1:1, proto v porovnání někde slučuji více úseků do sebe, aby šlo o porovnatelné počty. V rozšíření ješte nemám dotáhnuté jména uličních úseků. Na Praze 4 je přes 2000 úseků, jejihž ručním mapováním podle mapy jsem strávil několik dní, je tudíž možné, že je někde chyba. 
-
-<h3> Ovládání</h3>
-
-<br><strong>Vyhledávání</strong><br>
 
 <br><strong>Změna mapového podkladu</strong><br>
 <ol>
  <li>
 OSM podklad - open street mapy
 <li>
-Ortofoto 2018
+Ortofoto 2018 - satelitní snímky z počátku roku 2018 (mimovegetační)
 <li>
-Ortofoto 2012
+Ortofoto 2012 - satelitní snímky z počátku roku 2012 (mimovegetační)
 <li>
-ČUZK
+ČUZK - aktuální satelitní snímky
  </li>
  </ol>
+
 
 
 </div>;

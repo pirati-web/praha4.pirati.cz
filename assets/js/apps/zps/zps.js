@@ -59,14 +59,28 @@ function getInfoContent(props) {
       if (p == 'CELKEM_PS') popupContent +=  'PS celkem' + '\t' + props[p] + '\n';
       if (p == 'PS_ZPS') popupContent +=  'PS v ZPS' + '\t' + props[p] + '\n';
       if (p == 'POP') popupContent +=  'Parkovacích oprávnění' + '\t' + props[p] + '\n';
-      if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {
-          if (p == 'Obs' ) popupContent += 'Obsazenost' +  '\t' + props[p] + '% \n';
+      if ($("input:radio[name=Cas]:checked").val() == "DEN"  && $("input:radio[name=Zobrazit]:checked").val() != "OBSAZENOST2" )  {
+          if (p == 'Obs' ) popupContent += 'Obsazenost PO' +  '\t' + (props.PS_ZPS > 0 ? 
+                                   Math.round(100*props.OBS/props.PS_ZPS) : 0 ) + '% \n';          
+        }
+      if ($("input:radio[name=Cas]:checked").val() == "DEN"  && $("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" )  {
+          if (p == 'Obs' ) popupContent += 'Obsazenost PŘED' +  '\t' + (props.PS_ZPS > 0 ? 
+                                   Math.round(100*props.OBS12/props.PS_ZPS) : 0 ) + '% \n';          
+        }
+      if ($("input:radio[name=Cas]:checked").val() == "NOC"  && $("input:radio[name=Zobrazit]:checked").val() != "OBSAZENOST2" )  {
+          if (p == 'Obs' ) popupContent += 'Obsazenost PO' +  '\t' + (props.PS_ZPS > 0 ? 
+                                   Math.round(100*props.NOC/props.PS_ZPS) : 0 ) + '% \n';          
+        }
+      if ($("input:radio[name=Cas]:checked").val() == "NOC"  && $("input:radio[name=Zobrazit]:checked").val() == "OBSAZENOST2" )  {
+          if (p == 'Obs' ) popupContent += 'Obsazenost PŘED' +  '\t' + (props.PS_ZPS > 0 ? 
+                                   Math.round(100*props.NOC12/props.PS_ZPS) : 0 ) + '% \n';          
+        }    
+      if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {          
           if (p == 'Resp' ) popupContent += 'Respektovanost' +  '\t' + props[p] + '% \n';
         }
       if ($("input:radio[name=Cas]:checked").val() == "NOC" ) {
-          if (p == 'ObsN' ) popupContent += 'Obsazenost' +  '\t' + props[p] + '% \n';
           if (p == 'RespN' ) popupContent += 'Respektovanost' +  '\t' + props[p] + '% \n';
-        }  
+        }    
     }
     for (var p in props) {
       if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {      
