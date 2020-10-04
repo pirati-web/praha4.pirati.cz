@@ -56,6 +56,19 @@
 .leaflet-control-search {
 }
 
+#map_help {
+    
+    margin:20px 20px 20px 20px;    
+}
+#map_help img {
+  float: right;
+  padding: 10px;
+}
+
+#map_help   a {
+  color: blue;
+}
+
 div#search {
 /*  background-color: white;
   position: absolute;

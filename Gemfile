@@ -47,10 +47,5 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 group :development, :test do
   gem "html-proofer"
-<<<<<<< refs/remotes/origin/master
 end
-=======
-gem "execjs"
-gem "mini_racer"
-end
->>>>>>> s
+
