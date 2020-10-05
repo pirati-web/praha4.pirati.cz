@@ -55,30 +55,6 @@ function generateGraph(graphData, graphName, graphLegend) {
 }
 
 
-function urlExists(url) {
-  var http = new XMLHttpRequest();
-  http.open('HEAD', url, false);
-  http.send();
-  return http.status != 404;
-}
-
-
-function loadjscssfile(filename, filetype) {
-  if (filetype == "js") {
-    //if filename is a external JavaScript file
-    var fileref = document.createElement('script');
-    fileref.setAttribute("type", "text/javascript");
-    fileref.setAttribute("src", filename);
-  } else if (filetype == "css") {
-    //if filename is an external CSS file
-    var fileref = document.createElement("link");
-    fileref.setAttribute("rel", "stylesheet");
-    fileref.setAttribute("type", "text/css");
-    fileref.setAttribute("href", filename);
-  }
-  if (typeof fileref != "undefined") document.getElementsByTagName("head")[0].appendChild(fileref);
-}
-
 // tile layer
 var OSMpodklad = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
@@ -188,47 +164,4 @@ DATAMAP.on('popupopen', function (popup) {
 
 var feature;
 
-function chooseAddr(lat1, lng1, lat2, lng2, osm_type) {
-  var loc1 = new L.LatLng(lat1, lng1);
-  var loc2 = new L.LatLng(lat2, lng2);
-  var bounds = new L.LatLngBounds(loc1, loc2);
 
-  if (feature) {
-    map.removeLayer(feature);
-  }
-  if (osm_type == "node") {
-    feature = L.circle(loc1, 25, { color: 'green', fill: false }).addTo(map);
-    map.fitBounds(bounds);
-    map.setZoom(18);
-  } else {
-    var loc3 = new L.LatLng(lat1, lng2);
-    var loc4 = new L.LatLng(lat2, lng1);
-
-    feature = L.polyline([loc1, loc4, loc2, loc3, loc1], { color: 'red' }).addTo(map);
-    map.fitBounds(bounds);
-  }
-}
-
-function addr_search() {
-  var inp = document.getElementById("addr");
-
-  $.getJSON('https://nominatim.openstreetmap.org/search?format=json&limit=5&viewbox=14.209442,50.179536,14.710007,49.934428&bounded=1&q=' + inp.value, function (data) {
-    var items = [];
-
-    $.each(data, function (key, val) {
-      bb = val.boundingbox;
-      items.push("<li><a href='#' onclick='chooseAddr(" + bb[0] + ", " + bb[2] + ", " + bb[1] + ", " + bb[3] + ", \"" + val.osm_type + "\");return false;'>" + val.display_name + '</a></li>');
-    });
-
-    $('#results').empty();
-    if (items.length != 0) {
-      $('<p>', { html: "Search results:" }).appendTo('#results');
-      $('<ul/>', {
-        'class': 'my-new-list',
-        html: items.join('')
-      }).appendTo('#results');
-    } else {
-      $('<p>', { html: "No results found" }).appendTo('#results');
-    }
-  });
-}
