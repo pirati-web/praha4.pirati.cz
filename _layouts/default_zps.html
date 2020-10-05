@@ -124,11 +124,14 @@ info.onAdd = function (map) {
 info.update = function (props) {
     
    
-   var info_string = '';
+   var info_string = '<button id="changeImg" onclick="closeInfo()">'+
+                          '<i class="fa fa-window-close"></i>' +
+                          '</button>'
+   ;
    infoContent = getInfoContent(props);
 
    if (props) {
-   		info_string =  '' + '<h4>Data o ZPS</h4> '            
+   		info_string +=  '' + '<h4>Data o ZPS</h4> '            
         + 'Úsek : <b>' + props.CODE +  '</b><br />' + infoContent        
         +'<br />';
    		}
@@ -137,35 +140,33 @@ info.update = function (props) {
    
    if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {
         table_content = '<table>'
-        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><th></th><th>Před</th><th>Po</th><th>Změna</th></tr>' 
         + '<tr><td>Obsazených míst</td><td>' + props.OBS12 + '</td><td>' + props.OBS + '</td><td>'
-             + Math.round(100*(props.OBS/props.OBS12-1)) + '%</td></tr>'
-        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
-             + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
+        + Math.round(100*(props.OBS/props.OBS12-1)) + '%</td></tr>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + Math.round(props.PS) + '</td><td>'
+        + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
       /*  + '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVE + '%</td></tr>'             */
-        + '</table>';
-
-   } 
+        + '</table>'; 
+         }
    if ($("input:radio[name=Cas]:checked").val() == "NOC" ) {
         table_content =  '<table>'
-        + '<tr><th> </th><th>Před</th><th>Po</th><<th>Změna</th></tr>' 
+        + '<tr><th> </th><th>Před</th><th>Po</th><th>Změna</th></tr>' 
         + '<tr><td>Obsazených míst</td><td>' + props.NOC12 + '</td><td>' + props.NOC + '</td><td>'
              + Math.round(100*(props.NOC/props.NOC12-1)) + '%</td></tr>'
-        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + props.PS + '</td><td>'
+        + '<tr><td>Parkovacích stání</td><td>' + props.PS12 + '</td><td>' + Math.round(props.PS) + '</td><td>'
              + Math.round(100*(props.PS/props.PS12-1)) + '%</td></tr>'     
         /*+ '<tr><td>Index zlepšení</td><td> </td><td> </td><td> ' + props.IMPROVEN + '%</td></tr>'             */
         + '</table>';
 
    }    
+	
 
-	if (props && porovnani == 'ANO') {
-		info_string += 
-		  '<b>Porovnání úseků před a pod zavedení ZPS </b>'
-       /* + 'Úseky :' + props.USEKY + '<br />'*/
-        + table_content
-       /* + '<i>(ubytek obsazených míst - úbytek PS) * Obazenost</i>'*/
+ if (props && porovnani == 'ANO') {
+    info_string += 
+      '<b>Porovnání úseků před a pod zavedení ZPS </b>'
+      + table_content
         ;
-	} 
+  } 
 
    this._div.innerHTML = '' +
         (props ?
@@ -178,10 +179,11 @@ info.update = function (props) {
 
 info.addTo(map);
 
-var helpContent = getHelp();
+function closeInfo(){
+               info.update(0);
+            };
 
-var slideHelp = L.control.slideMenu(helpContent, {position: 'bottomleft', menuposition: 'bottomleft',
- width: '60%', height: '80%', direction: 'vertical', icon: ' fa-question-circle'}).addTo(map);
+
 
 
 
@@ -190,15 +192,15 @@ var choiceL = L.control.custom({
         content : '<div class = "legend leaflet-control" >'
                   + 'Zobrazit:'
                   + '<BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" checked> OBSAZENOST PO<BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST2" checked> OBSAZENOST PŘED <BR>'
-                  + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" > RESPEKTOVANOST <BR>'
-                  + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "POP" > POP <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST" class = "check_layer" checked> OBSAZENOST PO<BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "OBSAZENOST2"  class = "check_layer" > OBSAZENOST PŘED <BR>'
+                  + '<input type="radio" name = "Zobrazit" value = "RESPEKTOVANOST" class= "check_layer" > RESPEKTOVANOST <BR>'
+                  + (porovnani == 'ANO' ? '<input type="radio" name = "Zobrazit" value = "POP" class= "check_layer" > POP <BR>'
                   /*+ '<input type="radio" name = "Zobrazit" value = "IMPROVE" > ZMĚNA OBSAZ. <BR>'*/
-                  + '<input type="radio" name = "Zobrazit" value = "PSDIFF" > ZMĚNA PS <BR>' : '') 
+                  + '<input type="radio" name = "Zobrazit" value = "PSDIFF" class= "check_layer"> ZMĚNA PS <BR>' : '') 
                   + '<BR>'
-                  +  '<input type="radio" name = "Cas" value = "DEN" checked> DEN <BR>'
-                  + '<input type="radio" name = "Cas" value = "NOC" > NOC <BR>'                 
+                  +  '<input type="radio" name = "Cas" value = "DEN" class= "check_layer" checked> DEN <BR>'
+                  + '<input type="radio" name = "Cas" value = "NOC" class= "check_layer" > NOC <BR>'                 
                   +  '</div> '
                   ,
         style   :
