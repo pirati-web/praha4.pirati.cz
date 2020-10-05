@@ -38,7 +38,7 @@ gem "json" # For gem building
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-gem "autoprefixer-rails"
+#gem "autoprefixer-rails"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
