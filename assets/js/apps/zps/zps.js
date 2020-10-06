@@ -10,7 +10,7 @@ var POP_colors = ['#065c03','#17ae11','#80ff00','#f7ffee','#ffff93','#ffff00','#
 var POP_grades = [0.5,0.8,1,1.2,1.5,2,3];
 
 
-function getColor(d, ctype) {
+function getColor (d, ctype) {
 	if (ctype == 'Obs') {dcolors = Obs_colors; dgrades = Obs_grades;}
 	if (ctype == 'Resp') {dcolors = Resp_colors; dgrades = Resp_grades;}
 	if (ctype == 'IMPROVE') {dcolors = IMPROVE_colors; dgrades = IMPROVE_grades;}
@@ -26,7 +26,8 @@ function getColor(d, ctype) {
 
 function getLegend(ctype) {
 	dcolors = Obs_colors; dgrades = Obs_grades; Title = 'Obsazenost';
-	if (ctype == 'OBSAZENOST') {dcolors = Obs_colors; dgrades = Obs_grades; Title = 'Obsazenost'; }
+	if (ctype == 'OBSAZENOST') {dcolors = Obs_colors; dgrades = Obs_grades; Title = 'Obsazenost Po'; }
+  if (ctype == 'OBSAZENOST2') {dcolors = Obs_colors; dgrades = Obs_grades; Title = 'Obsazenost Před'; }
 	if (ctype == 'RESPEKTOVANOST') {dcolors = Resp_colors; dgrades = Resp_grades; Title = 'Respektovanost'; }
 	if (ctype == 'IMPROVE') {dcolors = IMPROVE_colors; dgrades = IMPROVE_grades; Title = 'Index změny obsazenosti';}
 	if (ctype == 'PSDIFF') {dcolors = PSDIFF_colors; dgrades = PSDIFF_grades; Title = 'Počet legalizovaných <BR> parkovacích míst';}

@@ -5,8 +5,10 @@
   background: #212121;
   color: #8a8a8a;
   font-weight: bold;
+  height: 45px;
 
 }
+
 #zps_header  a {
   color: #8a8a8a;
 
@@ -22,15 +24,19 @@
 }
 
 #zps_header  h4 {
-  margin: 0px ;
+  margin: 0px 0px 0px 0px;
+  padding: 5px 0px 0px 0px;
 }
  
 @media screen and (max-width: 800px) {
-  zps_header  h4 { 
+  #zps_header  h4 { 
   font-size: 1rem;
 }
 }
 
+.zps_menu {
+  float: left ;
+}
 
  html, body, #map  {
         height: 100%;
@@ -132,6 +138,14 @@ div#results {
   text-align: right;
   font-size: 80%
 }
+
+@media screen and (max-width: 800px) {
+.legend span, .legend label {  
+  width: 20px;
+  height: 10px;
+}
+}
+
 /*lf popup content pre*/
 .leaflet-popup-content pre{
   padding-left: 10px;
@@ -359,6 +373,7 @@ div#results {
   font-size: inherit;
   height: auto;
 }
+
 .legend .popup-help-button{
   position: absolute;
   bottom: 5px;
