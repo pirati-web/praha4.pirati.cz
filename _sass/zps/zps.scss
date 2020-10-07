@@ -210,7 +210,9 @@ div#results {
 .info button {
        float: right;
       }
-
+.rotatedLegend {
+    transform: rotate(15deg);
+  }
  
 @media screen and (max-width: 800px) {
   .info h4 {
@@ -404,7 +406,7 @@ div#results {
   padding-right: 1px;
   /*flex-flow: wrap-reverse;*/
   height: 100px;
-  margin-top: 15px;
+  margin-top: 0px;
   margin-bottom: 15px;
   border-color: #ececec;
   border-style: solid;
@@ -456,6 +458,24 @@ div#results {
 .chart .div-title-0{
   top: 93%;
   right: 8px;
+}
+
+#porovnani td {
+  padding : 0.25rem; 
+}
+
+#porovnani th {
+  padding : 0.25rem; 
+}
+
+#porovnani table {
+  margin-bottom : 0.25rem; 
+  margin-top : 0.25rem; 
+}
+
+.info_title {
+  margin-bottom : 0.25rem; 
+  margin-top : 0.25rem;   
 }
 
 .hidden{
