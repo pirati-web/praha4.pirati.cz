@@ -83,6 +83,7 @@ function getInfoContent(props) {
           if (p == 'RespN' ) popupContent += 'Respektovanost' +  '\t' + props[p] + '% \n';
         }    
     }
+    popupContent += '<div class = "info_title"><b>Rozdělení vozidel dle vzdálenosti' + '\n' + 'adresy majitele od místa parkování </b></div>';
     for (var p in props) {
       if ($("input:radio[name=Cas]:checked").val() == "DEN" ) {      
       if (p == 'GraphData' ) {

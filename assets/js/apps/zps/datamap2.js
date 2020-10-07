@@ -45,7 +45,15 @@ function generateGraph(graphData, graphName, graphLegend) {
     popupGraph += '<div class="chart-legend">';
     var legendindex = 0;
     lvals.forEach(function (lval) {
-      popupGraph += '<div class="bar-legend">' + lval + '</div>';
+      if (lval=="R1") {popis = 'do \n 150m';} 
+      else if (lval=="R2") {popis = 'do \n 500m';} 
+      else if (lval=="R3") {popis = 'do \n 2km';} 
+      else if (lval=="R4") {popis = 'nad \n 2km';} 
+      else if (lval=="VI") {popis = 'Návště \n vníci';} 
+      else if (lval=="NR") {popis = 'Neplatiči';} 
+      else if (lval=="FR") {popis = 'Volná';} 
+          else {popis='X';} 
+      popupGraph += '<div class="bar-legend ">' +  popis + '</div>';
       legendindex++;
     });
     popupGraph += '</div>';

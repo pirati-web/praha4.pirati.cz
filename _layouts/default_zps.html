@@ -135,7 +135,7 @@ info.update = function (props) {
    if (props) {
    		info_string +=  '' + '<h4>Data o ZPS</h4> '            
         + 'Úsek : <b>' + props.CODE +  '</b><br />' + infoContent        
-        +'<br />';
+        ;
    		}
 
    var table_content = '';     
@@ -165,8 +165,10 @@ info.update = function (props) {
 
  if (props && porovnani == 'ANO') {
     info_string += 
-      '<b>Porovnání úseků před a pod zavedení ZPS </b>'
+      '<div class = "info_title"><b>Porovnání úseků před a po zavedení ZPS </b></div>'
+      + '<div id = "porovnani">'
       + table_content
+      + '</div>'
         ;
   } 
 
