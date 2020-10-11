@@ -53,6 +53,7 @@ $.getJSON(
 
 DATAMAP.addTo(map); 
 
+
 $.getJSON(
           UsekyFile
          ,function (data) {
@@ -60,6 +61,17 @@ $.getJSON(
           });
 
 Useky.addTo(map); 
+
+
+$.getJSON(
+          OtherPSFile
+         ,function (data) {
+          OtherPS.addData(data);
+          });
+
+OtherPS.addTo(map); 
+
+
 
 max_popup_width=200;
 
@@ -257,13 +269,16 @@ var baseMaps = {
 };
 
 var overlayMaps = {
-  "Statistiky": DATAMAP,
-  "Úseky": Useky   
+  "ZPS": DATAMAP,
+  "Technické úseky": Useky,
+  "Ostatní PS": OtherPS  
 };
 
 var choiceB = L.control.layers(baseMaps, overlayMaps);
 
 choiceB.addTo(map);
+
+OtherPS.bringToFront();
 
 
 </script>
