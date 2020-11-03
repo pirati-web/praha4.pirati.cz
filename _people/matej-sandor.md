@@ -8,7 +8,6 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
-- zastupitele
 - pms
 img: 		        people/matej-sandor.jpg    # 165 x 220
 description:        1. místopředseda MS. Místopředseda zastupitelského klubu.
