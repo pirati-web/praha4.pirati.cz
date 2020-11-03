@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - carousel
 img: 		        people/ivana-wurmova.jpg    # 165 x 220
 description:        Zastupitelka Pirátů na Praze 4. # kratký popis, max 160 znaků
-mail:
+mail: ivana.wurmova@pirati.cz
 mob: 			
 profiles:
   facebook:
