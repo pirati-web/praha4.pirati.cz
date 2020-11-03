@@ -6,10 +6,11 @@ titles:
   after:
 category:                       # kategorie: p6, cl
 - praha4
-- podporovatel
+- clen
+- zastupitele
 - carousel
 img: 		        people/ivana-wurmova.jpg    # 165 x 220
-description:        Podporovatelka Pirátů na Praze 4. # kratký popis, max 160 znaků
+description:        Zastupitelka Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:
@@ -22,7 +23,7 @@ ordcan: 11
 carousel:
   img: ivana-wurmova.jpg
   text: |
-    <p>Podporovatelka Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
+    <p>Zastupitelka Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
 
 Před rokem jsem se zaregistrovala jako příznivec Pirátské strany, na Praze 4 žiji od roku 1992.
