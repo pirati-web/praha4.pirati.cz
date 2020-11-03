@@ -15,7 +15,7 @@ mail: ladislav.dvorak@pirati.cz
 mob: 			
 profiles:
   facebook:
-  twitter: 
+  twitter: Brodek87
   flickr: 
 ordpms: 1
 ordpraha: 19
