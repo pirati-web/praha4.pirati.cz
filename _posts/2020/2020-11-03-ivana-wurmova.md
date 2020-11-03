@@ -11,4 +11,4 @@ tags: pirati zastupitelka ivana wurmova
 ---
 
 
-*3. listopadu Praha* – Pirátský zastupitel Matej Šandor podal rezignaci na post zastupitele a své členství v investiční a majetkové komisi. Důvodem rezignace je zahájení jeho působení v dorozčí radě městské firmy Operátor ICT. Doručení žádosti bylo potvrzeno ze strany paní starostky a nabylo tedy právní moci. **Dnešním dnem se stává zastupitelkou Ivana Wurmová**. Srdečně blahopřejeme a přeje Ivaně hodně štěstí při výkoně mandátu. Tímto také chceme poděkovat Matejovi za jeho práci v zastupitelstvu i v obou odborných komisích.
+*3. listopadu Praha* – Piráti na Praze 4 mají od dnešního dne novou zastupitelku Ivanu Wurmovou. V zastupitelstvu se bude věnovat zejména oblasti majetku. Ivana nahradí v zastupitelstvu Mateje Šandora, který z mandátu zastupitele rezignoval. Matejovi děkujeme za odvedenou práci v zastupitelstvu během posledních dvou let. Ivaně srdečně blahopřejeme a přejeme jí hodně štěstí při výkonu mandátu.
