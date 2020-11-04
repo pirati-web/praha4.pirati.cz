@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 
+title: Vítáme novou zastupitelku Ivanu Wurmovou
 date: 2020-11-03
 author: Helena Buchtová
 authorId: helena.buchtova
