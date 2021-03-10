@@ -1,4 +1,13 @@
-# Celý klub Pirátů Praha 4 absolvuje jednání zastupitelstva distančně, vadí mu ohrožení zdraví zastupitelů během vrcholu pandemie
+---
+layout: post
+category: CLANKY
+title: Celý klub Pirátů Praha 4 absolvuje jednání zastupitelstva distančně, vadí mu ohrožení zdraví zastupitelů během vrcholu pandemie
+date: 2021-03-10T12:00:00.000Z
+author: Tibor Vansa
+authorId: tibor.vansa
+image: 
+tags: zastupitelstvo distancni ucast
+---
 
 *10. března 2021* - **Zastupitelský klub Piráti Praha 4 absolvuje dnešní zastupitelstvo MČ Praha 4 v distančním režimu. Klub takto reaguje na fakt, že jím předložené návrhy na širší umožnění distanční účasti byly smeteny ze stolu. Vzhledem k přetrvávající pandemické situaci a zatím rekordnímu počtu nakažených nepovažuje klub osobní setkání několika desítek zastupitelů a úředníků za zodpovědné.**
 
@@ -8,6 +17,6 @@ Praha 4 epidemiologickou situaci ignoruje již delší dobu. Koalice trvá na os
 
 *„Nedokážeme pochopit, že MČ je ochotná vystavovat zastupitele a zaměstnance úřadu zvýšenému riziku nákazy, když je laboratorními rozbory již dokázáno, že na území Prahy je dominantní britská mutace, která se vyznačuje větší nakažlivostí a těžším průběhem i pro mnohem mladší ročníky než u původní varianty viru. Už před několika měsíci jsme navrhovali změnu jednacího řádu, která by umožňovala se na aktuální situaci včas připravit. Místo toho koalice vše řeší na poslední chvíli a zcela nedostatečně,“* říká k tomu zastupitel Tibor Vansa.
 
-**Kontakt pro média:**
-**Tibor Vansa,** zastupitel MČ Praha 4, tel: +420 776 555 622; mail: tibor.vansa@pirati.cz
-**Michal Polák**, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
+**Kontakt pro média:**<br>
+**Tibor Vansa,** zastupitel MČ Praha 4, tel: +420 776 555 622; mail: tibor.vansa@pirati.cz<br>
+**Michal Polák**, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz<br>
