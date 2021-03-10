@@ -29,4 +29,4 @@ Piráti Praha 4 byly poté nuceni jako poslední instanci požádat o studii pod
 
 **Kontakt pro média:**<br>
 **Petra Rejchrtová**, zastupitelka MČ Praha 4, tel: +420 775 118 171; mail: Rejchrtova.Petra@seznam.cz<br>
-**Michal Polák, Media manažer KS Praha**, tel: +420 608 517 127; mail: michal.polak@pirati.cz<br>
+**Michal Polák**, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz<br>
