@@ -36,5 +36,5 @@ Piráti na magistrátu proto zahájili projekt, který má za cíl tyto procesy 
 Podkladová data se budou velmi hodit i na příští komisi dopravy Prahy 4, kde by se měla projednávat další možná rozšíření zón.
 
 **Kontakt pro média:**<br>
-**Tibor Vansa, zastupitel MČ Praha 4**, tel: +420 776 555 622; mail: tibor.vansa@pirati.cz<br>
-**Michal Polák, Media manažer KS Praha**, tel: +420 608 517 127; mail: michal.polak@pirati.cz<br>
+**Tibor Vansa**, zastupitel MČ Praha 4, tel: +420 776 555 622; mail: tibor.vansa@pirati.cz<br>
+**Michal Polák**, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz<br>
