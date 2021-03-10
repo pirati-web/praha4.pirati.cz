@@ -5,7 +5,7 @@ title: Celý klub Pirátů Praha 4 absolvuje jednání zastupitelstva distančn�
 date: 2021-03-10T12:00:00.000Z
 author: Tibor Vansa
 authorId: tibor.vansa
-image: 
+image: zdrzel-se.jpg
 tags: zastupitelstvo distancni ucast
 ---
 
