@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/ladislav-dvorak.jpg    # 165 x 220
-description:        Předseda MS.
+description:        
 mail: ladislav.dvorak@pirati.cz
 mob: 			
 profiles:
