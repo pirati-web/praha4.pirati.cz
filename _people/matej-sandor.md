@@ -8,9 +8,8 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
-- pms
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        1. místopředseda MS.
+description:        Člen
 mail:
 - matej.sandor@pirati.cz
 mob: 			
@@ -19,7 +18,6 @@ profiles:
   twitter: 
   flickr:
 ordzastupitele: 2
-ordpms: 2
 ordradni: 3
 ordpraha: 6
 ordcar: 3
