@@ -9,14 +9,16 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
+- pms
 img: 		        people/vladka-sykorova.jpg    # 165 x 220
-description:    Zastupitelka.	
+description:    2. místopředsedkyně MS. Zastupitelka.	
 mail:           vladimira.sykorova@praha4.cz
 mob: 			
 profiles:
   facebook:
   twitter: 
   flickr: 
+ordpms: 3
 ordpraha: 8
 ordcar: 3
 ordcan: 8
