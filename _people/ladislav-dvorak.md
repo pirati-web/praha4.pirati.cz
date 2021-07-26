@@ -17,7 +17,6 @@ profiles:
   facebook:
   twitter: Brodek87
   flickr: 
-ordpms: 1
 ordpraha: 19
 ordcar: 3
 ordcan: 19
