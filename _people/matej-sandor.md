@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/matej-sandor.jpg    # 165 x 220
-description:        Člen
+description:        Člen Pirátů na Praze 4.
 mail:
 - matej.sandor@pirati.cz
 mob: 			
