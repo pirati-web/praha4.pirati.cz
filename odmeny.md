@@ -16,3 +16,5 @@ Všechny uvedené sumy jsou v podobě **hrubých příjmů**. Na základě rozho
 1/2020 došlo k navýšení odměn rozhodnutím vlády.
 
 11/2020 došlo ke změně složení zastupitelského klubu a obsazení komisí.
+
+8/2021 došlo ke změně složení zastupitelského klubu.
