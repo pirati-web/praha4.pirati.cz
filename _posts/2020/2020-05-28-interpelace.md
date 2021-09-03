@@ -6,7 +6,12 @@ date: 2020-05-28T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
 image: mimoradne-zastupitelstvo.jpg
-tags: interpelace verejne zakazky mimoradne zastupitelstvo odvolani starostky radnice
+tags: 
+  - interpelace
+  - verejne zakazky
+  - mimoradne zastupitelstvo
+  - odvolani starostky
+  - radnice
 ---
 
 *Praha 28. 5. 2020* - **Na středečním zastupitelstvu po čtyřhodinové debatě nebyl schválen program a koaliční většina tak odmítla řešit navrhované body jako odvolání starostky, důsledky koronakrize nebo problémové veřejné zakázky. Piráti na zastupitelstvu představili webovou stránku, na které začali zveřejňovat písemné odpovědi na interpelace občanů a zastupitelů, neboť koalice je zveřejňovat nechtěla.**
