@@ -4,9 +4,13 @@ category: CLANKY
 title: Koalice se vyhýbá diskusi o podezřelých zakázkách pro osoby spojené s ODS, opozice svolává mimořádné zastupitelstvo s návrhem na odvolání starostky
 date: 2020-05-15T12:00:00.000Z
 author: Tibor.Vansa 
-authorId: tibor.vansa    # uid nekoho z _people
+authorId: tibor.vansa   
 image: posts/15_5_2020.jpg
-tags: koronavirus krize radnice mimoradne zastupitelstvo
+tags: 
+  - koronavirus
+  - krize
+  - radnice
+  - mimoradne zastupitelstvo
 ---
 
 <b>Klub Piráti a nezávislí společně s ostatními opozičními kluby, tedy klubem Společně pro Prahu 4 a Praha 4 sobě - Zelení a NK dnes na zastupitelstvu Prahy 4 předali starostce MČ Prahy 4 Ireně Michalcové (ANO) žádost o svolání mimořádného zastupitelstva poté, co koalice odmítla na probíhajícím zastupitelstvu řešit většinu aktuálních problémů vzniklých v souvislosti s krizí kvůli koronaviru.</b>
