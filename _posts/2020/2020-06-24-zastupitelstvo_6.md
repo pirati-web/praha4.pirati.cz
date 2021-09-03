@@ -6,7 +6,10 @@ date: 2020-06-23T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
 image: bydleni.jpg
-tags: bytova krize radnice zastupitelstvo
+tags:
+  - bytova krize
+  - radnice
+  - zastupitelstvo
 ---
 
 **Pirátský zastupitel Jan Hora upozorňuje na pravidelné odprodeje bytů ve správě městské části Prahy 4. Místo prodeje navrhneme pro vedení městské části povinnost vyhodnotit možnost převodu vlastnictví na magistrát s odpovídající kompenzací. Je to cesta, jak příznivě ovlivnit bydlení v Praze a zlepšit jeho dostupnost. Praha má velmi malý podíl městských bytů a pokračování privatizace bude do budoucna situaci nízkopříjmových profesí či seniorů ještě zhoršovat.**
