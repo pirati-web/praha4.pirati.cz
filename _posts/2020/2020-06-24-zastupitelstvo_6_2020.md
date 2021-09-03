@@ -6,7 +6,11 @@ date: 2020-06-24T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
 image: zastupitelstvo3.jpg
-tags: bytova krize radnice zastupitelstvo magistrat
+tags: 
+  - bytova krize
+  - radnice
+  - zastupitelstvo
+  - magistrat
 ---
 
 *Praha 24.6.2020* - **Koalice ODS, ANO a TOP09 opět odmítla vést dialog se zastupiteli a zamítla všechny body navrhované opozicí. Neprošel návrh našeho zastupitele Jana Hory k úpravě postupu prodeje bytů ve spolupráci s hlavním městem, ani návrh Tibora Vansy týkající se nedávného interního auditu předražených zakázek na nákup dezinfekce.**
