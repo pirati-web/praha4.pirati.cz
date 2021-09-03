@@ -6,7 +6,10 @@ date: 2020-11-03
 author: Helena Buchtová
 authorId: helena.buchtova
 image: zastupitelka-iw.jpg
-tags: pirati zastupitelka ivana wurmova
+tags: 
+  - pirati
+  - zastupitelka
+  - ivana wurmova
 
 ---
 
