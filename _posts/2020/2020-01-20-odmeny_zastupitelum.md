@@ -7,7 +7,8 @@ date: '2020-01-20 00:01am'
 author: Marek Paris
 authorId: marek.paris
 image: minitrafiky.png
-tags: odmeny komise zastupitele
+tags: 
+  - odmeny komise zastupitele
 ---
 
 <b>Stalo se zvykem, že vládnoucí koalice ANO, TOP09 a ODS zahajuje každé zasedání Zastupitelstva Prahy 4 zamítnutím všech bodů opozice navržených na program jednání. Jmenujme například návrh Viktora Derky na posunutí doby občanských interpelací během zasedání zastupitelstva na pozdější hodinu či podnět Tibora Vansy zabývat se neefektivním vymáháním pokut za přestupky při parkování na modrých zónách. </b>
