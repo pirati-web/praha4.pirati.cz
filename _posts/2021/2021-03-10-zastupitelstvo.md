@@ -6,7 +6,9 @@ date: 2021-03-10T12:00:00.000Z
 author: Tibor Vansa
 authorId: tibor.vansa
 image: zdrzel-se.jpg
-tags: zastupitelstvo distancni ucast
+tags: 
+  - zastupitelstvo
+  - distancni ucast
 ---
 
 *10. března 2021* - **Zastupitelský klub Piráti Praha 4 absolvuje dnešní zastupitelstvo MČ Praha 4 v distančním režimu. Klub takto reaguje na fakt, že jím předložené návrhy na širší umožnění distanční účasti byly smeteny ze stolu. Vzhledem k přetrvávající pandemické situaci a zatím rekordnímu počtu nakažených nepovažuje klub osobní setkání několika desítek zastupitelů a úředníků za zodpovědné.**
