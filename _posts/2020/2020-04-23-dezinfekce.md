@@ -4,9 +4,13 @@ category: CLANKY
 title: Piráti rozdávali dezinfekci občanům, radnice nezajistila dostatek.
 date: 2020-04-23T12:00:00.000Z
 author: Tibor.Vansa 
-authorId: tibor.vansa    # uid nekoho z _people
+authorId: tibor.vansa    
 image: posts/dezinfekce2.jpg
-tags: dezinfekce koronavirus krize radnice
+tags: 
+  - dezinfekce
+  - koronavirus
+  - krize
+  - radnice
 ---
 
 <b>Piráti z Prahy 4 budou zítra od 8,00 před obchodem NORMA v Horáčkově ulici zdarma rozdávat dezinfekci místním občanům. Část z nich se totiž stále potýká s jejím nedostatkem, jak ukázaly podněty nejen na sociálních sítích. Radnice Prahy 4 včas nezajistila dostatek dezinfekce také pro jednotlivce, ačkoliv v jiných městských částech je viditelně dostupná také pro občany. Na podnět zastupitele Adama Jaroše místní pirátské sdružení zakoupilo z vlastního rozpočtu dezinfekci za zlomek ceny, za jakou ji před dvěma týdny dodatečně pořídila MČ Praha 4.</b>
