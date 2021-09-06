@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Starostka Prahy 4 prodává městský pozemek, neví o tom její rada ani zastupitelstvo
-date: 2021-09-06T09:00:00.000Z
+date: 2021-09-05T12:00:00.000Z
 author: Tibor Vansa
 authorId: tibor.vansa
 image: mimoradne-zastupitelstvo.jpg
