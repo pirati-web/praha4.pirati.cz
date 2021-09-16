@@ -6,7 +6,7 @@ title: >-
 date: '2019-01-22 00:01am'
 author: Tibor Vansa
 authorId: tibor.vansa
-image: petra_videnska.jpg
+image: posts/etra_videnska.jpg
 tags: vyjednavani koalice praha4 
 ---
 

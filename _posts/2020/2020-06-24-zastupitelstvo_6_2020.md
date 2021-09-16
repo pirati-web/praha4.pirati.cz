@@ -5,7 +5,7 @@ title: Návrh Pirátů na hospodárné nakládání s byty na zastupitelstvu Pra
 date: 2020-06-24T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
-image: zastupitelstvo3.jpg
+image: posts/zastupitelstvo3.jpg
 tags: 
   - bytova krize
   - radnice

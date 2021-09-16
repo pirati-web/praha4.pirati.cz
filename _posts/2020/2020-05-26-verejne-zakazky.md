@@ -6,7 +6,7 @@ title: >-
 date: 2020-05-26T20:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
-image: jan-hora2.jpg
+image: posts/jan-hora2.jpg
 tags: verejne zakazky mimoradne zastupitelstvo odvolani starostky radnice
 ---
 

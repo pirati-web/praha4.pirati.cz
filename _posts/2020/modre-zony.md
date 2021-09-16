@@ -5,7 +5,7 @@ title: Zóny na Praze 4 uvolnily přes 6 tisíc parkovacích míst. Čtvrtinu m�
 date: 2020-10-13
 author: Tibor Vansa
 authorId: tibor.vansa
-image: parkovani-praha4.jpg
+image: posts/parkovani-praha4.jpg
 tags: 
   - parkovani
   - modre zony

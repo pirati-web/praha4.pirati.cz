@@ -5,7 +5,7 @@ title: Starostka Prahy 4 prodává městský pozemek, neví o tom její rada ani
 date: 2021-09-05T12:00:00.000Z
 author: Tibor Vansa
 authorId: tibor.vansa
-image: mimoradne-zastupitelstvo.jpg
+image: posts/mimoradne-zastupitelstvo.jpg
 tags:
   - mimoradne zastupitelstvo
   - pochybeni starostky

@@ -5,7 +5,7 @@ title: Vítáme novou zastupitelku Ivanu Wurmovou
 date: 2020-11-03
 author: Helena Buchtová
 authorId: helena.buchtova
-image: zastupitelka-iw.jpg
+image: posts/zastupitelka-iw.jpg
 tags: 
   - pirati
   - zastupitelka

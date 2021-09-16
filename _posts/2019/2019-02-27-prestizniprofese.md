@@ -5,7 +5,7 @@ title: >-
   Prestižní profese aneb koho si (ne)vážíme
 date: '2019-02-27 00:01am'
 author: Adam Jaroš
-image: ucitele.jpg
+image: posts/ucitele.jpg
 tags: skolstvi vzdelavani adamjaros 
 ---
 

@@ -5,7 +5,7 @@ title: Praha 4 zatajovala několik měsíců podklady pro stavbu za nejméně 10
 date: 2020-09-23
 author: Petra Rejchrtová
 authorId: petra.rejchrtova
-image: hudeckova.jpg
+image: posts/hudeckova.jpg
 tags: 
   - hudeckova
   - socialni sluzby

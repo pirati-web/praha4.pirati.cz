@@ -5,7 +5,7 @@ title: >-
   Stanovisko k insolvenci zastupitelky Vladimíry Sýkorové (Piráti)
 date: '2019-01-31 00:01am'
 author: 
-image: logo2.png
+image: posts/logo2.png
 tags: stanovisko oddluzeni 
 ---
 

@@ -5,7 +5,7 @@ title: Koalice na Praze 4 neschválila program mimořádného zastupitelstva, o 
 date: 2020-05-28T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
-image: mimoradne-zastupitelstvo.jpg
+image: posts/mimoradne-zastupitelstvo.jpg
 tags: 
   - interpelace
   - verejne zakazky

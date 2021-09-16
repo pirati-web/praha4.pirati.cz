@@ -5,7 +5,7 @@ title: >-
   Rozhovor s pirátským předsedou grantové komise Josefem Vlachem
 date: '2019-02-10 00:01am'
 author: 
-image: pepa.jpg
+image: posts/pepa.jpg
 tags: rozhovor josef vlach
 ---
 

@@ -5,7 +5,7 @@ title: Piráti Praha 4 navrhují na program zastupitelstva bod, který zaváže 
 date: 2020-06-23T12:00:00.000Z
 author: Jan Hora
 authorId: jan.hora
-image: bydleni.jpg
+image: posts/bydleni.jpg
 tags:
   - bytova krize
   - radnice

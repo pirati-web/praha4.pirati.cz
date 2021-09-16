@@ -5,7 +5,7 @@ title: >-
   Koalice v Praze 4 hladce zvládla hlasování o rozpočtu na rok 2019
 date: '2019-02-06 00:01am'
 author: 
-image: Duhe-zastupP4.jpg
+image: posts/Duhe-zastupP4.jpg
 tags: rozpocet zastupitelstvo 
 ---
 
