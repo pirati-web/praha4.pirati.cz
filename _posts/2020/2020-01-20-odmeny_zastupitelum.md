@@ -6,7 +6,7 @@ title: >-
 date: '2020-01-20 00:01am'
 author: Marek Paris
 authorId: marek.paris
-image: minitrafiky.png
+image: posts/minitrafiky.png
 tags: 
   - odmeny komise zastupitele
 ---
