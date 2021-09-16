@@ -5,7 +5,7 @@ title: >-
   Chcete interpelovat zastupitelstvo Prahy 4? Vezměte si na to dovolenou.
 date: '2019-09-25 00:01am'
 author: 
-image: zastupitelstvo6.jpg
+image: posts/zastupitelstvo6.jpg
 tags: zastupitelstvo interpelace zaznamy
 ---
 

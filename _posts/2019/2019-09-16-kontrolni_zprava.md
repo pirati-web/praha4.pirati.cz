@@ -6,7 +6,7 @@ title: >-
 date: '2019-09-16 00:01am'
 author: Tibor Vansa
 authorId: tibor.vansa
-image: kontrola.jpg
+image: posts/kontrola.jpg
 tags: kontrolni zprava praha4 
 ---
 

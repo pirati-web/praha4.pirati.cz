@@ -6,7 +6,7 @@ title: >-
 date: '2019-12-02 00:01am'
 author: Tibor Vansa
 authorId: tibor.vansa
-image: modre_zony.png
+image: posts/modre_zony.png
 tags: parkovani modre zony
 ---
 

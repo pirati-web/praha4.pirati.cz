@@ -6,7 +6,7 @@ title: >-
   světové metropole. Chce se inspirovat úspěšnými projekty
 date: '2018-07-27 07:40pm'
 author: Štěpán Štrébl
-image: Zdenek_Hrib-zahajeni_kampane.jpg
+image: posts/Zdenek_Hrib-zahajeni_kampane.jpg
 tags: 
  - NAPRAHUZMENY
  - DRZIMEKURZ

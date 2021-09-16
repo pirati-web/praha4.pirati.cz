@@ -5,7 +5,7 @@ title: >-
   Těžká volba dopravních priorit pro Prahu
 date: '2019-03-01 00:01am'
 author: 
-image: sporilovska.png
+image: posts/sporilovska.png
 tags: sporilovska zakryti 
 ---
 

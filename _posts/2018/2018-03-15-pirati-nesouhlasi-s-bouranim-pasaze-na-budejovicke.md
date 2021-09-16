@@ -5,7 +5,7 @@ tags:
  - místní sdružení
 layout:       post
 title:        "Nesouhlasíme s bouráním Budějovické pasáže" 
-image:        budejovicka.jpg
+image:        posts/budejovicka.jpg
 author:       Viktor Mahrik
 ---
 

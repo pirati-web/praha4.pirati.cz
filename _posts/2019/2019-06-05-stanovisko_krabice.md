@@ -5,7 +5,7 @@ title: >-
   Stanovisko Pirátů Praha 4 k podpásovce v předsálí Nuselské radnice během zasedání nového zastupitelstva
 date: '2019-06-05 00:01am'
 author: 
-image: stanovisko_krabice.jpg
+image: posts/stanovisko_krabice.jpg
 tags: stanovisko krabice
 ---
 

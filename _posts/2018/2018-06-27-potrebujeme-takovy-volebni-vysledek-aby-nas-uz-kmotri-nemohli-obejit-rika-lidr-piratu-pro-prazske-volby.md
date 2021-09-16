@@ -6,7 +6,7 @@ title: >-
   lídr Pirátů pro pražské komunální volby
 date: '2018-07-13 12:20am'
 author: Ivan Břešták
-image: banner_2048.jpg
+image: posts/banner_2048.jpg
 tags:
  - Hrib 
  - Praha 

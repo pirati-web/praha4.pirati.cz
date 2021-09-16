@@ -5,7 +5,7 @@ title: >-
   Piráti na zastupitelstvu Prahy 4: Koaliční zastupitel nejspíš dluží radnici miliony, MČ vstoupila do Otevřených měst a byl obsazen kontrolní výbor
 date: '2019-06-03 00:01am'
 author: 
-image: ctvrte_zasedani.png
+image: posts/ctvrte_zasedani.png
 tags: opozice kontrolni vybor otevrena mesta
 ---
 

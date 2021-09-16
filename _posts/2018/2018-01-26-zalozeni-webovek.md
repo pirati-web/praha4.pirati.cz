@@ -5,7 +5,7 @@ tags:
  - místní sdružení
 layout:       post
 title:        "Založení Pirátů na čtyřce" 
-image:        zalozeni.png
+image:        posts/zalozeni.png
 author:       Piráti ze čtyřky
 location:
         latitude: 50.100864
