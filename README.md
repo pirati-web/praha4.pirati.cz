@@ -1,5 +1,5 @@
-# praha4.pirati.cz
+# praha10.pirati.cz
 
-[![Build Status](https://api.travis-ci.org/pirati-web/praha.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/praha.pirati.cz)
+Web místního sdružení Piráti Praha 1.
 
-[Návod](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/USAGE.md) na nastavení a používaní jednoduchého webu nad `jekyll-theme-pirati`
+- Aktuální návod na správu tohoto webu naleznete v projektu [pirati-web/jekyll-theme-pirati](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/USAGE.md).

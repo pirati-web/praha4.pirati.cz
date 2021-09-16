@@ -1,18 +1,13 @@
 ---
 layout: default
-rbar: 
-   - fb
-   - calendar
-img: banner-default.jpg
 ---
 
-{% include homepage/banner.html 
-   link='/komunalni-volby/'
-   title='Komunální volby 2018'
-   default='header/praha4_zastupitele.png'
-   mobile='header/praha4_zastupitele.png'
-   breakpoint=640
-%}
+{% include hero/simple.html headline="Piráti Praha 4" description="Makáme v opozici. Držíme kurz!" bgImg="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pankrac_Krc_letecky_0692.JPG/1280px-Pankrac_Krc_letecky_0692.JPG" heroSpacing="py-16 lg:pt-32" %}
 
-{% include homepage/news-with-rbar.html %}
-
+<div class="container container--default pt-4 lg:pb-24">
+  {% include homepage/news.html title="Co se děje v Praze 9:" %}
+  {% include homepage/countdown.html deadline="2021-10-08 08:00:00" %}
+  <!-- 2022-10-05 14:00:00 -->
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>

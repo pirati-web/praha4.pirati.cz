@@ -1,44 +1,26 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
-    url:  "https://praha4.pirati.cz/assets/plisty4/"
-    icon: "fa fa-newspaper-o"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+
 
 main:
   - link: /aktuality/
     name: Aktuality
-    match: aktuality
-  - link: /interpelace/
-    name: Interpelace
   - link: /lide/
-    name: O nás
-    match: lide
+    name: Lidé
   - link: /program/
-    name: Program
-    match: program
-    submenu:
-      - link: /program/magistrat
-        name: Magistrát
-        match: magistrat
-      - link: /program/praha4/priority/
-        name: Priority Prahy 4
-        match: praha4/priority
-      - link: /program/detail
-        name: Program P4 
-        match: /program/detail
-      - link: /program/strategie
-        name: Povolební strategie P4
-        match: strategie  
+    name: Program    
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021  
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
-  - link: https://praha.pirati.cz
-    name: Pražské sdružení
 
 bottom:
   - class: small-12 medium-4
@@ -46,13 +28,13 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
@@ -64,3 +46,10 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - tibor.vansa
