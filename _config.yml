@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 administrator:
-  email: jan.suchanek@gmail.com, tibor.vansa@gmail.com
+  email: jan.suchanek@gmail.com, tibor.vansa@gmail.com, marek.krejpsky@pirati.cz
 github:
   url: https://github.com/pirati-web/praha4.pirati.cz/
   branch: master
@@ -145,4 +145,4 @@ assets:
   sources:
     - assets/js
     - assets/img
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.5/assets/img
