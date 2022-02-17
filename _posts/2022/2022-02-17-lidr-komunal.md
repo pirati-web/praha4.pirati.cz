@@ -25,6 +25,6 @@ Jediný vyzyvatel Jana Hory, předseda místního sdružení Tibor Vansa, skonč
 Po vítězství Pirátů v předešlých komunálních volbách 2018 zastával Jan Hora pozici radního pro IT.  V současnosti je zastupitelem s gescemi IT a bezpečnost a předsedou komise pro IT a zastupitelem hlavního města Prahy se stejnými gescemi. Je též místopředsedou pražského krajského sdružení a v resortním týmu Vnitro a bezpečnost vede podtým pro zbraně a bezpečnostní materiál.
 
 **Kontakt pro média:**
-**Jan Hora**, zastupitel MČ Praha 4, tel: +420 775 608 734; mail: jan.hora@pirati.cz 
+**Jan Hora**, zastupitel MČ Praha 4, tel: +420 775 608 734; mail: jan.hora@pirati.cz<br>
 **Michal Polák**, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
 
