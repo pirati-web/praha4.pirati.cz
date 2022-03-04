@@ -7,9 +7,10 @@ author: Jan Hora
 authorId: 
 image: posts/podpora-ukrajiny.jpg
 tags: 
-  - zastupitelstvo
+  - podpořme ukrajinu
   - humanitární pomoc
   - ukrajina
+  - zastupitelstvo
   - jan hora
 
 ---
