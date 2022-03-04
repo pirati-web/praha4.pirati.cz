@@ -23,7 +23,7 @@ Lidem, kteří před ruskou agresí na Ukrajině uprchli do Prahy městská čá
 
 *“Přijíždí zejména ženy s dětmi. Hlavně u dětí by naším cílem mělo být co možná největší zmírnění stresu, který s sebou náhlé opuštění domova a jistot bezesporu nese. Nečekal bych, že i děti Evropy v 21. století může trauma války bezprostředně ohrožovat. To nejlepší, co může naše městská část udělat, je postarat se o co nejvíce lidí. Ti, kdo na Ukrajině zůstávají a bojují musí vědět, že jejich blízcí jsou v bezpečí a že je o ně dobře postaráno,”* říká k tomu Jan Hora. Usnesení zastupitelé schválili na svém zasedání 2. března.
 
-Více informací k možným formám pomoci lidem prchajícím z Ukrajiny najdete na odkazu: [Podpořme Ukrajinu!](https://ukrajina.pirati.cz/)
+Více informací k možným formám pomoci lidem prchajícím z Ukrajiny najdete na odkazu: <a href="https://ukrajina.pirati.cz/">Podpořme Ukrajinu!</a>
 
 
 **Kontakt pro média:**<br>
