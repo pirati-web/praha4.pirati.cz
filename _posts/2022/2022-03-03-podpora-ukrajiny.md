@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Praze 4 se přidává k podpoře Ukrajiny, na pomoc pošle 2 miliony. Zastupitelé se shodli nad návrhem Pirátů.
+title: Praha 4 se přidává k podpoře Ukrajiny, na pomoc pošle 2 miliony. Zastupitelé se shodli nad návrhem Pirátů.
 date: 2022-03-03
 author: Jan Hora
 authorId: 
