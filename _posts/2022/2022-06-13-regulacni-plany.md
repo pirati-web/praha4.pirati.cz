@@ -5,7 +5,7 @@ title: Regulační plány - už žádná překvapení v územním rozvoji
 date: 2022-06-13
 author: Petra Rejchrtová
 authorId: 
-image: posts/uzemni-rozvoj.png
+image: 
 tags: 
   - územní plán
   - metropolitní plán
