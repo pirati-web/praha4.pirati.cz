@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
+- can22
 img: 		        people/vladimir-hrouda.jpg    # 165 x 220
 description:        Nezávislý kandidát na Praze 4. # kratký popis, max 160 znaků
 mail:
@@ -20,6 +21,7 @@ profiles:
 ordpraha: 12
 ordcar: 3
 ordcan: 12
+ordcan22: 11
 carousel:
   img: vladimir-hrouda.jpg
   text: |

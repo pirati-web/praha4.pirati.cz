@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - zastupitele
+- can22
 img: 		        people/viktor-derka.jpg    # 165 x 220
 description:         Zastupitel.	
 mail:
@@ -22,6 +23,7 @@ ordpms: 1
 ordpraha: 10
 ordcar: 3
 ordcan: 10
+ordcan22: 17
 carousel:
   img: viktor-derka.jpg
   text: |

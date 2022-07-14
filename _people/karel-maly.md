@@ -7,6 +7,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- can22
 img: 		        people/karel-maly.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail: karel.maly@pirati.cz
@@ -18,6 +19,7 @@ profiles:
 ordpraha: 18
 ordcar: 3
 ordcan: 18
+ordcan22: 19
 carousel:
   img: karel-maly.jpg
   text: |

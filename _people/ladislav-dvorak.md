@@ -19,6 +19,7 @@ profiles:
 ordpraha: 19
 ordcar: 3
 ordcan: 19
+ordcan22: 9
 carousel:
   img: ladislav-dvorak.jpg
   text: |

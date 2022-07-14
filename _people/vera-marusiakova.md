@@ -8,6 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- can22
 img: 		        people/vera-marusiakova.jpg    # 165 x 220
 description:        Členka Pirátů v Praze 4. # kratký popis, max 160 znaků
 mail:
@@ -20,6 +21,7 @@ profiles:
 ordpraha: 17
 ordcar: 3
 ordcan: 17
+ordcan22: 13
 carousel:
   img: vera-marusiakova.jpg
   text: |

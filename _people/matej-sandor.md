@@ -8,6 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- can22
 img: 		        people/matej-sandor.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4.
 mail:
@@ -22,6 +23,7 @@ ordradni: 3
 ordpraha: 6
 ordcar: 3
 ordcan: 6
+ordcan22: 14
 carousel:
   img: matej-sandor.jpg
   text: |

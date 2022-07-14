@@ -12,6 +12,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - clen
 - pms
+- can22
 contactType: Předseda
 img: 		        people/tibor-vansa.jpg    # 165 x 220
 description:     Předseda místního sdružení. Zastupitel.
@@ -27,6 +28,7 @@ ordradni: 1
 ordpraha: 1
 ordcar: 3
 ordcan: 1
+ordcan22: 5
 carousel:
   img: tibor-vansa.jpg
   text: |

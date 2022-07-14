@@ -8,6 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- can22
 img: 		        people/josef-kadlecek.jpg    # 165 x 220
 description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail:
@@ -20,6 +21,7 @@ profiles:
   ordpraha: 16
   ordcar: 3
   ordcan: 16
+  orcan22: 15
 carousel:
   img: josef-kadlecek.jpg
   text: |

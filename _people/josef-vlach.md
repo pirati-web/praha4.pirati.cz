@@ -10,6 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - zastupitele
 - pms
+- can22
 img: 		        people/josef-vlach.jpg    # 165 x 220
 description:    1. místopředseda MS. Zastupitel.
 mail:
@@ -23,6 +24,7 @@ ordpms: 2
 ordpraha: 4
 ordcar: 3
 ordcan: 5
+ordcan22: 2
 carousel:
   img: josef-vlach.jpg
   text: |

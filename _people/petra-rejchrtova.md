@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - podporovatel
 - carousel
 - zastupitele
+- can22
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
 description:        Zastupitelka. Nezávislá.
 mail: petra.rejchrtova@praha4.cz
@@ -21,6 +22,7 @@ ordpraha: 3
 ordcar: 3
 ordcan: 3
 ordradni: 4
+ordcan22: 3
 carousel:
   img: petra-rejchrtova.jpg
   text: |

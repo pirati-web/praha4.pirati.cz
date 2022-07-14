@@ -11,6 +11,7 @@ category:                       # kategorie: p6, cl
 - kontaktni_osoba
 - clen
 - zastupitele
+- can22
 contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
 description: Zastupitel.
@@ -25,6 +26,7 @@ ordradni: 2
 ordpraha: 2
 ordcar: 3
 ordcan: 2
+ordcan22: 1
 carousel:
   img: jan-hora.jpg
   text: |

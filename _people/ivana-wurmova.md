@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - zastupitele
 - carousel
+- can22
 img: 		        people/ivana-wurmova.jpg    # 165 x 220
 description:        Zastupitelka Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail: ivana.wurmova@pirati.cz
@@ -20,6 +21,7 @@ profiles:
 ordpraha: 11
 ordcar: 3
 ordcan: 11
+ordcan22: 4
 carousel:
   img: ivana-wurmova.jpg
   text: |
