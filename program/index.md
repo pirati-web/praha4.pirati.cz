@@ -4,6 +4,7 @@ title: Plnění programu 2018–2022
 campaignCategoryUid: 2018-komunalni
 customizeHeader: true
 ---
+
 ## Otevřená radnice a Transparentní hospodaření 
 
 * Zavedeme rozklikávací rozpočet s přehledem čerpání až na fakturu. Obsah smlouvy nebude tvořen jednou větou, ale celou specifikací. Všechny obchodní smlouvy včetně dodatků zveřejníme na webu. Bude to platit i pro městské akciové a příspěvkové společnosti. 
