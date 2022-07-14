@@ -1,7 +1,7 @@
 ---
 layout: program-post
-title: Plnění programu 2018–2022
-campaignCategoryUid: 2018-komunalni
+title: Pirátský program do voleb v září 2022
+campaignCategoryUid: 2022-komunalni
 customizeHeader: true
 ---
 
