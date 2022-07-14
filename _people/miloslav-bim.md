@@ -8,6 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
+- can22
 img: 		        people/miloslav-bim.jpg    # 165 x 220
 description:    Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
 mail:
@@ -21,6 +22,7 @@ profiles:
 ordpraha: 14
 ordcar: 3
 ordcan: 14
+ordcan22: 20
 carousel:
   img: miloslav-bim.jpg
   text: |
