@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - can22
 img: 		        people/vladimir-hrouda.jpg    # 165 x 220
-description:        Nezávislý kandidát na Praze 4. # kratký popis, max 160 znaků
+description:        Nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:

@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - can22
 img: 		        people/viktor-derka.jpg    # 165 x 220
-description:         Zastupitel.	
+description:         Zastupitel a člen Pirátů	
 mail:
 - viktor.derka@pirati.cz
 mob: 			
@@ -29,11 +29,11 @@ carousel:
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Narodil jsem se na Praze 4, kde jsem strávil dosud celý svůj život. Jsem absolventem magisterského studia na Právnické fakultě Univerzity Karlovy, přičemž momentálně zahajuji sdílené doktorské studium na Univerzitě Karlově a Universität Bayreuth, kde jsem již dříve strávil rok na studijním pobytu, který byl financován programem Erasmus. V rámci mého doktorského studia se zaměřuji na problematiku správního a ústavního práva. Mezi mé pracovní zkušenosti nabyté během magisterského studia patří zejména pracovní stáž na Ústavním soudu a Nejvyšším správním soudu. Jazykově jsem zdatný v anglickém, německém a pasivně polském jazyce.
+Jsem vystudovaným právníkem, aktuálně doktorandem kombinovaně na Právnické fakultě Univerzity Karlovy a Rechts- und Wirtschaftswissenschaftliche Fakultät der Universität Bayreuth. Zde se zaměřuji na veřejné právo - konkrétně na ústavní a správní právo ve vztahu ke správě soudnictví.
 
-V zastupitelstvu Prahy 4 mám v úmyslu se aktivně věnovat problematikám transparence a otevřenosti orgánů městské části, hospodaření s majetkem městské části a jejích dceřiných společností či příspěvkových organizacích, a efektivnímu fungování úřadu městské části, zejména po personální stránce. Z celorepublikových témat se dlouhodobě věnuji otázkám správy soudnictví, což je do určité míry zuživatelné též na Praze 4, jejíž zastupitelstvo volí přísedící Obvodního soudu pro Prahu 4.
+V Pirátech se angažuji od začátku roku 2018, s těžištěm činnosti na Praze 4, kde jsem byl v říjnu téhož roku zvolen zastupitelem. Mimoto občas vypomáhám právnímu týmu v rámci vnitrostranického právního poradenství.
 
-Ve svém volném čase se snažím věnovat lehké atletice, čtení, lyžování, cyklistice, a hraní her na hrdiny. :)
+Z jazyků znám používám aktivně angličtinu i němčinu, pasivně též polštinu. Mimo studia rád jezdím na kole, lyžuji, či hraji stolní hry a hry na hrdiny.
 
 
 

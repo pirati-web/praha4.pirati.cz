@@ -7,7 +7,8 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - can22
-description:        Kandidátka za Piráty v komunálních volbách 2022. # kratký popis, max 160 znaků
+img: 		        people/tereza-nislerova.jpg    # 165 x 220
+description:        Členka Pirátů # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:

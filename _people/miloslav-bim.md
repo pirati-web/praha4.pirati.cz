@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - can22
 img: 		        people/miloslav-bim.jpg    # 165 x 220
-description:    Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
+description:    Člen Pirátů # kratký popis, max 160 znaků
 mail:
 - miloslav.bim@pirati.cz
 mob:			

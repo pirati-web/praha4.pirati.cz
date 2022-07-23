@@ -9,7 +9,8 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 - can22
-description:        Člen Pirátů na Praze 4. # kratký popis, max 160 znaků
+img: 		        people/josef-kadlecek.jpg
+description:        Člen Pirátů # kratký popis, max 160 znaků
 mail:
 - josef.kadlecek@pirati.cz
 mob: 			

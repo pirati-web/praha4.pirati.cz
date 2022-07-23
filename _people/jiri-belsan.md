@@ -7,7 +7,8 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - can22
-description:    Kandidát do komunálních voleb na Praze 4 za Piráty. # kratký popis, max 160 znaků
+img: 		        people/jiri-belsan.jpg    # 165 x 220
+description:    Člen Pirátů # kratký popis, max 160 znaků
 mail:
 - jiri.belsan@pirati.cz
 mob:			

@@ -11,7 +11,7 @@ category:                       # kategorie: p6, cl
 - zastupitele
 - can22
 img: 		        people/petra-rejchrtova.jpg    # 165 x 220
-description:        Zastupitelka. Nezávislá.
+description:        Zastupitelka za nezávislé.
 mail: petra.rejchrtova@praha4.cz
 mob: 			
 profiles:

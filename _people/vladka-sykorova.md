@@ -12,7 +12,7 @@ category:                       # kategorie: p6, cl
 - pms
 - can22
 img: 		        people/vladka-sykorova.jpg    # 165 x 220
-description:    2. místopředsedkyně MS. Zastupitelka.	
+description:    Zastupitelka a 2. místopředsedkyně MS.	
 mail:           vladimira.sykorova@praha4.cz
 mob: 			
 profiles:
