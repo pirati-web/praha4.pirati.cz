@@ -18,7 +18,16 @@ customizeHeader: true
 * Provedeme vnitřní revizi předpisů a smluv týkajících se hospodaření s majetkem Prahy 4. 
 * Aktivně se zapojíme do inventarizace majetku MČ Praha 4 – provedeme revizi evidence bytových domů, nebytových objektů, nebytových prostor, pozemků 
 
-## Územní rozvoj 
+## Bydlení a sociální služby 
+
+* Opravíme kompletně bytový fond a nedovolíme jeho další privatizaci. V rámci stávajícího bytového fondu vyčleníme více bytů pro sociální bydlení a potřebné profese. Sociální byty musí být dostupné pro osamělé rodiče pečující o nezletilé dítě, seniory s nízkými příjmy a zdravotně postižené. 
+* Budeme tlačit na developery, aby vytvářeli lokality s rozmanitým bytovým fondem, s dostatkem levných malometrážních bytů. Chceme zabránit vzniku ghett a izolovaných komunit, naším cílem je město, kde spolu žijí lidé všech generací a profesí. 
+* Budeme řešit příčiny i důsledky bezdomovectví. Vytvoříme koncepci prevence ztráty bydlení a dostupného bydlení pro všechny. Těm, kteří se na ulici ocitnou, nabídneme pomocnou ruku při návratu do společnosti. Společnost na tom ve výsledku vydělá sociálně i ekonomicky. 
+* Budeme dále rozvíjet právní poradnu, zaměříme se na exekuce a problémy lidí s trvalým bydlištěm na nahlášeným na úřad. 
+* Vytvoříme službu městského koordinátora pro klienty vyžadující péči na zdravotně sociálním pomezí. Koordinátor pomůže potřebným a jejich rodinám s orientací v nepřehledném prostředí zdravotních a sociálních služeb a zajistí integraci například pobytových služeb, terénní sociální práce, volnočasových aktivit i sítě praktických lékařů. Po vzoru Švédska maximálně zjednodušíme systém z pohledu občana. 
+* Zřídíme Kontaktní místo pro bydlení. Občan se v něm dozví informace související s řešením problémů v oblasti bydlení na jednom místě a není nucen obcházet jednotlivé úřady a organizace. 
+
+## Převídatelná výstavba a územní rozvoj 
 
 * Budeme prosazovat přiměřenou výstavbu, developeři se musí podílet na výstavbě školek, parkovišť a dalším veřejném vybavení. Budeme používat plánovací smlouvy místo bezzubých memorand. 
 * Budeme prosazovat regulační plány v okolí stanic metra a na dalších rozvojových plochách. Navážeme na naši práci z tohoto volebního období a do zpracování regulačních plánů zpracujeme postupně pravidla pro rozhodování v území pro celou Prahu 4. 
@@ -33,7 +42,7 @@ customizeHeader: true
 * Zasadíme se o aktivní výkupy pozemků pod veřejnými prostranstvími a jejich bezúplatný převod ze státních institucí do majetku Prahy 4. 
 * V opozici spravujeme informační FB stránku Územní rozvoj – Praha 4, pořádáme přednášky o nových stavbách, organizujeme setkání ke změnám územního plánu. To by však měla dělat radnice. * Informovanost o dění v územním rozvoji posílíme o oficiální kanály. 
 
-## IT a moderní služby občanům 
+## Digitální služby občanům 
 
 * Online je lepší než na papíře – digitalizujeme procesy radnice a celé agendy úřadu. Budeme spolupracovat s hlavním městem Prahou na zavedení agend Prahy 4 do Portálu Pražana a tím odlehčíme občanům i úředníkům. Papírovou formu podání zachováme pro ty, kterým online forma nevyhovuje. 
 * Služby a informace na jednom místě, na dosah ruky – modernizujeme web naší městské části. Z nepřehledného archaického pozůstatku devadesátých let uděláme srozumitelný moderní portál, kde každý snadno najde potřebné informace pro svou životní situaci – od běžných úředních agend, až po důležité aktuality kulturní, dopravní či bezpečnostní. Budeme včas informovat o údržbě veřejného prostoru a údržbě komunikací, aby se na ni mohli občané připravit. Dále také umožníme přihlášení k odběru relevantních zpráv na úředních deskách městských částí i magistrátu a umožníme výběr vhodné formy upozoronění. Je na občanovi, zda chce být informován e-mailem, mobilní aplikací, sms či třeba prostřednictvím RSS čtečky. 
@@ -41,14 +50,23 @@ customizeHeader: true
 * Agendy hlavního města a i městských částí na jednom místě – Občan nemá řešit, zda jeho podání směřuje na hlavní město či na městskou část. Sjednotíme mechanismy podání tak, aby občané mohli učinit podání kdekoliv a nemuseli řešit administrativní detaily, budeme v tomto ohledu spolupracovat s hlavním městem. 
 * Nástroje participativního rozhodování a sběru zpětné vazby se stanou nedílnou součástí fungování úřadu – participační rozhodování nemá být alibismus, ale skutečný podklad pro rozhodování úřadu i volených zástupců, který umožňuje vybírat lepší řešení na základě dlouhodobé znalosti lokality, ve které místní občany nikdo netrumfne. Zpětná vazba k službám, které úřad poskytuje občanům přestane být pouhou byrokratickou povinností a stane se základem pro postupné zlepšování procesů úřadu a zvyšování kvality služeb 
 
-## Bydlení a sociální služby 
+## Životní prostředí 
 
-* Opravíme kompletně bytový fond a nedovolíme jeho další privatizaci. V rámci stávajícího bytového fondu vyčleníme více bytů pro sociální bydlení a potřebné profese. Sociální byty musí být dostupné pro osamělé rodiče pečující o nezletilé dítě, seniory s nízkými příjmy a zdravotně postižené. 
-* Budeme tlačit na developery, aby vytvářeli lokality s rozmanitým bytovým fondem, s dostatkem levných malometrážních bytů. Chceme zabránit vzniku ghett a izolovaných komunit, naším cílem je město, kde spolu žijí lidé všech generací a profesí. 
-* Budeme řešit příčiny i důsledky bezdomovectví. Vytvoříme koncepci prevence ztráty bydlení a dostupného bydlení pro všechny. Těm, kteří se na ulici ocitnou, nabídneme pomocnou ruku při návratu do společnosti. Společnost na tom ve výsledku vydělá sociálně i ekonomicky. 
-* Budeme dále rozvíjet právní poradnu, zaměříme se na exekuce a problémy lidí s trvalým bydlištěm na nahlášeným na úřad. 
-* Vytvoříme službu městského koordinátora pro klienty vyžadující péči na zdravotně sociálním pomezí. Koordinátor pomůže potřebným a jejich rodinám s orientací v nepřehledném prostředí zdravotních a sociálních služeb a zajistí integraci například pobytových služeb, terénní sociální práce, volnočasových aktivit i sítě praktických lékařů. Po vzoru Švédska maximálně zjednodušíme systém z pohledu občana. 
-* Zřídíme Kontaktní místo pro bydlení. Občan se v něm dozví informace související s řešením problémů v oblasti bydlení na jednom místě a není nucen obcházet jednotlivé úřady a organizace. 
+* Zlepšíme čistotu a kvalitu náměstí a dalších frekventovaných veřejných míst. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti. Často stačí drobnosti, např. kousek od zastávky vyhradit místo pro kuřáky a umístit popelníkem a košem. 
+* Proti vedrům více stromů a vodních ploch. Vysadíme více stromů v pražských ulicích. Zasadíme se o kvalitní náhradní výsadbu za pokácené stromy. 
+* Dotačně podpoříme zelené střechy a vertikální zahrady, zatravnění a květnaté pásy. 
+* Podpoříme umísťování pítek a kašen; i potoky a vodní plochy jsou přirozenou součástí městského prostoru. 
+* Podpoříme hospodaření s vodou, opětovné využití odpadní vody a opatření pro využití nebo zasakování dešťové vody. 
+* Omezíme reklamní a světelný smog. 
+* Rozšíříme síť veřejných bezbariérových toalet. 
+* Podpoříme vznik dalších komunitních zahrad a kompostování. 
+* Budeme prosazovat nezastavitelnost velkých zelených ploch. 
+* Citlivě zrevitalizujeme veřejná prostranství nejen na velkých sídlištích, ale i v opomíjených lokalitách. 
+* Dohlédneme na pravidelný úklid, prosadíme více sběrných nádob na tříděný odpad a jejich častější vyvážení. 
+* Květnaté louky nebudou halasně oznamovaná výjimka, ale samozřejmost. 
+* Z předprostorů škol vytvoříme přívětivá zákoutí. 
+* Doplníme pikniková místa. 
+* Podpoříme zřízení oplocených psích hřišť, kde by nemuseli být psi na vodítku a mohli se proběhnout.
 
 ## Školství 
 
@@ -89,24 +107,6 @@ customizeHeader: true
 * Budeme prosazovat kroky ke snížení hlukové zátěže ( z Jižní spojky atd.) 
 * Zrekonstrujeme křižovatku u Přístaviště, zřídíme stálou zastávku linky č. 118 ve směru Lihovar, úrovňový přechod pro chodce a přejezd pro cyklisty 
 * Prosazujeme kroky bránící zkracování si cest autem skrze obytné čtvrti 
-
-## Životní prostředí 
-
-* Zlepšíme čistotu a kvalitu náměstí a dalších frekventovaných veřejných míst. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti. Často stačí drobnosti, např. kousek od zastávky vyhradit místo pro kuřáky a umístit popelníkem a košem. 
-* Proti vedrům více stromů a vodních ploch. Vysadíme více stromů v pražských ulicích. Zasadíme se o kvalitní náhradní výsadbu za pokácené stromy. 
-* Dotačně podpoříme zelené střechy a vertikální zahrady, zatravnění a květnaté pásy. 
-* Podpoříme umísťování pítek a kašen; i potoky a vodní plochy jsou přirozenou součástí městského prostoru. 
-* Podpoříme hospodaření s vodou, opětovné využití odpadní vody a opatření pro využití nebo zasakování dešťové vody. 
-* Omezíme reklamní a světelný smog. 
-* Rozšíříme síť veřejných bezbariérových toalet. 
-* Podpoříme vznik dalších komunitních zahrad a kompostování. 
-* Budeme prosazovat nezastavitelnost velkých zelených ploch. 
-* Citlivě zrevitalizujeme veřejná prostranství nejen na velkých sídlištích, ale i v opomíjených lokalitách. 
-* Dohlédneme na pravidelný úklid, prosadíme více sběrných nádob na tříděný odpad a jejich častější vyvážení. 
-* Květnaté louky nebudou halasně oznamovaná výjimka, ale samozřejmost. 
-* Z předprostorů škol vytvoříme přívětivá zákoutí. 
-* Doplníme pikniková místa. 
-* Podpoříme zřízení oplocených psích hřišť, kde by nemuseli být psi na vodítku a mohli se proběhnout.
 
 ## Podpora sportu a zdravého životního stylu
 
