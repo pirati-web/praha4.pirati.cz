@@ -8,7 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - can22
 img: 		        people/tomas-liskutin.jpg    # 165 x 220
-description:        Člen Pirátů # kratký popis, max 160 znaků
+description:        právník # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:
@@ -18,5 +18,5 @@ profiles:
 ordcan22: 8
 ---
 
-Tomáš Liškutín je kandidátem Pirátů v komunálních volbách v roce 2022 na Praze 4
+Tomáš Liškutín je kandidátem Pirátů v komunálních volbách v roce 2022 na Praze 4. Profesí je právník.
 

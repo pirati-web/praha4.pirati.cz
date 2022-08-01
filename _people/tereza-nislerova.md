@@ -8,7 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - can22
 img: 		        people/tereza-nislerova.jpg    # 165 x 220
-description:        Členka Pirátů # kratký popis, max 160 znaků
+description:        Ekonomka, členka Pirátů # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:

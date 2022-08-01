@@ -8,7 +8,7 @@ category:                       # kategorie: p6, cl
 - praha4
 - can22
 img: 		        people/helena-buchtova.jpg
-description:        Členka Pirátů # kratký popis, max 160 znaků
+description:        Vědecká pracovnice # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:
