@@ -28,10 +28,8 @@ carousel:
   text: |
     <p>Člen Pirátů na Praze 4.. # kratký popis, max 160 znaků.</p>
 ---
-Miloslav Bím aka Jim (* listopad 1993) vstoupil do Pirátské strany v roce 2014.
+Miroslav Bím, známý též jako Jim (narozen v listopadu 1993) je členem Pirátské strany a kandidátem Pirátů do zastupitelstva městské části Praha 4. Kandiduje na dvacétém místě.
 
-Pochází z pražského Podolí, kde žije i nyní. Vystudoval Smíchovskou střední průmyslovou školu - obor IT,
-kde se začal zajímat o pirátskou problematiku. V roce 2014 absolvoval pomaturitní studium anglického jazyka.
+Pochází z pražského Podolí, kde žije i nyní. Vystudoval Smíchovskou střední průmyslovou školu, obor informatika. Tam se začal zajímat o pirátskou problematiku. V roce 2014 absolvoval pomaturitní studium anglického jazyka.
 
-Angažuje se v aktivitách, které souvisí se svobodou kultury a informací, nebo problematikou lidských práv. Ve volném čase
-hraje na kytaru, píše prózu i poezii a čte. Mezi jeho zájmy patří hudba, psychologie, filozofie a různé záhady.
+Angažuje se v aktivitách, které souvisí se svobodou kultury a informací nebo problematikou lidských práv. Ve volném čase hraje na kytaru, píše prózu i poezii a čte. Mezi jeho zájmy patří hudba, pyschologie, filozofie a různé záhady. 

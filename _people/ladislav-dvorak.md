@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/ladislav-dvorak.jpg    # 165 x 220
-description:    Člen Pirátů na Praze 4.   
+description:    Člen Pirátů na Praze 4   
 mail: ladislav.dvorak@pirati.cz
 mob: 			
 profiles:
@@ -25,10 +25,10 @@ carousel:
   text: |
     <p>Příznivec na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Narodil jsem se v Praze na Jižním městě v lednu 1987.
+Ladislav Dvořák (* leden 1987, Praha) je člen Pirátů na Praze 4. Kandiduje na 9. místě do zastupitelstva městské části Praha 4.
 
-Vystudoval jsem SPŠ Stavební Josefa Gočára na Pankráci. Po škole jsem pracoval 7 let jako rozpočtář/projektant speciálního zakládání staveb, poté 3 roky jako stavební mistr v menší stavební firmě, která se zabývala převážně rekonstrukcemi bytů. V současnosti pracuji jako OSVČ.
+Vystudoval SPŠ Stavební Josefa Gočára na Pankráci. Po škole pracoval 7 let jako rozpočtář/projektant speciálního zakládání staveb, poté 3 roky jako stavební mistr v menší stavební firmě, která se zabývala převážně rekonstrukcemi bytů. V současnosti pracuje jako OSVČ.
 
-Bydlím na Praze 4, kde se také aktivně zapojuji do dění místního sdružení Pirátů, momentálně jako řadový člen.
+Bydlí na Praze 4, kde se také aktivně zapojuje do dění místního sdružení Pirátů, momentálně jako řadový člen.
 
-V říjnu 2010 jsem doplňoval kandidátku v komunálních volbách za Piráty na Praze 4 z 21. místa.
+V říjnu 2010 kandidoval v komunálních volbách za Piráty na Praze 4 na 21. místě.
