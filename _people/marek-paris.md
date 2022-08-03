@@ -27,7 +27,7 @@ carousel:
   text: |
     <p>Místopředseda Pirátů na Praze 4.</p>
 ---
-Marek Paris (*1991 Praha) je od ledna roku 2017 členem Pirátské strany. Věnuje se problematice zdravotnictví a komunální politice na Praze 4, kde také žije. V roce 2017 se jako dobrovolník a člen realizačního týmu podílel na kampani do Poslanecké sněmovny Parlamentu ČR.
+Marek Paris (*1991 Praha) je od ledna 2017 členem Pirátské strany. Věnuje se problematice zdravotnictví a komunální politice na Praze 4, kde také žije. V roce 2017 se jako dobrovolník a člen realizačního týmu podílel na kampani do Poslanecké sněmovny Parlamentu ČR.
 
 Je členem [Dozorční rady Všeobecné zdravotní pojišťovny][vzp] jako nominant poslaneckého klubu Pirátů a místopředsednou místního sdružení Pirátské stany na Praze 4.
 
