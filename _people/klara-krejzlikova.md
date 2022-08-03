@@ -1,6 +1,6 @@
 ---
-uid:                miroslava.konickova
-name:               Miroslava Koníčková 	# běžně používáné jméno
+uid:                klara.krejzlikova
+name:               Klára Krejzlíková 	# běžně používáné jméno
 titles:
   before:
   after:
@@ -19,7 +19,7 @@ profiles:
   twitter: 
   flickr: 
 
-ordcan22: 38
+ordcan22: 37
 ---
 
-Miroslava Koníčková kandiduje do zastupitelstva městské části Praha 4 na 38. místě. Profesí je novinářka.
+Krála Krejzlíková kandiduje do zastupitelstva městské části Praha 4 na 37. místě. Profesí je novinářka.
