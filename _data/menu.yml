@@ -17,6 +17,8 @@ main:
     name: Lidé
   - link: /program/
     name: Program    
+  - link: /2022/
+    name: Kandidáti   
   - link: /kontakt/
     name: Kontakt
 
