@@ -26,7 +26,7 @@ carousel:
     <p>Nezávislá kandidátka na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
 
-Marie Jelínková je kandidátka pro Piráty na Praze 4.
+Marie Jelínková je kandidátka Pirátů na Praze 4.
 
 Má ráda rozmanitost naší městské krajiny, vysokou urbanistickou kvalitu sídlišť s vysokým podílem hodnotné sídlištní zeleně a veřejného vybavení.
 
