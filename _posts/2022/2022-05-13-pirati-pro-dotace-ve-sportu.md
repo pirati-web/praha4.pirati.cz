@@ -5,7 +5,7 @@ title: Piráti podpořili a schválili dotace pro sport, kulturu a bezpečnost m
 date: 2022-05-13
 author: Piráti Praha 4
 authorId: 
-image: posts/hlasovani.jpg
+image: posts/Duhe-zastupP4.jpg
 tags: 
   - zastupitelstvo
 
