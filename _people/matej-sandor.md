@@ -29,7 +29,9 @@ carousel:
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Dlouholetý přesvědčený liberál, později příznivec Pirátské strany. Členem strany se stal během roku 2018 s cílem prosazování liberálních hodnot a ochrany demokracie obecně.  Matej pochází ze Zvolena, v letech 2002 až 2007 žil v Brně, od roku 2007 žije v Praze.
+Matej Šandor je člen Pirátů na Praze 4. Kandiduje na 14. místě do zastupitelstva MČ Praha 4.
+
+Dlouholetý přesvědčený liberál, později příznivec Pirátské strany. Členem strany se stal během roku 2018 s cílem prosazování liberálních hodnot a ochrany demokracie obecně. Matej pochází ze Zvolena, v letech 2002 až 2007 žil v Brně, od roku 2007 žije v Praze.
 
 Vystudoval <b>Právnickou fakultu</b> Masarykovy univerzity, Evropská studia na Fakultě sociálních studií Masarykovy univerzity a Mezinárodní hospodářské právo na Fakultě mezinárodních vztahů na VŠE v Praze.
 

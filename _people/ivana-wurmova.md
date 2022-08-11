@@ -28,6 +28,8 @@ carousel:
     <p>Zastupitelka Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
 
-Před rokem jsem se zaregistrovala jako příznivec Pirátské strany, na Praze 4 žiji od roku 1992.
-Vystudovala jsem Vysokou školu ekonomickou v Praze, Fakultu obchodní (dnešní Fakulta mezinárodních vztahů). Po vysoké škole jsem se postupně vypracovala na vedoucí pozici v oblasti rozpočtu a financování. Po mateřské dovolené jsem nastoupila zase jako účetní, pak interní auditorka na VŠ, v posledních několika letech jsem pracovala ve státní správě v oblasti poskytování dotací ze strukturálních fondů EU.  Nikdy jsem nebyla v žádné politické straně ani hnutí – ani jsem nikdy žádné nepodporovala.
-Ve svém volném čase se zajímám o kulturu. V oblasti výtvarného umění jsem zapojená do organizování výstav studentů vysokých škol českých i zahraničních. Ráda pomáhám ostatním. Proto jsem před třemi lety jsem dokončila rekvalifikační kurz – Instruktor zdravotní tělesné výchovy. V budoucnosti bych se chtěla věnovat cvičení se seniory, popř. dětmi.
+Ivana Wurmová je pirátská zastupitelka na Praze 4 a členka Pirátů. V komunálních volbách v roce 2022 obhajuje mandát.
+
+Na Praze 4 žije od roku 1992. Vystudovala Vysokou školu ekonomickou v Praze, Fakultu obchodní (dnes je to Fakulta mezinárodních vztahů). Po vysoké škole se postupně vypracovala na vedoucí pozici v oblasti rozpočtu a financování. Po mateřské dovolené nastoupila jako účetní, potom jako interní auditorka na vysoké škole a v posledních několika letech pracovala ve státní správě v oblasti poskytování dotací ze strukturálních fondů EU. Dříve nebyla v žádné politické straně ani hnutí a ani žádné jiné dříve nepodporovala.
+
+Ve svém volném čase se zajímá o kulturu. V oblasti výtvarného umění je zapojená do organizování výstav studentů vysokých škol z Česka i ze zahraničí. Ráda pomáhá ostatním a proto před třemi lety také dokončila rekvalifikační kurz s názvem Instruktor tělesné výchovy. V budoucnosti by se ráda věnovala cvičení se seniory, popř. dětmi.

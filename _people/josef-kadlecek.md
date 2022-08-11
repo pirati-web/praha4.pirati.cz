@@ -27,8 +27,11 @@ carousel:
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Vystudoval SPŠE v Praze. S počtem čtyř potomků (se dvěma manželkami) je posilou majoritní populace ČR. Členem Pirátů od června
-2010, první členství v jakékoli politické straně. Nebyl členem pionýra, SSM ani KSČ.
+
+Josef Kadleček je člen Pirátů na Praze 4. Kandiduje na 15. místě do zastupitelstva městské části Praha 4. 
+
+Vystudoval SPŠE v Praze. S počtem čtyř potomků (se dvěma manželkami) je posilou majoritní populace ČR. Členem Pirátů je od června
+2010, jedná se o jeho první členství v jakékoli politické straně. Nebyl členem pionýra, SSM ani KSČ.
 
 Od r. 1991 je OSVČ, živí jej elektroinstalace, je dobrý elektrikář, výhradně v soukromém sektoru; tedy bilance plusová nula.
 

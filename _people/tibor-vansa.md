@@ -32,9 +32,11 @@ ordcan22: 5
 carousel:
   img: tibor-vansa.jpg
   text: |
-    <p>Místostarosta Prahy 4. # kratký popis, max 160 znaků.</p>
+    <p>Bývalý místostarosta Prahy 4. # kratký popis, max 160 znaků.</p>
 ---
-V Praze 4 žiji od dob svých studií na Matematicko-fyzikální fakultě UK, kde jsem absolvoval obor ekonometrie. Od té doby pracuji 11 let v bance jako analytik rizikovosti klientů, zároveň jsem u Pirátů odborným garantem pro bankovní sektor. Svůj aktivní občanský život jsem započal v Hnutí Brontosaurus, dobrovolnické organizaci na ochranu přírody a památek. K aktivní politice jsem se dostal jako ambasador Rekonstrukce státu. To mne přivedlo k poznání, že i malá skupina aktivních občanů toho může poměrně hodně ovlivnit. V současnosti jsem zastupitelem na Praze 4. S manželkou a dcerou bydlíme na pražském Pankráci. Nevlastním auto a do práce jezdím MHD nebo na koloběžce.
+Tibor Vansa je bývalý místostarosta Prahy 4 (do roku 2019) a zastupitel na městské části Praha 4. Obhajuje svůj mandát na pátém místě kandidátní listiny Pirátů.
+
+V Praze 4 žije od dob svých studií na Matematicko-fyzikální fakultě UK, kde absolvoval obor ekonometrie. Od té doby pracuje 11 let v bance jako analytik rizikovosti klientů, zároveň je u Pirátů odborným garantem pro bankovní sektor. Svůj aktivní občanský život započal v Hnutí Brontosaurus, dobrovolnické organizaci na ochranu přírody a památek. K aktivní politice se dostal jako ambasador Rekonstrukce státu. To jej přivedlo k poznání, že i malá skupina aktivních občanů toho může poměrně hodně ovlivnit. V současnosti je zastupitelem na Praze 4. S manželkou a dcerou bydlí na pražském Pankráci. Nevlastní auto a do práce jezdí MHD nebo na koloběžce.
 
 [brontosaurus]: http://brontosaurus.cz
 [rozruch]: http://rozruch.brontosaurus.cz/
