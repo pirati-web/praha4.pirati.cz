@@ -25,20 +25,15 @@ carousel:
   text: |
     <p>Příznivec Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
-Vystudoval jsem Vysokou školu ekonomickou, obor zahraniční obchod.
+Karel Malý je příznivec Pirátů na Praze 4, kandiduje na 19. místě do zastupitelstva městské části Praha 4. 
 
-Po absolvování voj. zákl. služby jsem prošel řadou pracovních funkcí a oborů – zahraniční obchod, mezinárodní doprava, reality,
-průvodcování v ČR i za hranicemi. Mám zkušenosti s prací s mládeží, ale i v sociálních službách, v turismu a sportovních
-odvětvích. Pracoval jsem v tuzemsku i v zahraničí, ať už jako zaměstnanec nebo OSVČ.
+Karel vystudoval Vysokou školu ekonomickou, obor zahraniční obchod. Po absolvování vojenské základní služby prošel řadou pracovních funkcí a oborů – zahraniční obchod, mezinárodní doprava, reality,
+průvodcování v ČR i za hranicemi. Má zkušenosti s prací s mládeží, ale i v sociálních službách, v turismu a sportovních odvětvích. Pracoval jsem v tuzemsku i v zahraničí, ať už jako zaměstnanec nebo OSVČ. Domluví se čtyřmi jazyky.
 
-Domluvím se 4 jazyky.
+Byl členem Strany zelených přes deset let. Podílel se takřka na všech volebních kampaních do zastupitelských sborů různých úrovní, angažoval se v kauze Pošťák není pojišťovák, v happeningu pro záchranu zahrady v Nuslích, podílel se na úklidu veřejných prostranství v Praze 4 atd.
 
-Byl jsem členem Strany zelených přes deset let. Podílel jsem se takřka na všech volebních kampaních do zastupitelských
-sborů různých úrovní, angažoval jsem se v kauze Pošťák není pojišťovák, v happeningu pro záchranu zahrady v Nuslích, podílel
-jsem se na úklidu veřejných prostranství v Praze 4 atd.
+Účastní se občas dle časových možností jako host jednání zastupitelstva MČ a hlavního města Prahy.
 
-Účastním se občas dle časových možností jako host jednání zastupitelstva MČ a HMP.
+Není časově zatížen politickými ani veřejnými funkcemi, či jinými prebendami.
 
-Nejsem časově zatížen politickými ani veřejnými funkcemi, či jinými prebendami.
-
-Rád bych se věnoval tématům trvale udržitelného rozvoje, bezpečnostním otázkám, boji proti korupci, ale i sociální problematice.
+Rád by se věnoval tématům trvale udržitelného rozvoje, bezpečnostním otázkám, boji proti korupci, ale i sociální problematice.

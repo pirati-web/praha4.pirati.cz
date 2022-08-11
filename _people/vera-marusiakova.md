@@ -27,6 +27,8 @@ carousel:
   text: |
     <p>Členka Pirátů v Praze 4. # kratký popis, max 160 znaků.</p>
 ---
+Věra Marušiaková je členka Pirátů na Praze 4, kandiduje na 13. místě do zastupitelstva městské části na pirátské listině.
+
 K Pirátům se připojila jako příznivkyně a zaměstnankyně v březnu 2016, kdy začala psát pro Mediální odbor. Od té doby se také zapojovala do příprav Pirátských Listů jako editorka a korektorka, příležitostně vedla pirátské workshopy o PR a psaní a pomáhala v komunikaci koordinátorům v regionech. Vždy se systematicky se snažil odstraňovat komunikační bariéry a usnadňovat spolupráci mezi členy i příznivci Pirátů. V roce 2017 kandidovala jako nezávislá na kandidátce Pirátů na 14. místě. Aktivně se zapojila do kampaně. Členkou Pirátů je od ledna 2018. V Praze nyní kandiduje do PSP za koalici Piráti a Starostové s číslem 13.
 
 Vystudovala sociální práci na Filozofické fakultě Univerzity Karlovy. Celý život se profesionálně zabývá komunikací a příbuznými obory. Pracovala v přední mezinárodní PR agentuře, působila v největší české firmě jako specialistka interní komunikace. Má zkušenosti s publikační, editorskou i redakční prací v online i v tištěných médiích. Pracovala pro cestovní kancelář jako online copywriter a inbound specialistka, zabývala se content marketingem a plnila roli administrátorky několika facebookových profilů.

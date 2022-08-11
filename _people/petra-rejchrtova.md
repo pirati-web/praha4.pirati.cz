@@ -28,6 +28,7 @@ carousel:
   text: |
     <p>Nezávislá kandidátka na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
+Petra Rejchrtová je nezávislá kandidátka na Praze 4. Kandiduje na třetím místě do zastupitelstva městské části Praha 4.
 
 Praha 4 je mimořádná množstvím zeleně. Jsou tu známé i méně známé zelené lokality, z nichž se některé snažím ochránit před zastavěním, a to i soudní cestou. Čtyřka musí být sebevědomou, nikoliv arogantní městskou částí, která stojí za zájmy svých občanů a hájí čisté životní prostředí.
 
