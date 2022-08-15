@@ -28,12 +28,14 @@ carousel:
   img: viktor-derka.jpg
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
----
-Jsem vystudovaným právníkem, aktuálně doktorandem kombinovaně na Právnické fakultě Univerzity Karlovy a Rechts- und Wirtschaftswissenschaftliche Fakultät der Universität Bayreuth. Zde se zaměřuji na veřejné právo - konkrétně na ústavní a správní právo ve vztahu ke správě soudnictví.
+---do zastupitelstva městské část
+Viktor Derka je zastupitel Pirátů na Praze 4, profesí vystudovaný právník. Obhajuje svůj mandát zastupitele 17. místě kandidátky.
 
-V Pirátech se angažuji od začátku roku 2018, s těžištěm činnosti na Praze 4, kde jsem byl v říjnu téhož roku zvolen zastupitelem. Mimoto občas vypomáhám právnímu týmu v rámci vnitrostranického právního poradenství.
+Aktuálně studuje doktorandské studium na Právnické fakultě Univerzity Karlovy a Rechts- und Wirtschaftswissenschaftliche Fakultät der Universität Bayreuth. Zde se zaměřuje na veřejné právo, přesněji na ústavní a správní právo a jeho vztah ke správě soudnictví.
 
-Z jazyků znám používám aktivně angličtinu i němčinu, pasivně též polštinu. Mimo studia rád jezdím na kole, lyžuji, či hraji stolní hry a hry na hrdiny.
+V Pirátské straně se angažuje od začátku roku 2018. Svoji činnost soustředí především na městskou část Praha 4. Zde byl v podzimních volbách v roce 2018 zvolen do zastupitelstva. Kromě toho vypomáhá právnímu týmu Pirátů v rámci vnitrostranického právního poradenství. 
+
+Mluví anglicky a německy, pasivně také polsky. Mimo studia rád jezdí na kole, lyžuje či hraje stolní hry a hry na hrdiny.
 
 
 
