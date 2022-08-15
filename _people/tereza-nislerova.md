@@ -18,10 +18,15 @@ profiles:
 ordcan22: 7
 ---
 
-Narodila jsem se 9.1.1984 v Berouně. Absolvovala jsem víceleté gymnázium a poté VŠE v Praze (obor diplomacie na Fakultě mezinárodních vztahů). Při studiu jsem pracovala jako au-pair ve Velké Británii - celkem rok a půl (byla jsem též ošetřovatelkou dostihových koní, jezdkyní v tréninku, obsluhou v restauraci a myčkou nádobí). Zároveň s VŠE jsem absolvovala program mezinárodního managementu CEMS-MIM s půlročním pobytem na HEC Paris a závěrečnou prací na téma Transfer pricing pro Škoda Auto. Ihned poté jsem ještě zkompletovala svá studia ročním magisterským studiem na College of Europe v Brugách, obor evropská politika. Na toto studium jsem získala stipendium pokrývající 85% nákladů od školy samotné (na mou žádost).
-V r. 2009 jsem nastoupila na stáž do Evropské komise, GŘ pro hospodářskou soutěž, oddělení fúzí v dopravě. Poté jsem získala 5ti letou smlouvu na pozici case-handlera v oblasti veřejné podpory.
-Ve třiceti letech jsem si uvědomila, že se chci vrátit zpět do Česka (prožít většinu svého života zde), být blíže své rodině a mimo jiné se aktivně zapojit do politického dění v mé zemi. Od svého návratu pracuji v nadnárodní firmě v oblasti energetiky, kde se zabývám získáváním dotací na inovativní/ekologické projekty.
-První politické zkušenosti jsem získala s Prahou sobě v r. 2018 - sbírala jsem podpisy pro jejich kandidaturu na pražský magistrát a působím za ně v Dozorčí radě společnosti Kolektory Praha a v magistrátním výboru pro evropské záležitosti.
-Chci být nadále aktivní nyní zejména v místě, kde žiji a zároveň se zapojit do vnitrostranického dění a proto jsem zvolila stranu mně hodnotově nejbližší ve které zároveň působí osobnosti, které mě svým dosavadním veřejným jednáním neodradily (narozdíl od jiných stran). Na jaře 2021 jsem se tedy začala zapojovat do dění místního sdružení. Kandiduji v komunálních volbách a mám na starosti oblast kultury.
-Přeji si, aby v české politice působili čestní lidé, kteří mají zájem rozvíjet naši zemi a dbát na ochranu naší demokracie. Zároveň si přeji, abychom v Evropské unii vystupovali sebevědomě, protože nejsme malou zemí a máme světu co nabídnout.
+Tereza Nislerová je členka Pirátské strany. Kandiduje na sedmém místě do zastupitelstva městské části Praha 4.
+
+Tereza se narodila 9. 1. 1984 v Berouně. Absolvovala víceleté gymnázium a potom diplomacii na Fakultě mezinárodních vztahů Vysoké školy ekonomické. Při studiu pracovala rok a půl jako au-pair ve Velké Británii (byla též ošetřovatelkou dostihových koní, jezdkyní v tréninku, obsluhou v restauraci). Absolvovala rovněž i program mezinárodního managementu CEMS-MIM s půlročním pobytem na HEC Paris. Její závěrečná práce nesla název Transfer pricing pro Škoda Auto. Na College of Europe v Bruggách zakončila svá studia ročním magisterským studiem evropské politiky. Na toto studium získal 85% stipendium od samotné školy. 
+
+V roce 2009 nastoupila na stáž do Evropské komise, ke generálnímu ředitelství pro hospodářskou soutěž, k oddělení fúzí v dopravě. Poté získala pozici case-handlera s pětiletou smlouvou v oblasti veřejné podpory. Poté se rozhodla vrátit zpět do České republiky a aktivně se zde zapojit do politického dění. Od té doby pracuje v nadnárodní společnosti v oblasti energetiky, zabývá se získáváním dotací na inovativní a ekologické projekty. 
+
+První politické zkušenosti získala s Prahou Sobě v roce 2018, kde sbírala podpisy pro jejich kandidaturu na Magistrát. Za Prahu Sobě působí také v dozorčí radě společnosti Kolektory Praha, a.s. Je rovněž ve výboru ZHMP pro evropské záležitosti. 
+
+Chce být nadále aktivní nyní zejména v místě, kde žiji a zároveň se zapojit do vnitrostranického dění. Proto zvolila stranu hodnotově nejbližší ve které zároveň působí osobnosti, které ji svým dosavadním veřejným jednáním neodradily (na rozdíl od jiných stran). Na jaře 2021 se tedy začala zapojovat do dění místního sdružení Pirátů na Praze 4. Jako kandidát do komunálních voleb má na starost oblast kultury. 
+
+Přeje si, aby v české politice působili čestní lidé, kteří mají zájem rozvíjet naši zemi a dbát na ochranu naší demokracie. Zároveň si přeje, abychom v Evropské unii vystupovali sebevědomě, protože nejsme malou zemí a máme světu co nabídnout.
 
