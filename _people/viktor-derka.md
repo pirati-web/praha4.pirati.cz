@@ -28,7 +28,7 @@ carousel:
   img: viktor-derka.jpg
   text: |
     <p>Člen Pirátů na Praze 4. # kratký popis, max 160 znaků.</p>
----do zastupitelstva městské část
+---
 Viktor Derka je zastupitel Pirátů na Praze 4, profesí vystudovaný právník. Obhajuje svůj mandát zastupitele 17. místě kandidátky.
 
 Aktuálně studuje doktorandské studium na Právnické fakultě Univerzity Karlovy a Rechts- und Wirtschaftswissenschaftliche Fakultät der Universität Bayreuth. Zde se zaměřuje na veřejné právo, přesněji na ústavní a správní právo a jeho vztah ke správě soudnictví.
