@@ -10,8 +10,9 @@ category:                       # kategorie: p6, cl
 - podporovatel
 - carousel
 - can22
+- zastupitele
 img: 		        people/vladimir-hrouda.jpg    # 165 x 220
-description:        Manažer servisů # kratký popis, max 160 znaků
+description:        Zastupitel za Piráty na Praze 4 # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:
@@ -28,7 +29,7 @@ carousel:
     <p>Nezávislý kandidát na Praze 4. # kratký popis, max 160 znaků.</p>   
 ---
 
-Vladimír Hrouda je nezávislý kandidát, který se na 11. místě uchází o post zastupitele na kandidátní listině Pirátů.
+Vladimír Hrouda je zastupitel za Piráty v ZMČ Praha 4. Jako náhradník o pozici usiluje na 11. místě pirátské kandidátky v nadcházejících volbách.
 
 Profesí je pracovník soukromého servisu, kde se patnáct let věnuje problematice řízení a procesů. Denně řeší problémy a požadavky zákazníků, kterým se snaží vždy vyhovět a nebo nalézt pro ně vhodné řešení. Celý svůj život bydlí v Praze 4, resp. v Krči. 
 

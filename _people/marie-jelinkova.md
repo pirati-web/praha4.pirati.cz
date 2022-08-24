@@ -8,9 +8,8 @@ category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
 - carousel
-- zastupitele
 img: 		        people/marie-jelinkova.jpg    # 165 x 220
-description:        Zastupitelka. Nezávislá. 
+description:        Bývalá zastupitelka
 mail: marie.jelinkova@praha4.cz
 mob: 			
 profiles:
@@ -26,7 +25,7 @@ carousel:
     <p>Nezávislá kandidátka na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
 
-Marie Jelínková je kandidátka Pirátů na Praze 4.
+Marie Jelínková je bývalá nezávislá zastupitelka za Piráty na Praze 4.
 
 Má ráda rozmanitost naší městské krajiny, vysokou urbanistickou kvalitu sídlišť s vysokým podílem hodnotné sídlištní zeleně a veřejného vybavení.
 
