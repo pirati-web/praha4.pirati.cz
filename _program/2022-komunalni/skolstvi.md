@@ -3,7 +3,7 @@ title: Rozmanitější školství a větší bezpečnost dětí
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
-order: 8
+order: 6
 garant: adam.jaros
 img: program/skolstvi.jpg
 intro: >
