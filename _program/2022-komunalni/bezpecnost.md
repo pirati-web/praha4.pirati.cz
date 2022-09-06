@@ -4,8 +4,8 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bezpecnost
 order: 9
-garant: adam.jaros
-img: program/skolstvi.jpg
+garant: josef.vlach
+img: program/bezpecnost.jpg
 intro: >
  
 ---

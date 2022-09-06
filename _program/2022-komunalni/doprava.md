@@ -4,8 +4,8 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: doprava
 order: 7
-garant: matej.sandor
-img: program/skolstvi.jpg
+garant: tibor.vansa
+img: program/doprava.jpg
 intro: >
   
 

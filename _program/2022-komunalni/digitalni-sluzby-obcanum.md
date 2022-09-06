@@ -4,9 +4,9 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: digitalizace
 order: 4
-garant: petra.rejchrtova
+garant: jan.hora
 redmine: 2022
-img: program/skolstvi.jpg
+img: program/digitalizace.jpg
 intro: >
   
 
@@ -21,6 +21,8 @@ intro: >
 * Nástroje participativního rozhodování a sběru zpětné vazby se stanou nedílnou součástí fungování úřadu – participační rozhodování nemá být alibismus, ale skutečný podklad pro rozhodování úřadu i volených zástupců, který umožňuje vybírat lepší řešení na základě dlouhodobé znalosti lokality, ve které místní občany nikdo netrumfne. Zpětná vazba k službám, které úřad poskytuje občanům přestane být pouhou byrokratickou povinností a stane se základem pro postupné zlepšování procesů úřadu a zvyšování kvality služeb 
 
 ## Podnikání 
+
+(garant: Vladislav Černín)
 
 * Vytvoříme přívětivé prostředí na odboru živvností ÚMČ pro vyřizování veškeré podnikatelské agendy, ideálně z domova 
 * Podpoříme město krátkých vzdáleností, tedy vznik lokálních center s dostupnou vybavenost v docházkové vzdálenosti, s drobnými krámky specializovaných prodejců. Tato centra podporují lokální komunitu, snižují dopravu a vytváří zajímavé akcenty města 

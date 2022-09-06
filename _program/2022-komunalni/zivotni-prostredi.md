@@ -4,8 +4,8 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zivotni-prostredi
 order: 5
-garant: matej.sandor
-img: program/skolstvi.jpg
+garant: petra.rejchrtova
+img: program/zivotni-prostredi.jpg
 intro: >
   
 

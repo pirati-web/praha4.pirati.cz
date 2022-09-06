@@ -4,8 +4,8 @@ campaignCategoryUid: 22-komunalni
 campaignGroupUid: volby-22
 uid: uzemni-rozvoj
 order: 3
-garant: josef.vlach
-img: program/skolstvi.jpg
+garant: petra.rejchrtova
+img: program/plan.jpg
 intro: >
   
 

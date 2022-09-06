@@ -5,7 +5,7 @@ campaignGroupUid: volby-2022
 uid: bydleni
 order: 2
 garant: vladka.sykorova
-img: program/skolstvi.jpg
+img: program/bydleni.jpg
 intro: >
   
 

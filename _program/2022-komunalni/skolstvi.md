@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
 order: 6
-garant: adam.jaros
+garant: veronika.nurnbergerova
 img: program/skolstvi.jpg
 intro: >
  

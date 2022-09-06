@@ -4,8 +4,8 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zdravotnictvi
 order: 11
-garant: matej.sandor
-img: program/skolstvi.jpg
+garant: ivana.wurmova
+img: program/zdravotnictvi.jpg
 intro: >
   
 ---

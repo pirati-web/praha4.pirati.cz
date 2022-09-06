@@ -4,8 +4,8 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: sport
 order: 8
-garant: matej.sandor
-img: program/skolstvi.jpg
+garant: josef.vlach
+img: program/sport.jpg
 intro: >
   
 
