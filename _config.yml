@@ -6,7 +6,7 @@ github:
   branch: master
 url: "https://praha4.pirati.cz"
 
-#mediaStorage: praha4
+mediaStorage: praha4
 
 title: "Piráti Praha 4"
 description: "Česká pirátská strana - místní sdružení Praha 4"
