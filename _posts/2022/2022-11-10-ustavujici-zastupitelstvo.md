@@ -1,17 +1,16 @@
 ---
 layout: post
 category: CLANKY
-title: Pirátský zastupitel Josef Vlach zvolen předsedou kontrolního výboru Prahy 4
+title: "Pirátský zastupitel Josef Vlach zvolen předsedou kontrolního výboru Prahy 4"
 date: 2022-11-10
 author: Jan Hora
 authorId: Jan.Hora
-image: posts/josef_vlach.jpg
+image: posts/zastupitelstvo6.jpg
 tags: 
   - pirati
   - zastupitelsvo
   - komunal
   - josef vlach
-
 ---
 
 *11. listopadu 2022* – **Zastupitelé MČ Praha 4 ve středu na svém ustavujícím zasedání zvolili radu složenou ze zástupců SPOLU a ANO. Starostou se stal Ondřej Kubín (ODS), SPOLU má taktéž většinu v radě. Koalice má těsnou většinu 23 hlasů z 45. Předsedou Kontrolního výboru byl zvolen Josef Vlach (Piráti).**
