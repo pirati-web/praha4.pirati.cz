@@ -6,6 +6,7 @@ titles:
   after: MA, MiM
 category:                       # kategorie: p6, cl
 - praha4
+- predseda
 - clen
 - zastupitele
 - pms
