@@ -7,7 +7,6 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
-- carousel
 img: 		        people/marie-jelinkova.jpg    # 165 x 220
 description:        Bývalá zastupitelka
 mail: marie.jelinkova@praha4.cz

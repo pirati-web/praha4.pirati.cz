@@ -5,17 +5,15 @@ titles:
   before: Mgr.
   after:
 category:                       # kategorie: p6, cl
-- predseda
 - praha4
 - carousel
 - kontaktni_osoba
 - zastupitele
 - clen
-- pms
 - can22
 contactType: Předseda
 img: 		        people/tibor-vansa.jpg    # 165 x 220
-description:     Zastupitel a předseda místního sdružení.
+description:     Zastupitel a člen místního sdružení.
 mail:
 - tibor.vansa@pirati.cz
 mob: +420 776 555 622				
@@ -23,7 +21,6 @@ profiles:
   facebook: https://www.facebook.com/tibor.vansa
   twitter: 
   flickr:
-ordpms: 1
 ordradni: 1
 ordpraha: 1
 ordcar: 3

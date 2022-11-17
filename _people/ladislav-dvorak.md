@@ -7,6 +7,7 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - clen
+- pms
 - carousel
 img: 		        people/ladislav-dvorak.jpg    # 165 x 220
 description:    Člen Pirátů na Praze 4   
@@ -17,6 +18,7 @@ profiles:
   twitter: Brodek87
   flickr: 
 ordpraha: 19
+ordpms: 3
 ordcar: 3
 ordcan: 19
 ordcan22: 9

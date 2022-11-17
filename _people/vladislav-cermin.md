@@ -6,8 +6,11 @@ titles:
   after:
 category:                       # kategorie: p6, cl
 - praha4
+- clen
+- pms
 - can22
-description:  ekonom    # kratký popis, max 160 znaků
+description:  4. místopředseda MS    # kratký popis, max 160 znaků
+img: 		        people/vladislav-cermin.jpg    # 165 x 220
 mail:
 - 
 mob:			
@@ -16,6 +19,7 @@ profiles:
   twitter: 
   flickr: 
 ordcan22: 12
+ordpms: 5
 ---
 
 Pocházím z podnikatelské a pravicové rodiny, můj dědeček od dvacátých let 2O. století vlastnil "stavební firmu a architektní kancelář" v Hluboké nad Vltavou až do roku 1947, kdy byl zestátněn. Otec byl též stavitel a do r. 1969 pracoval na městském národním výboru v Českých Budějovicích, kdy v normalizaci byl za své postoje vůči "okupaci našeho státu" a členství v KAN vyhozen a perzekuován stávajícím režimem. Od r. 1978 jsem začal působit v disentu v křesťanské sekci, od. roku 1984 do roku 1988 vyšetřován StB (2. správou SNB - vojenskou kontrarozvědkou), v roce 1989 můj spis byl předán na Odbor vyšetřování StB/FMV ČSSR k vypracování žaloby na mojí osobu od soudního projednání mě zachránila "Sametová revoluce" Od 20. 11. 1989 zapojen do činnosti OF v Českých Budějovicích a od 10. 12. 1989 zakládající člen KDS v Jižních Čechách, od 03/1990 ekonomický poradce místopředsedy FS Dr. Václava Bendy, organizačně politický tajemník pro Jižní Čechy. V září 1990 zakládám "ekonomicko - organizační konzultační kancelář" zaměřenou na ekonomické, daňové, účetní, personálně právní poradenství pro malé a střední podnikatele, firmy a společnosti. V této činnosti jsem byl zakládající člen "Sdružení účetních a daňových poradců", zakládající člen "Sdružení podnikatelů a živnostníků ČR", zastupoval jsem malé a střední podnikatele a živnostníky v "Podvýboru pro podnikatelské prostředí při Hospodářském výboru PSP ČR", spolupracoval jsem s NERV - komisi pro sociální politiku. Kancelář jsem provozoval do září 2010.

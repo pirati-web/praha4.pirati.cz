@@ -8,10 +8,9 @@ category:                       # kategorie: p6, cl
 - praha4
 - clen
 - carousel
-- zastupitele
 - can22
 img: 		        people/viktor-derka.jpg    # 165 x 220
-description:         Zastupitel a člen Pirátů	
+description:         Člen místního sdružení	
 mail:
 - viktor.derka@pirati.cz
 mob: 			
@@ -19,7 +18,6 @@ profiles:
   facebook:
   twitter: 
   flickr: 
-ordpms: 1
 ordpraha: 10
 ordcar: 3
 ordcan: 10

@@ -7,6 +7,7 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - can22
+img: 	#	        people/miloslav-bim.jpg    # 165 x 220
 description:    Registrovaný příznivec Pirátů # kratký popis, max 160 znaků
 mail:
 - 

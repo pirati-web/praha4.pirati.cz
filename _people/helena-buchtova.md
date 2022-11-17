@@ -6,6 +6,7 @@ titles:
   after: 
 category:                       # kategorie: p6, cl
 - praha4
+- clen
 - can22
 img: 		        people/helena-buchtova.jpg
 description:        Vědecká pracovnice # kratký popis, max 160 znaků

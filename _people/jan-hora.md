@@ -10,11 +10,12 @@ category:                       # kategorie: p6, cl
 - carousel
 - kontaktni_osoba
 - clen
+- pms
 - zastupitele
 - can22
 contactType: Dobrovolníci
 img: 		        people/jan-hora.jpg    # 165 x 220
-description: Zastupitel a krajský místopředseda
+description: Zastupitel a 3. místopředseda MS
 mail:
 - jan.hora@pirati.cz
 mob:	+420 775 608 734		
@@ -26,14 +27,15 @@ ordradni: 2
 ordpraha: 2
 ordcar: 3
 ordcan: 2
+ordpms: 4
 ordcan22: 1
 carousel:
   img: jan-hora.jpg
   text: |
-    <p>Zastupitel MČ Praha 4 a Hlavního města Prahy. Místopředseda pražských pirátů. # kratký popis, max 160 znaků.</p>
+    <p>Zastupitel MČ Praha 4 a Hlavního města Prahy. 3. místopředseda místního sdružení. # kratký popis, max 160 znaků.</p>
 calendar: 5b1cita1on04ra7qa36nmttj8o@group.calendar.google.com
 ---
-Jsem zastupitelem MČ Praha 4, zastupitele Hlavního města Prahy. Taktéž jsem zakládajícím členem MS Praha 4. Taktéž jsem místopředseda KS Praha.
+Jsem zastupitelem MČ Praha 4, zastupitele Hlavního města Prahy. Taktéž jsem zakládajícím členem MS Praha 4.
 
 Profesí jsem analytik/vývojář se zaměřením na databázové technologie (data warehouse)
 
