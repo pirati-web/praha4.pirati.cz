@@ -10,6 +10,7 @@ category:                       # kategorie: p6, cl
 - carousel
 - kontaktni_osoba
 - clen
+- pms
 - zastupitele
 - can22
 contactType: Dobrovolníci
@@ -26,6 +27,7 @@ ordradni: 2
 ordpraha: 2
 ordcar: 3
 ordcan: 2
+ordpms: 4
 ordcan22: 1
 carousel:
   img: jan-hora.jpg
