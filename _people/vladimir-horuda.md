@@ -8,11 +8,9 @@ titles:
 category:                       # kategorie: p6, cl
 - praha4
 - podporovatel
-- carousel
 - can22
-- zastupitele
 img: 		        people/vladimir-hrouda.jpg    # 165 x 220
-description:        Zastupitel za Piráty na Praze 4 # kratký popis, max 160 znaků
+description:        Podporovatel Pirátů na Praze 4 # kratký popis, max 160 znaků
 mail:
 mob: 			
 profiles:
