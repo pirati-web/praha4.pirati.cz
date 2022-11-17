@@ -6,9 +6,12 @@ titles:
   after: MA, MiM
 category:                       # kategorie: p6, cl
 - praha4
+- clen
+- zastupitele
+- pms
 - can22
 img: 		        people/tereza-nislerova.jpg    # 165 x 220
-description:        Ekonomka, členka Pirátů # kratký popis, max 160 znaků
+description:        Zastupitelka a předsedkyně MS # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:
@@ -16,6 +19,7 @@ profiles:
   twitter: 
   flickr: 
 ordcan22: 7
+ordpms: 1
 ---
 
 Tereza Nislerová je členka Pirátské strany. Kandiduje na sedmém místě do zastupitelstva městské části Praha 4.
@@ -29,4 +33,6 @@ První politické zkušenosti získala s Prahou Sobě v roce 2018, kde sbírala 
 Chce být nadále aktivní nyní zejména v místě, kde žiji a zároveň se zapojit do vnitrostranického dění. Proto zvolila stranu hodnotově nejbližší ve které zároveň působí osobnosti, které ji svým dosavadním veřejným jednáním neodradily (na rozdíl od jiných stran). Na jaře 2021 se tedy začala zapojovat do dění místního sdružení Pirátů na Praze 4. Jako kandidát do komunálních voleb má na starost oblast kultury. 
 
 Přeje si, aby v české politice působili čestní lidé, kteří mají zájem rozvíjet naši zemi a dbát na ochranu naší demokracie. Zároveň si přeje, abychom v Evropské unii vystupovali sebevědomě, protože nejsme malou zemí a máme světu co nabídnout.
+
+Tereza se stala v listopadu 2022 předsedkyní místního sdružení.
 
