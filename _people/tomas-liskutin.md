@@ -6,9 +6,11 @@ titles:
   after:
 category:                       # kategorie: p6, cl
 - praha4
+- clen
+- zastupitel
 - can22
 img: 		        people/tomas-liskutin.jpg    # 165 x 220
-description:        právník # kratký popis, max 160 znaků
+description:        Zastupitel a člen místního sdružení # kratký popis, max 160 znaků
 mail: 
 mob: 			
 profiles:
