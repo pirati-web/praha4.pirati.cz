@@ -6,8 +6,6 @@ titles:
   after:
 category:                       # kategorie: p6, cl
 - praha4
-- clen
-- carousel
 - can22
 img: 	#	        people/miloslav-bim.jpg    # 165 x 220
 description:   lektorka # kratký popis, max 160 znaků
