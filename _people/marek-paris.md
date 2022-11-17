@@ -8,7 +8,6 @@ category:                       # kategorie: p6, cl
 - praha4
 - mp
 - carousel
-- zastupitele
 - clen
 img: 		            people/marek-paris.jpg    # 165 x 220
 description:        Zastupitel.	
@@ -25,7 +24,7 @@ ordcan: 4
 carousel:
   img: marek-paris.jpg
   text: |
-    <p>Místopředseda Pirátů na Praze 4.</p>
+    <p>Člen Pirátů na Praze 4.</p>
 ---
 Marek Paris (*1991 Praha) je od ledna 2017 členem Pirátské strany. Věnuje se problematice zdravotnictví a komunální politice na Praze 4, kde také žije. V roce 2017 se jako dobrovolník a člen realizačního týmu podílel na kampani do Poslanecké sněmovny Parlamentu ČR.
 
