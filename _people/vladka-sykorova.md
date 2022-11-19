@@ -22,6 +22,7 @@ ordpraha: 8
 ordcar: 3
 ordcan: 8
 ordcan22: 6
+ordzast: 6
 carousel:
   img: vladka-sykorova.jpg
   text: |
