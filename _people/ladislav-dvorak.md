@@ -10,7 +10,7 @@ category:                       # kategorie: p6, cl
 - pms
 - carousel
 img: 		        people/ladislav-dvorak.jpg    # 165 x 220
-description:    Člen Pirátů na Praze 4   
+description:    2. místopředseda MS   
 mail: ladislav.dvorak@pirati.cz
 mob: 			
 profiles:
@@ -23,7 +23,7 @@ ordcar: 3
 ordcan: 19
 ordcan22: 9
 carousel:
-  img: ladislav-dvorak.jpg
+  img: ladislav-dvorak.JPG
   text: |
     <p>Příznivec na Praze 4. # kratký popis, max 160 znaků.</p>
 ---
