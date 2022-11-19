@@ -25,6 +25,7 @@ ordpraha: 4
 ordcar: 3
 ordcan: 5
 ordcan22: 2
+ordzast: 3
 carousel:
   img: josef-vlach.jpg
   text: |
