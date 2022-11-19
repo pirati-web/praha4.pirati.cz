@@ -12,6 +12,7 @@ category:                       # kategorie: p6, cl
 img: 		        people/tomas-liskutin.jpg    # 165 x 220
 description:        Zastupitel a člen místního sdružení # kratký popis, max 160 znaků
 mail: 
+- tomas.liskutin@pirati.cz
 mob: 			
 profiles:
   facebook:
