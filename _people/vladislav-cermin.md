@@ -12,7 +12,7 @@ category:                       # kategorie: p6, cl
 description:  4. místopředseda MS    # kratký popis, max 160 znaků
 img: 		        people/vladislav-cermin.jpg    # 165 x 220
 mail:
-- 
+- vladislav.cermin@pirati.cz
 mob:			
 profiles:
   facebook:
