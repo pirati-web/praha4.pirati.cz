@@ -13,7 +13,8 @@ category:                       # kategorie: p6, cl
 - can22
 img: 		        people/tereza-nislerova.jpg    # 165 x 220
 description:        Zastupitelka a předsedkyně MS # kratký popis, max 160 znaků
-mail: tereza.nislerova@pirati.cz
+mail:
+- tereza.nislerova@pirati.cz
 mob: 			
 profiles:
   facebook:
