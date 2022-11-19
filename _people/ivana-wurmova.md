@@ -22,6 +22,7 @@ ordpraha: 11
 ordcar: 3
 ordcan: 11
 ordcan22: 4
+ordzast: 4
 carousel:
   img: ivana-wurmova.jpg
   text: |
