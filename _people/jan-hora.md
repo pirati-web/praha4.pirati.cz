@@ -23,7 +23,7 @@ profiles:
   facebook: 
   twitter: 
   flickr:
-ordradni: 2
+ordzast: 2
 ordpraha: 2
 ordcar: 3
 ordcan: 2
