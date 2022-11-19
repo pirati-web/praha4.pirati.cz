@@ -21,7 +21,7 @@ profiles:
   facebook: https://www.facebook.com/tibor.vansa
   twitter: 
   flickr:
-ordradni: 1
+ordzast: 5
 ordpraha: 1
 ordcar: 3
 ordcan: 1
