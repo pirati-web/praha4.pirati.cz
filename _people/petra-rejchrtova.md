@@ -21,7 +21,7 @@ profiles:
 ordpraha: 3
 ordcar: 3
 ordcan: 3
-ordradni: 4
+ordzast: 1
 ordcan22: 3
 carousel:
   img: petra-rejchrtova.jpg
