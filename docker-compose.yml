@@ -1,11 +1,46 @@
-version: '3'
-services:
-  site:
-    command: >
-      bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload --host 0.0.0.0"
-    build: .
-    volumes:
-      - .:/srv/jekyll
-    ports:
-      - 4000:4000
-      - 35729:35729
+# Můj projekt Jekyll
+
+Toto je úžasný projekt postavený s Jekyllem!
+
+## Jak používat
+
+1. **Klonujte tento repozitář**: Spusťte následující příkaz v terminálu, abyste stáhli zdrojový kód projektu do svého počítače:
+
+    ```
+    git clone https://github.com/seuusuario/meu-projeto-jekyll.git
+    ```
+
+2. **Nastavení vývojového prostředí**:
+   - Ujistěte se, že máte nainstalovaný Docker na svém počítači. Můžete jej stáhnout z [docker.com](https://www.docker.com/get-started).
+   - Přejděte do adresáře projektu a vytvořte soubor `docker-compose.yml` s následujícím obsahem:
+
+    ```yaml
+    version: '3'
+    services:
+      site:
+        command: >
+          bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload --host 0.0.0.0"
+        build: .
+        volumes:
+          - .:/srv/jekyll
+        ports:
+          - 4000:4000
+          - 35729:35729
+    ```
+
+3. **Spusťte vývojové prostředí**: V terminálu spusťte následující příkazy uvnitř adresáře projektu:
+
+    ```
+    cd meu-projeto-jekyll
+    docker-compose up
+    ```
+
+    Tím se spustí server Jekyll a můžete si lokálně prohlížet webové stránky na adrese [http://localhost:4000](http://localhost:4000).
+
+4. **Vypnutí vývojového prostředí**: Když skončíte, stiskněte `Ctrl + C` v terminálu, kde je spuštěn Docker Compose, a spusťte následující příkaz pro vypnutí serveru Jekyll a odstranění kontejnerů:
+
+    ```
+    docker-compose down
+    ```
+
+Hotovo! Nyní můžete začít pracovat na svém projektu Jekyll lokálně pomocí Dockeru. Pokud máte nějaké dotazy, neváhejte se zeptat.
